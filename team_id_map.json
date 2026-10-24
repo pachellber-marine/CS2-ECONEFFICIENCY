@@ -1,0 +1,215 @@
+{
+ "matched": {
+  "Vitality": {
+   "id": 667,
+   "slug": "vitality",
+   "name": "Vitality",
+   "rank": 3
+  },
+  "FURIA": {
+   "id": 648,
+   "slug": "furia",
+   "name": "FURIA",
+   "rank": 7
+  },
+  "Falcons": {
+   "id": 2713,
+   "slug": "falcons-esports",
+   "name": "Falcons",
+   "rank": 6
+  },
+  "MOUZ": {
+   "id": 765,
+   "slug": "mouz-cs2",
+   "name": "MOUZ",
+   "rank": 4
+  },
+  "FaZe": {
+   "id": 791,
+   "slug": "faze",
+   "name": "FaZe",
+   "rank": 26
+  },
+  "PARIVISION": {
+   "id": 8171,
+   "slug": "parivision",
+   "name": "PARIVISION",
+   "rank": 36
+  },
+  "Natus Vincere": {
+   "id": 787,
+   "slug": "natus-vincere",
+   "name": "Natus Vincere",
+   "rank": 34
+  },
+  "Spirit": {
+   "id": 654,
+   "slug": "spirit",
+   "name": "Spirit",
+   "rank": 1
+  },
+  "The MongolZ": {
+   "id": 736,
+   "slug": "the-mongolz",
+   "name": "The MongolZ",
+   "rank": 49
+  },
+  "G2": {
+   "id": 793,
+   "slug": "g2",
+   "name": "G2",
+   "rank": 5
+  },
+  "3DMAX": {
+   "id": 696,
+   "slug": "3dmax",
+   "name": "3DMAX",
+   "rank": 21
+  },
+  "Liquid": {
+   "id": 790,
+   "slug": "liquid",
+   "name": "Liquid",
+   "rank": 19
+  },
+  "Aurora": {
+   "id": 3598,
+   "slug": "aurora-gaming",
+   "name": "Aurora",
+   "rank": 9
+  },
+  "Passion UA": {
+   "id": 7631,
+   "slug": "passion-ua",
+   "name": "Passion UA",
+   "rank": 222
+  },
+  "paiN": {
+   "id": 637,
+   "slug": "pain-gaming",
+   "name": "paiN",
+   "rank": 54
+  },
+  "B8": {
+   "id": 1539,
+   "slug": "b8",
+   "name": "B8",
+   "rank": 13
+  },
+  "Astralis": {
+   "id": 794,
+   "slug": "astralis",
+   "name": "Astralis",
+   "rank": 10
+  },
+  "GamerLegion": {
+   "id": 594,
+   "slug": "gamerlegion",
+   "name": "GamerLegion",
+   "rank": 27
+  },
+  "HEROIC": {
+   "id": 759,
+   "slug": "heroic",
+   "name": "HEROIC",
+   "rank": 15
+  },
+  "Legacy": {
+   "id": 8118,
+   "slug": "legacy-br",
+   "name": "Legacy",
+   "rank": 2
+  },
+  "FUT": {
+   "id": 20832,
+   "slug": "fut-cs2",
+   "name": "FUT",
+   "rank": 8
+  },
+  "NRG": {
+   "id": 751,
+   "slug": "nrg",
+   "name": "NRG",
+   "rank": 47
+  },
+  "Gentle Mates": {
+   "id": 21396,
+   "slug": "gentle-mates-cs",
+   "name": "Gentle Mates",
+   "rank": null
+  },
+  "9z": {
+   "id": 324,
+   "slug": "9z",
+   "name": "9z",
+   "rank": 17
+  },
+  "Monte": {
+   "id": 3581,
+   "slug": "monte",
+   "name": "Monte",
+   "rank": null
+  },
+  "BETBOOM": {
+   "id": 7498,
+   "slug": "betboom-team",
+   "name": "BetBoom",
+   "rank": 11
+  },
+  "TYLOO": {
+   "id": 757,
+   "slug": "tyloo-cs-go",
+   "name": "TYLOO",
+   "rank": 44
+  },
+  "Alliance": {
+   "id": 8221,
+   "slug": "alliance-cs",
+   "name": "Alliance",
+   "rank": 24
+  },
+  "M80": {
+   "id": 7430,
+   "slug": "m80-cs-go",
+   "name": "M80",
+   "rank": 22
+  },
+  "MIBR": {
+   "id": 755,
+   "slug": "mibr",
+   "name": "MIBR",
+   "rank": 12
+  },
+  "magic": {
+   "id": 3757,
+   "slug": "magic",
+   "name": "maGic",
+   "rank": null
+  },
+  "BIG": {
+   "id": 756,
+   "slug": "big",
+   "name": "BIG",
+   "rank": 25
+  },
+  "1win": {
+   "id": 238,
+   "slug": "1win",
+   "name": "1win",
+   "rank": 38
+  },
+  "Ninjas in Pyjamas": {
+   "id": 785,
+   "slug": "nip",
+   "name": "Ninjas in Pyjamas",
+   "rank": 18
+  },
+  "Imperial": {
+   "id": 1430,
+   "slug": "imperial",
+   "name": "Imperial",
+   "rank": 52
+  }
+ },
+ "unmatched": []
+}

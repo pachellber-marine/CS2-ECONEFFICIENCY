@@ -1,0 +1,2837 @@
+[
+ {
+  "nick": "ZywOo",
+  "hltv_id": 11893,
+  "rating30": 1.37,
+  "dims": {
+   "Firepower": 92,
+   "Entrying": 60,
+   "Trading": 60,
+   "Opening": 62,
+   "Closing": 56,
+   "Sniping": 87,
+   "Utility": 45
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "ropz",
+  "hltv_id": 11816,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 21,
+   "Trading": 71,
+   "Opening": 29,
+   "Closing": 72,
+   "Sniping": 11,
+   "Utility": 21
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "jL",
+  "hltv_id": 19206,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 54,
+   "Entrying": 79,
+   "Trading": 67,
+   "Opening": 18,
+   "Closing": 58,
+   "Sniping": 0,
+   "Utility": 37
+  },
+  "window": "Past 3 months • 14 maps"
+ },
+ {
+  "nick": "flameZ",
+  "hltv_id": 16693,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 67,
+   "Entrying": 96,
+   "Trading": 38,
+   "Opening": 79,
+   "Closing": 32,
+   "Sniping": 0,
+   "Utility": 70
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "mezii",
+  "hltv_id": 18462,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 37,
+   "Trading": 68,
+   "Opening": 11,
+   "Closing": 77,
+   "Sniping": 0,
+   "Utility": 49
+  },
+  "window": "Past 3 months • 42 maps"
+ },
+ {
+  "nick": "KSCERATO",
+  "hltv_id": 15631,
+  "rating30": 1.23,
+  "dims": {
+   "Firepower": 82,
+   "Entrying": 30,
+   "Trading": 62,
+   "Opening": 44,
+   "Closing": 82,
+   "Sniping": 4,
+   "Utility": 74
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "apEX",
+  "hltv_id": 7322,
+  "rating30": 0.92,
+  "dims": {
+   "Firepower": 54,
+   "Entrying": 42,
+   "Trading": 65,
+   "Opening": 52,
+   "Closing": 50,
+   "Sniping": 3,
+   "Utility": 39
+  },
+  "window": "Past 3 months • 56 maps"
+ },
+ {
+  "nick": "FalleN",
+  "hltv_id": 2023,
+  "rating30": 0.9,
+  "dims": {
+   "Firepower": 41,
+   "Entrying": 61,
+   "Trading": 40,
+   "Opening": 33,
+   "Closing": 55,
+   "Sniping": 27,
+   "Utility": 71
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "yuurih",
+  "hltv_id": 12553,
+  "rating30": 0.97,
+  "dims": {
+   "Firepower": 28,
+   "Entrying": 41,
+   "Trading": 70,
+   "Opening": 12,
+   "Closing": 77,
+   "Sniping": 1,
+   "Utility": 69
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "YEKINDAR",
+  "hltv_id": 13915,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 62,
+   "Entrying": 45,
+   "Trading": 19,
+   "Opening": 86,
+   "Closing": 18,
+   "Sniping": 2,
+   "Utility": 60
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "molodoy",
+  "hltv_id": 24144,
+  "rating30": 1.1,
+  "dims": {
+   "Firepower": 65,
+   "Entrying": 32,
+   "Trading": 56,
+   "Opening": 58,
+   "Closing": 60,
+   "Sniping": 91,
+   "Utility": 51
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "NiKo",
+  "hltv_id": 3741,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 39,
+   "Trading": 65,
+   "Opening": 41,
+   "Closing": 67,
+   "Sniping": 0,
+   "Utility": 69
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "m0NESY",
+  "hltv_id": 19230,
+  "rating30": 1.34,
+  "dims": {
+   "Firepower": 89,
+   "Entrying": 60,
+   "Trading": 44,
+   "Opening": 63,
+   "Closing": 70,
+   "Sniping": 93,
+   "Utility": 65
+  },
+  "window": "Past 3 months • 43 maps"
+ },
+ {
+  "nick": "TeSeS",
+  "hltv_id": 12018,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 36,
+   "Entrying": 54,
+   "Trading": 75,
+   "Opening": 15,
+   "Closing": 84,
+   "Sniping": 0,
+   "Utility": 76
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "kyousuke",
+  "hltv_id": 24177,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 72,
+   "Entrying": 73,
+   "Trading": 84,
+   "Opening": 73,
+   "Closing": 19,
+   "Sniping": 8,
+   "Utility": 19
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "kyxsan",
+  "hltv_id": 19677,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 37,
+   "Entrying": 89,
+   "Trading": 31,
+   "Opening": 49,
+   "Closing": 46,
+   "Sniping": 2,
+   "Utility": 65
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Jimpphat",
+  "hltv_id": 18850,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 29,
+   "Trading": 71,
+   "Opening": 15,
+   "Closing": 80,
+   "Sniping": 2,
+   "Utility": 44
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "xertioN",
+  "hltv_id": 20312,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 88,
+   "Entrying": 78,
+   "Trading": 32,
+   "Opening": 90,
+   "Closing": 27,
+   "Sniping": 1,
+   "Utility": 52
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "torzsi",
+  "hltv_id": 18072,
+  "rating30": 1.1,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 49,
+   "Trading": 64,
+   "Opening": 23,
+   "Closing": 67,
+   "Sniping": 92,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "xelex",
+  "hltv_id": 24457,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 63,
+   "Entrying": 72,
+   "Trading": 67,
+   "Opening": 57,
+   "Closing": 37,
+   "Sniping": 0,
+   "Utility": 50
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Spinx",
+  "hltv_id": 18221,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 73,
+   "Entrying": 35,
+   "Trading": 67,
+   "Opening": 37,
+   "Closing": 77,
+   "Sniping": 0,
+   "Utility": 32
+  },
+  "window": "Past 3 months • 59 maps"
+ },
+ {
+  "nick": "PR",
+  "hltv_id": 22279,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 46,
+   "Entrying": 46,
+   "Trading": 47,
+   "Opening": 32,
+   "Closing": 56,
+   "Sniping": 4,
+   "Utility": 54
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "HUASOPEEK",
+  "hltv_id": 22613,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 81,
+   "Trading": 39,
+   "Opening": 61,
+   "Closing": 42,
+   "Sniping": 0,
+   "Utility": 43
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Brollan",
+  "hltv_id": 13666,
+  "rating30": 1.17,
+  "dims": {
+   "Firepower": 75,
+   "Entrying": 54,
+   "Trading": 55,
+   "Opening": 71,
+   "Closing": 44,
+   "Sniping": 3,
+   "Utility": 69
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "jcobbb",
+  "hltv_id": 22383,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 55,
+   "Entrying": 72,
+   "Trading": 78,
+   "Opening": 72,
+   "Closing": 38,
+   "Sniping": 0,
+   "Utility": 25
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Neityu",
+  "hltv_id": 21972,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 31,
+   "Entrying": 74,
+   "Trading": 67,
+   "Opening": 23,
+   "Closing": 58,
+   "Sniping": 1,
+   "Utility": 72
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "meyern",
+  "hltv_id": 14737,
+  "rating30": 0.94,
+  "dims": {
+   "Firepower": 20,
+   "Entrying": 53,
+   "Trading": 95,
+   "Opening": 7,
+   "Closing": 65,
+   "Sniping": 90,
+   "Utility": 49
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Twistzz",
+  "hltv_id": 10394,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 91,
+   "Entrying": 71,
+   "Trading": 67,
+   "Opening": 68,
+   "Closing": 59,
+   "Sniping": 6,
+   "Utility": 81
+  },
+  "window": "Past 3 months • 48 maps"
+ },
+ {
+  "nick": "max",
+  "hltv_id": 12092,
+  "rating30": 0.84,
+  "dims": {
+   "Firepower": 26,
+   "Entrying": 44,
+   "Trading": 60,
+   "Opening": 26,
+   "Closing": 59,
+   "Sniping": 2,
+   "Utility": 44
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "frozen",
+  "hltv_id": 9960,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 67,
+   "Trading": 77,
+   "Opening": 41,
+   "Closing": 56,
+   "Sniping": 4,
+   "Utility": 30
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "JBOEN",
+  "hltv_id": 22866,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 46,
+   "Trading": 47,
+   "Opening": 42,
+   "Closing": 69,
+   "Sniping": 92,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "BELCHONOKK",
+  "hltv_id": 19235,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 77,
+   "Trading": 53,
+   "Opening": 80,
+   "Closing": 36,
+   "Sniping": 1,
+   "Utility": 45
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nota",
+  "hltv_id": 22929,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 63,
+   "Entrying": 51,
+   "Trading": 65,
+   "Opening": 57,
+   "Closing": 44,
+   "Sniping": 13,
+   "Utility": 23
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Jame",
+  "hltv_id": 13776,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 30,
+   "Entrying": 28,
+   "Trading": 33,
+   "Opening": 9,
+   "Closing": 89,
+   "Sniping": 93,
+   "Utility": 78
+  },
+  "window": "Past 3 months • 43 maps"
+ },
+ {
+  "nick": "zweih",
+  "hltv_id": 23685,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 38,
+   "Entrying": 43,
+   "Trading": 47,
+   "Opening": 25,
+   "Closing": 71,
+   "Sniping": 9,
+   "Utility": 57
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "FL1T",
+  "hltv_id": 12732,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 39,
+   "Entrying": 31,
+   "Trading": 56,
+   "Opening": 62,
+   "Closing": 59,
+   "Sniping": 1,
+   "Utility": 52
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "xiELO",
+  "hltv_id": 22471,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 69,
+   "Entrying": 66,
+   "Trading": 52,
+   "Opening": 74,
+   "Closing": 43,
+   "Sniping": 1,
+   "Utility": 27
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "makazze",
+  "hltv_id": 22673,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 57,
+   "Entrying": 57,
+   "Trading": 25,
+   "Opening": 87,
+   "Closing": 30,
+   "Sniping": 2,
+   "Utility": 44
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "b1t",
+  "hltv_id": 18987,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 59,
+   "Trading": 70,
+   "Opening": 30,
+   "Closing": 54,
+   "Sniping": 6,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "w0nderful",
+  "hltv_id": 20127,
+  "rating30": 1.14,
+  "dims": {
+   "Firepower": 70,
+   "Entrying": 47,
+   "Trading": 89,
+   "Opening": 39,
+   "Closing": 74,
+   "Sniping": 89,
+   "Utility": 56
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "HObbit",
+  "hltv_id": 8528,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 25,
+   "Entrying": 25,
+   "Trading": 45,
+   "Opening": 40,
+   "Closing": 69,
+   "Sniping": 0,
+   "Utility": 58
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "iM",
+  "hltv_id": 14759,
+  "rating30": 1.01,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 76,
+   "Trading": 48,
+   "Opening": 69,
+   "Closing": 32,
+   "Sniping": 0,
+   "Utility": 40
+  },
+  "window": "Past 3 months • 31 maps"
+ },
+ {
+  "nick": "zont1x",
+  "hltv_id": 20423,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 32,
+   "Entrying": 57,
+   "Trading": 41,
+   "Opening": 33,
+   "Closing": 56,
+   "Sniping": 0,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Aleksib",
+  "hltv_id": 9816,
+  "rating30": 0.89,
+  "dims": {
+   "Firepower": 16,
+   "Entrying": 51,
+   "Trading": 83,
+   "Opening": 6,
+   "Closing": 83,
+   "Sniping": 0,
+   "Utility": 79
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "tN1R",
+  "hltv_id": 19808,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 54,
+   "Entrying": 38,
+   "Trading": 53,
+   "Opening": 31,
+   "Closing": 52,
+   "Sniping": 3,
+   "Utility": 56
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "donk",
+  "hltv_id": 21167,
+  "rating30": 1.37,
+  "dims": {
+   "Firepower": 98,
+   "Entrying": 62,
+   "Trading": 73,
+   "Opening": 89,
+   "Closing": 29,
+   "Sniping": 1,
+   "Utility": 36
+  },
+  "window": "Past 3 months • 63 maps"
+ },
+ {
+  "nick": "mzinho",
+  "hltv_id": 21001,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 57,
+   "Entrying": 60,
+   "Trading": 67,
+   "Opening": 33,
+   "Closing": 52,
+   "Sniping": 1,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "magixx",
+  "hltv_id": 18317,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 47,
+   "Entrying": 55,
+   "Trading": 38,
+   "Opening": 31,
+   "Closing": 69,
+   "Sniping": 3,
+   "Utility": 82
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "bLitz",
+  "hltv_id": 20194,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 91,
+   "Entrying": 44,
+   "Trading": 59,
+   "Opening": 83,
+   "Closing": 37,
+   "Sniping": 6,
+   "Utility": 65
+  },
+  "window": "Past 3 months • 35 maps"
+ },
+ {
+  "nick": "910",
+  "hltv_id": 21809,
+  "rating30": 1.23,
+  "dims": {
+   "Firepower": 82,
+   "Entrying": 31,
+   "Trading": 30,
+   "Opening": 66,
+   "Closing": 42,
+   "Sniping": 93,
+   "Utility": 58
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Techno4K",
+  "hltv_id": 20275,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 23,
+   "Entrying": 53,
+   "Trading": 31,
+   "Opening": 24,
+   "Closing": 54,
+   "Sniping": 2,
+   "Utility": 50
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "cobrazera",
+  "hltv_id": 23402,
+  "rating30": 1.14,
+  "dims": {
+   "Firepower": 68,
+   "Entrying": 35,
+   "Trading": 59,
+   "Opening": 39,
+   "Closing": 57,
+   "Sniping": 5,
+   "Utility": 43
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "malbsMd",
+  "hltv_id": 11617,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 79,
+   "Trading": 42,
+   "Opening": 74,
+   "Closing": 19,
+   "Sniping": 0,
+   "Utility": 47
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "MATYS",
+  "hltv_id": 21062,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 40,
+   "Entrying": 63,
+   "Trading": 61,
+   "Opening": 43,
+   "Closing": 40,
+   "Sniping": 1,
+   "Utility": 51
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Nertz",
+  "hltv_id": 9436,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 75,
+   "Entrying": 36,
+   "Trading": 44,
+   "Opening": 85,
+   "Closing": 52,
+   "Sniping": 3,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "r1nkle",
+  "hltv_id": 20425,
+  "rating30": 0.98,
+  "dims": {
+   "Firepower": 33,
+   "Entrying": 31,
+   "Trading": 54,
+   "Opening": 22,
+   "Closing": 57,
+   "Sniping": 92,
+   "Utility": 68
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "huNter-",
+  "hltv_id": 3972,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 63,
+   "Entrying": 60,
+   "Trading": 66,
+   "Opening": 42,
+   "Closing": 62,
+   "Sniping": 3,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "HeavyGod",
+  "hltv_id": 20447,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 55,
+   "Entrying": 21,
+   "Trading": 28,
+   "Opening": 30,
+   "Closing": 83,
+   "Sniping": 7,
+   "Utility": 71
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "misutaaa",
+  "hltv_id": 14176,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 49,
+   "Entrying": 67,
+   "Trading": 64,
+   "Opening": 26,
+   "Closing": 48,
+   "Sniping": 2,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Graviti",
+  "hltv_id": 21969,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 37,
+   "Entrying": 75,
+   "Trading": 65,
+   "Opening": 70,
+   "Closing": 30,
+   "Sniping": 0,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Ex3rcice",
+  "hltv_id": 19739,
+  "rating30": 0.98,
+  "dims": {
+   "Firepower": 37,
+   "Entrying": 65,
+   "Trading": 57,
+   "Opening": 31,
+   "Closing": 47,
+   "Sniping": 2,
+   "Utility": 28
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Maka",
+  "hltv_id": 13138,
+  "rating30": 1.14,
+  "dims": {
+   "Firepower": 59,
+   "Entrying": 65,
+   "Trading": 42,
+   "Opening": 54,
+   "Closing": 59,
+   "Sniping": 86,
+   "Utility": 99
+  },
+  "window": "Past 3 months • 70 maps"
+ },
+ {
+  "nick": "EliGE",
+  "hltv_id": 8738,
+  "rating30": 1.23,
+  "dims": {
+   "Firepower": 89,
+   "Entrying": 65,
+   "Trading": 79,
+   "Opening": 90,
+   "Closing": 32,
+   "Sniping": 5,
+   "Utility": 43
+  },
+  "window": "Past 3 months • 66 maps"
+ },
+ {
+  "nick": "JT",
+  "hltv_id": 11630,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 48,
+   "Entrying": 73,
+   "Trading": 64,
+   "Opening": 47,
+   "Closing": 51,
+   "Sniping": 0,
+   "Utility": 45
+  },
+  "window": "Past 3 months • 66 maps"
+ },
+ {
+  "nick": "Krimbo",
+  "hltv_id": 19899,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 74,
+   "Entrying": 26,
+   "Trading": 63,
+   "Opening": 31,
+   "Closing": 70,
+   "Sniping": 3,
+   "Utility": 68
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "siuhy",
+  "hltv_id": 16820,
+  "rating30": 0.86,
+  "dims": {
+   "Firepower": 15,
+   "Entrying": 53,
+   "Trading": 44,
+   "Opening": 48,
+   "Closing": 22,
+   "Sniping": 0,
+   "Utility": 68
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "NAF",
+  "hltv_id": 8520,
+  "rating30": 1.14,
+  "dims": {
+   "Firepower": 64,
+   "Entrying": 26,
+   "Trading": 55,
+   "Opening": 27,
+   "Closing": 76,
+   "Sniping": 14,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Jorko",
+  "hltv_id": 24203,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 52,
+   "Entrying": 56,
+   "Trading": 57,
+   "Opening": 43,
+   "Closing": 39,
+   "Sniping": 90,
+   "Utility": 47
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "XANTARES",
+  "hltv_id": 7938,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 62,
+   "Entrying": 48,
+   "Trading": 42,
+   "Opening": 81,
+   "Closing": 31,
+   "Sniping": 2,
+   "Utility": 28
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "ultimate",
+  "hltv_id": 21763,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 40,
+   "Trading": 28,
+   "Opening": 65,
+   "Closing": 35,
+   "Sniping": 90,
+   "Utility": 29
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "woxic",
+  "hltv_id": 8574,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 48,
+   "Entrying": 42,
+   "Trading": 55,
+   "Opening": 36,
+   "Closing": 55,
+   "Sniping": 94,
+   "Utility": 40
+  },
+  "window": "Past 3 months • 64 maps"
+ },
+ {
+  "nick": "Wicadia",
+  "hltv_id": 21243,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 81,
+   "Entrying": 26,
+   "Trading": 53,
+   "Opening": 51,
+   "Closing": 58,
+   "Sniping": 24,
+   "Utility": 35
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Senzu",
+  "hltv_id": 20903,
+  "rating30": 1.22,
+  "dims": {
+   "Firepower": 89,
+   "Entrying": 65,
+   "Trading": 70,
+   "Opening": 82,
+   "Closing": 56,
+   "Sniping": 6,
+   "Utility": 37
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nicx",
+  "hltv_id": 21620,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 70,
+   "Entrying": 64,
+   "Trading": 60,
+   "Opening": 54,
+   "Closing": 43,
+   "Sniping": 3,
+   "Utility": 34
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Grim",
+  "hltv_id": 13578,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 86,
+   "Trading": 67,
+   "Opening": 84,
+   "Closing": 11,
+   "Sniping": 1,
+   "Utility": 42
+  },
+  "window": "Past 3 months • 52 maps"
+ },
+ {
+  "nick": "soulfly",
+  "hltv_id": 20968,
+  "rating30": 1.17,
+  "dims": {
+   "Firepower": 74,
+   "Entrying": 61,
+   "Trading": 39,
+   "Opening": 58,
+   "Closing": 45,
+   "Sniping": 2,
+   "Utility": 42
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Kvem",
+  "hltv_id": 21452,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 80,
+   "Entrying": 62,
+   "Trading": 42,
+   "Opening": 87,
+   "Closing": 22,
+   "Sniping": 14,
+   "Utility": 34
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "hallzerk",
+  "hltv_id": 12840,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 62,
+   "Entrying": 69,
+   "Trading": 69,
+   "Opening": 48,
+   "Closing": 40,
+   "Sniping": 86,
+   "Utility": 70
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "biguzera",
+  "hltv_id": 18141,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 77,
+   "Entrying": 44,
+   "Trading": 63,
+   "Opening": 77,
+   "Closing": 62,
+   "Sniping": 10,
+   "Utility": 41
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "try",
+  "hltv_id": 19869,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 65,
+   "Entrying": 52,
+   "Trading": 40,
+   "Opening": 54,
+   "Closing": 53,
+   "Sniping": 92,
+   "Utility": 60
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "piriajr",
+  "hltv_id": 18714,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 26,
+   "Entrying": 19,
+   "Trading": 40,
+   "Opening": 29,
+   "Closing": 54,
+   "Sniping": 26,
+   "Utility": 37
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nqz",
+  "hltv_id": 19694,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 48,
+   "Entrying": 45,
+   "Trading": 75,
+   "Opening": 23,
+   "Closing": 79,
+   "Sniping": 89,
+   "Utility": 63
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "saffee",
+  "hltv_id": 18835,
+  "rating30": 0.97,
+  "dims": {
+   "Firepower": 34,
+   "Entrying": 40,
+   "Trading": 33,
+   "Opening": 51,
+   "Closing": 34,
+   "Sniping": 93,
+   "Utility": 63
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "alex666",
+  "hltv_id": 20112,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 46,
+   "Entrying": 83,
+   "Trading": 52,
+   "Opening": 43,
+   "Closing": 49,
+   "Sniping": 2,
+   "Utility": 33
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "snow",
+  "hltv_id": 20171,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 52,
+   "Trading": 59,
+   "Opening": 50,
+   "Closing": 56,
+   "Sniping": 2,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "esenthial",
+  "hltv_id": 23643,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 68,
+   "Entrying": 71,
+   "Trading": 72,
+   "Opening": 32,
+   "Closing": 70,
+   "Sniping": 3,
+   "Utility": 39
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "npl",
+  "hltv_id": 21708,
+  "rating30": 1.16,
+  "dims": {
+   "Firepower": 84,
+   "Entrying": 58,
+   "Trading": 82,
+   "Opening": 64,
+   "Closing": 38,
+   "Sniping": 0,
+   "Utility": 44
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "s1zzi",
+  "hltv_id": 25619,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 53,
+   "Trading": 48,
+   "Opening": 56,
+   "Closing": 59,
+   "Sniping": 92,
+   "Utility": 35
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "ryu",
+  "hltv_id": 21217,
+  "rating30": 1.16,
+  "dims": {
+   "Firepower": 76,
+   "Entrying": 64,
+   "Trading": 76,
+   "Opening": 52,
+   "Closing": 59,
+   "Sniping": 0,
+   "Utility": 41
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "kensizor",
+  "hltv_id": 22842,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 69,
+   "Entrying": 62,
+   "Trading": 72,
+   "Opening": 61,
+   "Closing": 50,
+   "Sniping": 1,
+   "Utility": 19
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "vsm",
+  "hltv_id": 16816,
+  "rating30": 0.98,
+  "dims": {
+   "Firepower": 40,
+   "Entrying": 36,
+   "Trading": 52,
+   "Opening": 47,
+   "Closing": 30,
+   "Sniping": 1,
+   "Utility": 38
+  },
+  "window": "Past 3 months • 21 maps"
+ },
+ {
+  "nick": "HooXi",
+  "hltv_id": 10096,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 23,
+   "Entrying": 69,
+   "Trading": 39,
+   "Opening": 23,
+   "Closing": 68,
+   "Sniping": 3,
+   "Utility": 95
+  },
+  "window": "Past 3 months • 57 maps"
+ },
+ {
+  "nick": "cmtry",
+  "hltv_id": 22674,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 41,
+   "Entrying": 54,
+   "Trading": 82,
+   "Opening": 18,
+   "Closing": 75,
+   "Sniping": 82,
+   "Utility": 73
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "phzy",
+  "hltv_id": 16726,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 55,
+   "Entrying": 56,
+   "Trading": 46,
+   "Opening": 46,
+   "Closing": 61,
+   "Sniping": 93,
+   "Utility": 79
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "hypex",
+  "hltv_id": 23766,
+  "rating30": 0.99,
+  "dims": {
+   "Firepower": 25,
+   "Entrying": 40,
+   "Trading": 68,
+   "Opening": 8,
+   "Closing": 72,
+   "Sniping": 92,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "REZ",
+  "hltv_id": 9278,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 64,
+   "Entrying": 28,
+   "Trading": 60,
+   "Opening": 55,
+   "Closing": 54,
+   "Sniping": 2,
+   "Utility": 60
+  },
+  "window": "Past 3 months • 42 maps"
+ },
+ {
+  "nick": "Tauson",
+  "hltv_id": 20301,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 37,
+   "Trading": 44,
+   "Opening": 36,
+   "Closing": 67,
+   "Sniping": 2,
+   "Utility": 51
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Staehr",
+  "hltv_id": 20304,
+  "rating30": 1.19,
+  "dims": {
+   "Firepower": 76,
+   "Entrying": 71,
+   "Trading": 69,
+   "Opening": 83,
+   "Closing": 47,
+   "Sniping": 1,
+   "Utility": 61
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Snax",
+  "hltv_id": 2553,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 39,
+   "Entrying": 52,
+   "Trading": 26,
+   "Opening": 70,
+   "Closing": 42,
+   "Sniping": 10,
+   "Utility": 78
+  },
+  "window": "Past 3 months • 42 maps"
+ },
+ {
+  "nick": "FL4MUS",
+  "hltv_id": 20994,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 81,
+   "Entrying": 40,
+   "Trading": 31,
+   "Opening": 83,
+   "Closing": 29,
+   "Sniping": 2,
+   "Utility": 46
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "jabbi",
+  "hltv_id": 17956,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 68,
+   "Entrying": 45,
+   "Trading": 68,
+   "Opening": 34,
+   "Closing": 61,
+   "Sniping": 7,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Chr1zN",
+  "hltv_id": 21983,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 80,
+   "Entrying": 62,
+   "Trading": 53,
+   "Opening": 57,
+   "Closing": 46,
+   "Sniping": 2,
+   "Utility": 67
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "yxngstxr",
+  "hltv_id": 22047,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 74,
+   "Entrying": 70,
+   "Trading": 82,
+   "Opening": 33,
+   "Closing": 45,
+   "Sniping": 2,
+   "Utility": 44
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nilo",
+  "hltv_id": 20119,
+  "rating30": 1.17,
+  "dims": {
+   "Firepower": 85,
+   "Entrying": 62,
+   "Trading": 82,
+   "Opening": 38,
+   "Closing": 52,
+   "Sniping": 1,
+   "Utility": 12
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "susp",
+  "hltv_id": 21163,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 52,
+   "Entrying": 69,
+   "Trading": 63,
+   "Opening": 65,
+   "Closing": 30,
+   "Sniping": 0,
+   "Utility": 39
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "MartinezSa",
+  "hltv_id": 21239,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 55,
+   "Trading": 37,
+   "Opening": 26,
+   "Closing": 79,
+   "Sniping": 92,
+   "Utility": 52
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "xfl0ud",
+  "hltv_id": 19187,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 93,
+   "Trading": 74,
+   "Opening": 88,
+   "Closing": 20,
+   "Sniping": 2,
+   "Utility": 27
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "saadzin",
+  "hltv_id": 22965,
+  "rating30": 1.18,
+  "dims": {
+   "Firepower": 66,
+   "Entrying": 43,
+   "Trading": 60,
+   "Opening": 24,
+   "Closing": 87,
+   "Sniping": 93,
+   "Utility": 66
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "arT",
+  "hltv_id": 12521,
+  "rating30": 0.86,
+  "dims": {
+   "Firepower": 29,
+   "Entrying": 60,
+   "Trading": 36,
+   "Opening": 64,
+   "Closing": 43,
+   "Sniping": 21,
+   "Utility": 42
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "n1ssim",
+  "hltv_id": 19686,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 50,
+   "Entrying": 20,
+   "Trading": 35,
+   "Opening": 13,
+   "Closing": 74,
+   "Sniping": 5,
+   "Utility": 51
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "dumau",
+  "hltv_id": 15698,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 66,
+   "Entrying": 50,
+   "Trading": 55,
+   "Opening": 85,
+   "Closing": 27,
+   "Sniping": 2,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Krabeni",
+  "hltv_id": 22203,
+  "rating30": 1.03,
+  "dims": {
+   "Firepower": 75,
+   "Entrying": 51,
+   "Trading": 41,
+   "Opening": 87,
+   "Closing": 34,
+   "Sniping": 5,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "latto",
+  "hltv_id": 19045,
+  "rating30": 1.18,
+  "dims": {
+   "Firepower": 78,
+   "Entrying": 29,
+   "Trading": 61,
+   "Opening": 34,
+   "Closing": 79,
+   "Sniping": 1,
+   "Utility": 78
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "dziugss",
+  "hltv_id": 23553,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 43,
+   "Entrying": 85,
+   "Trading": 73,
+   "Opening": 41,
+   "Closing": 51,
+   "Sniping": 0,
+   "Utility": 48
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nitr0",
+  "hltv_id": 7687,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 68,
+   "Entrying": 77,
+   "Trading": 75,
+   "Opening": 24,
+   "Closing": 71,
+   "Sniping": 5,
+   "Utility": 58
+  },
+  "window": "Past 3 months • 52 maps"
+ },
+ {
+  "nick": "oSee",
+  "hltv_id": 13249,
+  "rating30": 1.31,
+  "dims": {
+   "Firepower": 85,
+   "Entrying": 72,
+   "Trading": 66,
+   "Opening": 47,
+   "Closing": 34,
+   "Sniping": 77,
+   "Utility": 59
+  },
+  "window": "Past 3 months • 5 maps"
+ },
+ {
+  "nick": "Jeorge",
+  "hltv_id": 20333,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 49,
+   "Entrying": 55,
+   "Trading": 77,
+   "Opening": 47,
+   "Closing": 52,
+   "Sniping": 1,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "br0",
+  "hltv_id": 16717,
+  "rating30": 0.85,
+  "dims": {
+   "Firepower": 15,
+   "Entrying": 35,
+   "Trading": 55,
+   "Opening": 16,
+   "Closing": 41,
+   "Sniping": 3,
+   "Utility": 60
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "dav1g",
+  "hltv_id": 19509,
+  "rating30": 1.03,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 61,
+   "Trading": 77,
+   "Opening": 47,
+   "Closing": 67,
+   "Sniping": 67,
+   "Utility": 45
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "sausol",
+  "hltv_id": 18749,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 62,
+   "Entrying": 41,
+   "Trading": 52,
+   "Opening": 48,
+   "Closing": 52,
+   "Sniping": 3,
+   "Utility": 32
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "mopoz",
+  "hltv_id": 9254,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 60,
+   "Entrying": 60,
+   "Trading": 44,
+   "Opening": 50,
+   "Closing": 53,
+   "Sniping": 6,
+   "Utility": 71
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "luchov",
+  "hltv_id": 20394,
+  "rating30": 0.97,
+  "dims": {
+   "Firepower": 44,
+   "Entrying": 72,
+   "Trading": 56,
+   "Opening": 75,
+   "Closing": 32,
+   "Sniping": 1,
+   "Utility": 45
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "dgt",
+  "hltv_id": 14736,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 60,
+   "Entrying": 26,
+   "Trading": 63,
+   "Opening": 58,
+   "Closing": 73,
+   "Sniping": 2,
+   "Utility": 16
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Gizmy",
+  "hltv_id": 21816,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 68,
+   "Entrying": 74,
+   "Trading": 56,
+   "Opening": 49,
+   "Closing": 56,
+   "Sniping": 6,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "AZUWU",
+  "hltv_id": 22106,
+  "rating30": 0.97,
+  "dims": {
+   "Firepower": 45,
+   "Entrying": 89,
+   "Trading": 55,
+   "Opening": 83,
+   "Closing": 12,
+   "Sniping": 0,
+   "Utility": 38
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Bymas",
+  "hltv_id": 19015,
+  "rating30": 0.83,
+  "dims": {
+   "Firepower": 4,
+   "Entrying": 75,
+   "Trading": 96,
+   "Opening": 31,
+   "Closing": 66,
+   "Sniping": 0,
+   "Utility": 48
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Rainwaker",
+  "hltv_id": 17145,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 28,
+   "Trading": 36,
+   "Opening": 24,
+   "Closing": 61,
+   "Sniping": 3,
+   "Utility": 34
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "afro",
+  "hltv_id": 19926,
+  "rating30": 1.15,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 26,
+   "Trading": 65,
+   "Opening": 35,
+   "Closing": 74,
+   "Sniping": 93,
+   "Utility": 81
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Magnojez",
+  "hltv_id": 21667,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 37,
+   "Trading": 32,
+   "Opening": 85,
+   "Closing": 30,
+   "Sniping": 18,
+   "Utility": 73
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "s1ren",
+  "hltv_id": 18506,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 78,
+   "Trading": 66,
+   "Opening": 20,
+   "Closing": 69,
+   "Sniping": 0,
+   "Utility": 40
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Boombl4",
+  "hltv_id": 11840,
+  "rating30": 0.92,
+  "dims": {
+   "Firepower": 33,
+   "Entrying": 49,
+   "Trading": 75,
+   "Opening": 67,
+   "Closing": 50,
+   "Sniping": 2,
+   "Utility": 63
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "d1Ledez",
+  "hltv_id": 20357,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 73,
+   "Trading": 74,
+   "Opening": 39,
+   "Closing": 60,
+   "Sniping": 1,
+   "Utility": 60
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "zorte",
+  "hltv_id": 15662,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 38,
+   "Entrying": 45,
+   "Trading": 72,
+   "Opening": 36,
+   "Closing": 50,
+   "Sniping": 92,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Mercury",
+  "hltv_id": 20895,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 75,
+   "Entrying": 77,
+   "Trading": 46,
+   "Opening": 33,
+   "Closing": 70,
+   "Sniping": 1,
+   "Utility": 37
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Artfr0st",
+  "hltv_id": 21348,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 46,
+   "Entrying": 24,
+   "Trading": 77,
+   "Opening": 9,
+   "Closing": 91,
+   "Sniping": 94,
+   "Utility": 64
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Jee",
+  "hltv_id": 20702,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 37,
+   "Trading": 63,
+   "Opening": 25,
+   "Closing": 73,
+   "Sniping": 90,
+   "Utility": 73
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "JamYoung",
+  "hltv_id": 19645,
+  "rating30": 1.27,
+  "dims": {
+   "Firepower": 86,
+   "Entrying": 50,
+   "Trading": 72,
+   "Opening": 67,
+   "Closing": 57,
+   "Sniping": 0,
+   "Utility": 60
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "twist",
+  "hltv_id": 7443,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 43,
+   "Entrying": 58,
+   "Trading": 67,
+   "Opening": 37,
+   "Closing": 63,
+   "Sniping": 9,
+   "Utility": 58
+  },
+  "window": "Past 3 months • 26 maps"
+ },
+ {
+  "nick": "Moseyuh",
+  "hltv_id": 21621,
+  "rating30": 0.97,
+  "dims": {
+   "Firepower": 39,
+   "Entrying": 68,
+   "Trading": 76,
+   "Opening": 46,
+   "Closing": 55,
+   "Sniping": 1,
+   "Utility": 18
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Avid",
+  "hltv_id": 22860,
+  "rating30": 0.88,
+  "dims": {
+   "Firepower": 21,
+   "Entrying": 69,
+   "Trading": 94,
+   "Opening": 43,
+   "Closing": 41,
+   "Sniping": 1,
+   "Utility": 32
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "MaiL09",
+  "hltv_id": 24083,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 70,
+   "Entrying": 67,
+   "Trading": 62,
+   "Opening": 32,
+   "Closing": 75,
+   "Sniping": 0,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "upE",
+  "hltv_id": 22760,
+  "rating30": 0.91,
+  "dims": {
+   "Firepower": 21,
+   "Entrying": 51,
+   "Trading": 63,
+   "Opening": 10,
+   "Closing": 76,
+   "Sniping": 0,
+   "Utility": 58
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "eraa",
+  "hltv_id": 16487,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 67,
+   "Entrying": 22,
+   "Trading": 53,
+   "Opening": 38,
+   "Closing": 67,
+   "Sniping": 89,
+   "Utility": 56
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "JBa",
+  "hltv_id": 21665,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 48,
+   "Entrying": 57,
+   "Trading": 73,
+   "Opening": 32,
+   "Closing": 66,
+   "Sniping": 1,
+   "Utility": 34
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "lake",
+  "hltv_id": 22921,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 62,
+   "Entrying": 81,
+   "Trading": 43,
+   "Opening": 93,
+   "Closing": 23,
+   "Sniping": 1,
+   "Utility": 39
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "slaxz",
+  "hltv_id": 15370,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 51,
+   "Entrying": 23,
+   "Trading": 51,
+   "Opening": 17,
+   "Closing": 77,
+   "Sniping": 94,
+   "Utility": 74
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "s1n",
+  "hltv_id": 20104,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 67,
+   "Entrying": 39,
+   "Trading": 80,
+   "Opening": 35,
+   "Closing": 57,
+   "Sniping": 2,
+   "Utility": 75
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "venomzera",
+  "hltv_id": 21288,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 77,
+   "Trading": 60,
+   "Opening": 46,
+   "Closing": 42,
+   "Sniping": 1,
+   "Utility": 49
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "bobeksde",
+  "hltv_id": 21159,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 69,
+   "Entrying": 45,
+   "Trading": 38,
+   "Opening": 91,
+   "Closing": 7,
+   "Sniping": 1,
+   "Utility": 45
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "tomaszin",
+  "hltv_id": 22570,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 53,
+   "Entrying": 68,
+   "Trading": 70,
+   "Opening": 54,
+   "Closing": 45,
+   "Sniping": 2,
+   "Utility": 55
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "LNZ",
+  "hltv_id": 19310,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 52,
+   "Entrying": 36,
+   "Trading": 60,
+   "Opening": 33,
+   "Closing": 55,
+   "Sniping": 7,
+   "Utility": 63
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Swisher",
+  "hltv_id": 16599,
+  "rating30": 0.95,
+  "dims": {
+   "Firepower": 24,
+   "Entrying": 61,
+   "Trading": 65,
+   "Opening": 37,
+   "Closing": 46,
+   "Sniping": 1,
+   "Utility": 79
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "brnz4n",
+  "hltv_id": 20987,
+  "rating30": 0.92,
+  "dims": {
+   "Firepower": 31,
+   "Entrying": 58,
+   "Trading": 58,
+   "Opening": 39,
+   "Closing": 40,
+   "Sniping": 2,
+   "Utility": 34
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "faveN",
+  "hltv_id": 14932,
+  "rating30": 1.01,
+  "dims": {
+   "Firepower": 52,
+   "Entrying": 62,
+   "Trading": 76,
+   "Opening": 23,
+   "Closing": 57,
+   "Sniping": 12,
+   "Utility": 40
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "JDC",
+  "hltv_id": 14929,
+  "rating30": 1.01,
+  "dims": {
+   "Firepower": 57,
+   "Entrying": 68,
+   "Trading": 50,
+   "Opening": 79,
+   "Closing": 21,
+   "Sniping": 1,
+   "Utility": 41
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "blameF",
+  "hltv_id": 15165,
+  "rating30": 1.21,
+  "dims": {
+   "Firepower": 92,
+   "Entrying": 12,
+   "Trading": 69,
+   "Opening": 44,
+   "Closing": 83,
+   "Sniping": 0,
+   "Utility": 24
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "gr1ks",
+  "hltv_id": 22884,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 58,
+   "Trading": 54,
+   "Opening": 36,
+   "Closing": 57,
+   "Sniping": 94,
+   "Utility": 70
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "tabseN",
+  "hltv_id": 5794,
+  "rating30": 1,
+  "dims": {
+   "Firepower": 32,
+   "Entrying": 78,
+   "Trading": 35,
+   "Opening": 61,
+   "Closing": 37,
+   "Sniping": 3,
+   "Utility": 74
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Qikert",
+  "hltv_id": 13239,
+  "rating30": 0.9,
+  "dims": {
+   "Firepower": 13,
+   "Entrying": 66,
+   "Trading": 81,
+   "Opening": 23,
+   "Closing": 74,
+   "Sniping": 1,
+   "Utility": 97
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "h1te",
+  "hltv_id": 19231,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 39,
+   "Entrying": 54,
+   "Trading": 58,
+   "Opening": 28,
+   "Closing": 62,
+   "Sniping": 91,
+   "Utility": 85
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "oz1k",
+  "hltv_id": 23771,
+  "rating30": 1.1,
+  "dims": {
+   "Firepower": 57,
+   "Entrying": 63,
+   "Trading": 71,
+   "Opening": 35,
+   "Closing": 73,
+   "Sniping": 5,
+   "Utility": 54
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "interz",
+  "hltv_id": 15071,
+  "rating30": 0.93,
+  "dims": {
+   "Firepower": 36,
+   "Entrying": 16,
+   "Trading": 76,
+   "Opening": 6,
+   "Closing": 84,
+   "Sniping": 2,
+   "Utility": 43
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "nafany",
+  "hltv_id": 16921,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 52,
+   "Entrying": 55,
+   "Trading": 27,
+   "Opening": 81,
+   "Closing": 32,
+   "Sniping": 4,
+   "Utility": 40
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "fame",
+  "hltv_id": 20101,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 49,
+   "Entrying": 77,
+   "Trading": 78,
+   "Opening": 26,
+   "Closing": 67,
+   "Sniping": 2,
+   "Utility": 58
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "adamb",
+  "hltv_id": 20878,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 62,
+   "Trading": 63,
+   "Opening": 42,
+   "Closing": 46,
+   "Sniping": 0,
+   "Utility": 27
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "reyoz",
+  "hltv_id": 23477,
+  "rating30": 1.05,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 84,
+   "Trading": 92,
+   "Opening": 42,
+   "Closing": 52,
+   "Sniping": 0,
+   "Utility": 18
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "lattykk",
+  "hltv_id": 20700,
+  "rating30": 1.2,
+  "dims": {
+   "Firepower": 74,
+   "Entrying": 23,
+   "Trading": 62,
+   "Opening": 28,
+   "Closing": 85,
+   "Sniping": 94,
+   "Utility": 73
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "cronuss",
+  "hltv_id": 23770,
+  "rating30": 1.03,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 88,
+   "Trading": 39,
+   "Opening": 81,
+   "Closing": 15,
+   "Sniping": 3,
+   "Utility": 41
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "cairne",
+  "hltv_id": 24283,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 71,
+   "Entrying": 51,
+   "Trading": 82,
+   "Opening": 49,
+   "Closing": 39,
+   "Sniping": 2,
+   "Utility": 29
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "sjuush",
+  "hltv_id": 14148,
+  "rating30": 1.01,
+  "dims": {
+   "Firepower": 46,
+   "Entrying": 41,
+   "Trading": 49,
+   "Opening": 44,
+   "Closing": 45,
+   "Sniping": 8,
+   "Utility": 65
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "stavn",
+  "hltv_id": 10994,
+  "rating30": 1.09,
+  "dims": {
+   "Firepower": 58,
+   "Entrying": 35,
+   "Trading": 53,
+   "Opening": 36,
+   "Closing": 59,
+   "Sniping": 93,
+   "Utility": 52
+  },
+  "window": "Past 3 months • 85 maps"
+ },
+ {
+  "nick": "xKacpersky",
+  "hltv_id": 23372,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 61,
+   "Entrying": 57,
+   "Trading": 36,
+   "Opening": 91,
+   "Closing": 23,
+   "Sniping": 1,
+   "Utility": 35
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "tENZY",
+  "hltv_id": 24173,
+  "rating30": 1.08,
+  "dims": {
+   "Firepower": 72,
+   "Entrying": 43,
+   "Trading": 60,
+   "Opening": 69,
+   "Closing": 33,
+   "Sniping": 0,
+   "Utility": 33
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "n0te",
+  "hltv_id": 22035,
+  "rating30": 0.98,
+  "dims": {
+   "Firepower": 44,
+   "Entrying": 41,
+   "Trading": 60,
+   "Opening": 51,
+   "Closing": 23,
+   "Sniping": 1,
+   "Utility": 19
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "sFade8",
+  "hltv_id": 22075,
+  "rating30": 0.91,
+  "dims": {
+   "Firepower": 50,
+   "Entrying": 46,
+   "Trading": 32,
+   "Opening": 89,
+   "Closing": 12,
+   "Sniping": 3,
+   "Utility": 48
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "MaSvAl",
+  "hltv_id": 19874,
+  "rating30": 1.04,
+  "dims": {
+   "Firepower": 34,
+   "Entrying": 54,
+   "Trading": 60,
+   "Opening": 13,
+   "Closing": 73,
+   "Sniping": 7,
+   "Utility": 86
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "mo0n",
+  "hltv_id": 23858,
+  "rating30": 1.06,
+  "dims": {
+   "Firepower": 56,
+   "Entrying": 27,
+   "Trading": 36,
+   "Opening": 29,
+   "Closing": 76,
+   "Sniping": 90,
+   "Utility": 88
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "VINI",
+  "hltv_id": 12822,
+  "rating30": 1.1,
+  "dims": {
+   "Firepower": 84,
+   "Entrying": 49,
+   "Trading": 55,
+   "Opening": 52,
+   "Closing": 62,
+   "Sniping": 1,
+   "Utility": 77
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "decenty",
+  "hltv_id": 20183,
+  "rating30": 1.12,
+  "dims": {
+   "Firepower": 78,
+   "Entrying": 38,
+   "Trading": 77,
+   "Opening": 41,
+   "Closing": 58,
+   "Sniping": 1,
+   "Utility": 31
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "AW",
+  "hltv_id": 22076,
+  "rating30": 0.96,
+  "dims": {
+   "Firepower": 34,
+   "Entrying": 34,
+   "Trading": 67,
+   "Opening": 29,
+   "Closing": 60,
+   "Sniping": 2,
+   "Utility": 85
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "chelo",
+  "hltv_id": 10566,
+  "rating30": 1.07,
+  "dims": {
+   "Firepower": 55,
+   "Entrying": 78,
+   "Trading": 36,
+   "Opening": 71,
+   "Closing": 29,
+   "Sniping": 14,
+   "Utility": 74
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "noway",
+  "hltv_id": 22564,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 73,
+   "Entrying": 82,
+   "Trading": 60,
+   "Opening": 51,
+   "Closing": 48,
+   "Sniping": 16,
+   "Utility": 41
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "sh1ro",
+  "hltv_id": 16920,
+  "rating30": 1.13,
+  "dims": {
+   "Firepower": 60,
+   "Entrying": 54,
+   "Trading": 61,
+   "Opening": 16,
+   "Closing": 87,
+   "Sniping": 92,
+   "Utility": 62
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "dem0n",
+  "hltv_id": 20584,
+  "rating30": 1.18,
+  "dims": {
+   "Firepower": 72,
+   "Entrying": 74,
+   "Trading": 96,
+   "Opening": 26,
+   "Closing": 70,
+   "Sniping": 0,
+   "Utility": 54
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Kursy",
+  "hltv_id": 20482,
+  "rating30": 1.02,
+  "dims": {
+   "Firepower": 60,
+   "Entrying": 60,
+   "Trading": 81,
+   "Opening": 77,
+   "Closing": 20,
+   "Sniping": 1,
+   "Utility": 54
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Sonic",
+  "hltv_id": 8711,
+  "rating30": 1.11,
+  "dims": {
+   "Firepower": 66,
+   "Entrying": 49,
+   "Trading": 70,
+   "Opening": 79,
+   "Closing": 33,
+   "Sniping": 3,
+   "Utility": 56
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "Ax1Le",
+  "hltv_id": 16555,
+  "rating30": 1.16,
+  "dims": {
+   "Firepower": 76,
+   "Entrying": 48,
+   "Trading": 70,
+   "Opening": 46,
+   "Closing": 62,
+   "Sniping": 4,
+   "Utility": 71
+  },
+  "window": "Past 3 months • 90 maps"
+ },
+ {
+  "nick": "insani",
+  "hltv_id": 21037,
+  "rating30": 1.24,
+  "dims": {
+   "Firepower": 90,
+   "Entrying": 64,
+   "Trading": 51,
+   "Opening": 96,
+   "Closing": 32,
+   "Sniping": 2,
+   "Utility": 52
+  },
+  "window": "https://www.hltv.org/stats/maps"
+ },
+ {
+  "nick": "karrigan",
+  "hltv_id": 429,
+  "rating30": 0.79,
+  "dims": {
+   "Firepower": 15,
+   "Entrying": 71,
+   "Trading": 46,
+   "Opening": 32,
+   "Closing": 38,
+   "Sniping": 3,
+   "Utility": 55
+  },
+  "window": "(Past 3 months • 43 maps)"
+ }
+]
