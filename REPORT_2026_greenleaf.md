@@ -1,4 +1,4 @@
-# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v5 经济档位×抗压×逐系列赛版）
+# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v6 收入三分拆×角色内分类版）
 
 > 排名窗口：2026-01-05 至 2026-10-19 共 42 周 HLTV 世界排名。
 > Rating 口径：**HLTV 官方 Rating 3.0（全赛季）**——从 **1774 场** 2026 赛季比赛页（/matches/）逐图抓取官方 Rating 3.0，按选手逐图平均得到赛季值（与 HLTV 官方赛季聚合口径一致），**非任何拟合值**。
@@ -194,6 +194,72 @@ Firepower 36 | Entrying 54 | Trading 75 | Opening 15 | Closing 84 | Sniping 0 | 
 donk（$1000/1.48）> FL4MUS（BETBOOM $980/1.20）> Nertz（G2 $962/1.19）> xKacpersky（NIP $959/1.19，抗压最强 Opener）> Wicadia（Aurora $994/1.19）> xfl0ud（HEROIC $944/1.16）> EliGE（Liquid $954/1.16）> venomzera（MIBR $1018/1.15）> Avid > kensizor > XANTARES（Aurora $1002/1.14）> d1Ledez。
 
 TeSeS 的穷局画像：**low 局 KPR 超同位均值 11%（lowRel 1.11），eco 局平于同位（0.97）**——"low 局有用、eco 局随大流"的中庸型，不是 ZywOo/donk 式穷局战神，但也绝不拖后腿（resil 1.13 高于全部位置均值线）。
+
+
+## 六、v6 新增：收入的真相——钱从哪来（save/系统/队友 三分拆）
+
+按用户要求把选手每回合的经济来源拆成三路（bo3.gg 回合级字段 + 估算）：
+
+- **自保（save）**：money_save 字段 = 存活时自己省下的钱（保枪保狙）。字段验证：ZywOo 满枪局存活时 save $7650-7750（大狙+甲自己保），死亡回合 save=0——语义干净。
+- **队友投喂（got）**：drops_got_value，收到队友丢的枪/钱。
+- **系统奖励（sys，估算）**：击杀奖励（$300/杀，AWPer 按 AWP 击杀 $100 校正）+ 回合奖金（胜 $3250 / 负 $1400→$3400 连败梯度，按逐场逐队 win 序列重建连败数）。
+
+### 6.1 三分拆结果（158 人，$/回合）
+
+| 结论 | 证据 |
+|---|---|
+| **大狙是自己保的**——save 榜 Top15 清一色 AWPer | Artfr0st $2346 / ZywOo $2232 / torzsi $2174 / m0NESY **$2064**（满枪局 $2684）… |
+| **IGL 靠队友养**——got 榜由 IGL 主导 | kyxsan $410 / Jame $385 / arT $354 / FalleN $340 / **karrigan $321** / magixx $320 |
+| **明星步枪手靠系统奖励** | donk sys $2933/回合（全场最高，击杀多→击杀金多） |
+| m0NESY 的"被供养"是伪象 | 他吃枪 got 仅 **$192**，低于 TeSeS $228；他的大狙 83% 靠自保 |
+
+### 6.2 修正一个流行误解
+
+"AWPer 是队伍的吸金黑洞"只对了一半：**AWPer 的装备 70%+ 来自自保**（活下来就把狙带回来），真正的"被投喂大户"是 **IGL**（省下钱买指挥道具，枪靠队友丢）。TeSeS（Support）吃枪 $228/回合居 Falcons 第 2——辅助位确实会接枪，但接的是步枪+道具，不是大狙。
+
+## 七、v6 新增：Top10 队角色内分类——谁是明星位，谁是绿叶
+
+按用户定义：**绿叶 = Support 型岗位中"吃的不多（花费与吃枪双低）+ 贡献多（道具/产出）"的选手**；donk、kyousuke 等 Opener/Closer 是**纯明星位**，不算绿叶。
+
+分类口径（队内比较）：明星位 = r30≥1.15 且花费≥队内下中位；高效明星 = 明星产出但花费低于下中位（性价比核心，不是绿叶）；绿叶(纯) = Support 型且花费、吃枪均低于队内中位且贡献达标；准绿叶(被投喂) = 便宜但吃枪偏多；工具人 = 功能位但贵或产出不足；水位 = 低于队内中位 rating 0.08+。
+
+### 7.1 Top10 分类总表
+
+| 队伍 | 明星位 | 高效明星 | 绿叶(纯) | 准绿叶(被投喂) | 工具人 | 备注 |
+|---|---|---|---|---|---|---|
+| Spirit | sh1ro | **donk** | — | — | magixx | tN1R/zont1x 轮转 |
+| Vitality | ZywOo, ropz | flameZ | — | apEX | mezii* | *mezii 吃枪 $46 全场最低但花费 $1153 不低 |
+| FURIA | KSCERATO, molodoy | — | — | — | yuurih, FalleN | YEKINDAR 轮转 |
+| MOUZ | Spinx | xertioN | — | — | — | torzsi/jL/xelex 轮转 |
+| Aurora | — | Wicadia | — | — | kyxsan, MAJ3R | kyxsan got $410 全场最高 |
+| Falcons | m0NESY, NiKo | — | **—（没有纯绿叶）** | karrigan | TeSeS | kyousuke 数据缺（未入 RL 表） |
+| Legacy | latto, dumau | — | — | arT | n1ssim | |
+| G2 | HeavyGod | Nertz | — | — | huNter-, SunPayus | MATYS 轮转 |
+| BETBOOM | Artfr0st | FL4MUS, Magnojez* | — | Boombl4 | s1ren, zorte | *Magnojez 在 45 人表外 |
+| FUT | dziugss | — | — | Krabeni | — | dem0n/lauNX 轮转 |
+
+### 7.2 关键发现
+
+1. **Top10 强队的首发 Support 几乎都不是纯绿叶**——他们要么贵（mezii $1153、yuurih $1176、n1ssim $1184、TeSeS $1147），要么靠投喂（karrigan、apEX、arT）。**"低吃低花+高贡献"的纯绿叶是中游队现象**。
+2. Falcons 确认**没有纯绿叶**：m0NESY 自保大狙、NiKo 高效、TeSeS 出力但贵、karrigan 被投喂。
+3. **TeSeS 最终归类：工具人（功能位）**——出力（util $170/r 队内最高、resil 1.13）但不省钱（$1147 > 队内下中位 $1103）、吃枪 $228 队内第 2。按用户的严格定义，他**不是绿叶，是标准价格的功能位**。
+
+### 7.3 全联盟真绿叶榜（158 人，花费与吃枪双低于联盟中位 $1060/$144 + util≥160 + 产出达标）
+
+| 排名 | 选手 | 队伍 | 花费 | 吃枪 | 道具$/r | 穷局KPR | R3.0 |
+|---|---|---|---|---|---|---|---|
+| 1 | REZ | GamerLegion | $1026 | $76 | $162 | 0.589 | 1.185 |
+| 2 | chelo | Imperial | $1037 | $116 | $172 | 0.485 | 1.136 |
+| 3 | mopoz | Gentle Mates | $976 | $67 | $165 | 0.546 | 1.154 |
+| 4 | Sonic | NRG | $926 | $108 | $161 | 0.461 | 1.172 |
+| 5 | malbsMd | Liquid | $960 | $128 | $161 | 0.545 | 1.129 |
+| 6 | skullz | Imperial | $1017 | $94 | $170 | 0.422 | 1.093 |
+| 7 | Swisher | M80 | $1049 | $101 | $161 | 0.500 | 1.128 |
+| 8 | susp | HEROIC | $1032 | $118 | $163 | 0.564 | 1.093 |
+| 9 | bLitz | The MongolZ | $937 | $86 | $163 | 0.457 | 1.040 |
+| 10 | reyoz | 1win | $1004 | $124 | $161 | 0.485 | 1.066 |
+
+REZ 是 2026 全联盟教科书级绿叶：吃枪 $76（全场前 5 低）、花费低于中位、穷局 KPR 0.589（比很多明星的满枪局还高）、还打 1.185 的 Rating。Top10 队无人上榜——印证结论 1。
 
 ## 五、方法论
 1. Rating 3.0 全赛季数据：枚举 35 支 ever-top20 战队 2026 年全部 1837 场比赛，逐场抓取 HLTV 比赛页（经 jina reader），解析逐图官方 Rating 3.0/Swing/KAST/ADR，按选手逐图平均得到赛季值（1774 场成功，63 场无统计）。HLTV /stats/ 赛季聚合页被 Cloudflare 全程拦截，故采用比赛页逐图官方原值——与官方赛季口径一致，且非拟合。
