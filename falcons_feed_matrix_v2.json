@@ -1,0 +1,173 @@
+{
+ "matrix": {
+  "TeSeS": {
+   "kyxsan": {
+    "n": 30,
+    "val": 57300
+   },
+   "m0NESY": {
+    "n": 57,
+    "val": 118650
+   },
+   "kyousuke": {
+    "n": 44,
+    "val": 101150
+   },
+   "NiKo": {
+    "n": 19,
+    "val": 38250
+   },
+   "karrigan": {
+    "n": 31,
+    "val": 68150
+   }
+  },
+  "m0NESY": {
+   "kyxsan": {
+    "n": 57,
+    "val": 160150
+   },
+   "TeSeS": {
+    "n": 82,
+    "val": 298750
+   },
+   "kyousuke": {
+    "n": 64,
+    "val": 230700
+   },
+   "NiKo": {
+    "n": 49,
+    "val": 173250
+   },
+   "karrigan": {
+    "n": 97,
+    "val": 250950
+   },
+   "Nucleonz": {
+    "n": 6,
+    "val": 17850
+   }
+  },
+  "NiKo": {
+   "TeSeS": {
+    "n": 27,
+    "val": 73400
+   },
+   "m0NESY": {
+    "n": 71,
+    "val": 163850
+   },
+   "kyxsan": {
+    "n": 37,
+    "val": 104950
+   },
+   "kyousuke": {
+    "n": 28,
+    "val": 79000
+   },
+   "karrigan": {
+    "n": 33,
+    "val": 94000
+   }
+  },
+  "kyxsan": {
+   "TeSeS": {
+    "n": 17,
+    "val": 32700
+   },
+   "m0NESY": {
+    "n": 29,
+    "val": 47400
+   },
+   "kyousuke": {
+    "n": 22,
+    "val": 40300
+   },
+   "NiKo": {
+    "n": 12,
+    "val": 23400
+   },
+   "Nucleonz": {
+    "n": 2,
+    "val": 2300
+   }
+  },
+  "kyousuke": {
+   "kyxsan": {
+    "n": 36,
+    "val": 79950
+   },
+   "NiKo": {
+    "n": 32,
+    "val": 80600
+   },
+   "m0NESY": {
+    "n": 52,
+    "val": 111400
+   },
+   "TeSeS": {
+    "n": 55,
+    "val": 143650
+   },
+   "karrigan": {
+    "n": 35,
+    "val": 90550
+   }
+  },
+  "karrigan": {
+   "TeSeS": {
+    "n": 19,
+    "val": 54200
+   },
+   "NiKo": {
+    "n": 24,
+    "val": 49950
+   },
+   "m0NESY": {
+    "n": 30,
+    "val": 72000
+   },
+   "kyousuke": {
+    "n": 20,
+    "val": 40600
+   }
+  },
+  "Nucleonz": {
+   "kyxsan": {
+    "n": 2,
+    "val": 5400
+   },
+   "TeSeS": {
+    "n": 3,
+    "val": 3900
+   },
+   "m0NESY": {
+    "n": 5,
+    "val": 8450
+   },
+   "NiKo": {
+    "n": 2,
+    "val": 400
+   }
+  }
+ },
+ "gotTotal": {
+  "NiKo": 412250,
+  "m0NESY": 615800,
+  "kyxsan": 491250,
+  "TeSeS": 713000,
+  "Nucleonz": 20150,
+  "kyousuke": 572300,
+  "karrigan": 602050
+ },
+ "gaveTotal": {
+  "NiKo": 599100,
+  "m0NESY": 1260100,
+  "kyxsan": 213650,
+  "TeSeS": 497800,
+  "Nucleonz": 23300,
+  "kyousuke": 579700,
+  "karrigan": 253150
+ },
+ "crossClanGot": 509300
+}

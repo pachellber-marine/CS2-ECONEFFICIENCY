@@ -1,0 +1,2518 @@
+{
+ "rows": [
+  {
+   "team": "NIP",
+   "nick": "Snappi",
+   "R": 857,
+   "gotR": 452.4,
+   "gaveR": 252.2,
+   "net": 200.2,
+   "gotShare": 36.2,
+   "gotFreq": 14.9
+  },
+  {
+   "team": "Aurora",
+   "nick": "kyxsan",
+   "R": 1449,
+   "gotR": 428.3,
+   "gaveR": 206.9,
+   "net": 221.4,
+   "gotShare": 16,
+   "gotFreq": 15.9
+  },
+  {
+   "team": "PARIVISION",
+   "nick": "Jame",
+   "R": 3012,
+   "gotR": 390.1,
+   "gaveR": 311.7,
+   "net": 78.4,
+   "gotShare": 32.2,
+   "gotFreq": 14.4
+  },
+  {
+   "team": "Falcons",
+   "nick": "kyxsan",
+   "R": 1260,
+   "gotR": 389.9,
+   "gaveR": 169.6,
+   "net": 220.3,
+   "gotShare": 14.3,
+   "gotFreq": 14.5
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "Snappi",
+   "R": 1498,
+   "gotR": 385.2,
+   "gaveR": 199.4,
+   "net": 185.8,
+   "gotShare": 25.4,
+   "gotFreq": 13.1
+  },
+  {
+   "team": "Aurora",
+   "nick": "woxic",
+   "R": 3648,
+   "gotR": 380.4,
+   "gaveR": 225.2,
+   "net": 155.2,
+   "gotShare": 35.8,
+   "gotFreq": 12.9
+  },
+  {
+   "team": "Legacy",
+   "nick": "arT",
+   "R": 1898,
+   "gotR": 353.8,
+   "gaveR": 275.9,
+   "net": 77.9,
+   "gotShare": 21.2,
+   "gotFreq": 11.3
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "stavn",
+   "R": 1608,
+   "gotR": 347.8,
+   "gaveR": 313.7,
+   "net": 34,
+   "gotShare": 24.6,
+   "gotFreq": 14.4
+  },
+  {
+   "team": "Legacy",
+   "nick": "try",
+   "R": 872,
+   "gotR": 341,
+   "gaveR": 513.6,
+   "net": -172.6,
+   "gotShare": 9.4,
+   "gotFreq": 13.4
+  },
+  {
+   "team": "FURIA",
+   "nick": "FalleN",
+   "R": 3890,
+   "gotR": 340.2,
+   "gaveR": 179,
+   "net": 161.2,
+   "gotShare": 36.9,
+   "gotFreq": 11.7
+  },
+  {
+   "team": "The MongolZ",
+   "nick": "Techno4K",
+   "R": 2040,
+   "gotR": 336.2,
+   "gaveR": 174.8,
+   "net": 161.4,
+   "gotShare": 37.7,
+   "gotFreq": 10.5
+  },
+  {
+   "team": "Falcons",
+   "nick": "karrigan",
+   "R": 1821,
+   "gotR": 330.6,
+   "gaveR": 139,
+   "net": 191.6,
+   "gotShare": 17.6,
+   "gotFreq": 12.4
+  },
+  {
+   "team": "Spirit",
+   "nick": "magixx",
+   "R": 3029,
+   "gotR": 320,
+   "gaveR": 173.7,
+   "net": 146.3,
+   "gotShare": 28,
+   "gotFreq": 13.1
+  },
+  {
+   "team": "Legacy",
+   "nick": "dumau",
+   "R": 2409,
+   "gotR": 309.9,
+   "gaveR": 275.6,
+   "net": 34.4,
+   "gotShare": 23.6,
+   "gotFreq": 11.1
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": "broky",
+   "R": 1072,
+   "gotR": 298.2,
+   "gaveR": 420.5,
+   "net": -122.2,
+   "gotShare": 16.7,
+   "gotFreq": 7.3
+  },
+  {
+   "team": "Passion UA",
+   "nick": "try",
+   "R": 1259,
+   "gotR": 297.5,
+   "gaveR": 271.2,
+   "net": 26.2,
+   "gotShare": 27.9,
+   "gotFreq": 12.8
+  },
+  {
+   "team": "Passion UA",
+   "nick": "Senzu-",
+   "R": 1004,
+   "gotR": 290.1,
+   "gaveR": 227.3,
+   "net": 62.8,
+   "gotShare": 21.7,
+   "gotFreq": 10.1
+  },
+  {
+   "team": "Natus Vincere",
+   "nick": "Aleksib",
+   "R": 2295,
+   "gotR": 285.2,
+   "gaveR": 160.7,
+   "net": 124.6,
+   "gotShare": 33.8,
+   "gotFreq": 9.7
+  },
+  {
+   "team": "Monte",
+   "nick": "Rainwaker",
+   "R": 1670,
+   "gotR": 284.1,
+   "gaveR": 106,
+   "net": 178.1,
+   "gotShare": 33.7,
+   "gotFreq": 8.5
+  },
+  {
+   "team": "magic",
+   "nick": "AW",
+   "R": 1295,
+   "gotR": 281.6,
+   "gaveR": 223.3,
+   "net": 58.3,
+   "gotShare": 22.1,
+   "gotFreq": 11.6
+  },
+  {
+   "team": "G2",
+   "nick": "Matys",
+   "R": 3260,
+   "gotR": 274.8,
+   "gaveR": 158.4,
+   "net": 116.4,
+   "gotShare": 30.2,
+   "gotFreq": 10
+  },
+  {
+   "team": "ShindeN",
+   "nick": "★ ⑳ naz",
+   "R": 847,
+   "gotR": 267.7,
+   "gaveR": 158.4,
+   "net": 109.3,
+   "gotShare": 29.1,
+   "gotFreq": 9.7
+  },
+  {
+   "team": "Spirit",
+   "nick": "donk",
+   "R": 2955,
+   "gotR": 265.6,
+   "gaveR": 289.3,
+   "net": -23.6,
+   "gotShare": 22.7,
+   "gotFreq": 11.7
+  },
+  {
+   "team": "Gamdom Imperial",
+   "nick": "SELEÇAnoway",
+   "R": 1467,
+   "gotR": 265.1,
+   "gaveR": 137.7,
+   "net": 127.4,
+   "gotShare": 31.5,
+   "gotFreq": 8.9
+  },
+  {
+   "team": "magic",
+   "nick": "sFade",
+   "R": 1402,
+   "gotR": 262.1,
+   "gaveR": 189.9,
+   "net": 72.2,
+   "gotShare": 22.2,
+   "gotFreq": 9.1
+  },
+  {
+   "team": "PARIVISION",
+   "nick": "SUN.nota",
+   "R": 2237,
+   "gotR": 260.6,
+   "gaveR": 278.7,
+   "net": -18.1,
+   "gotShare": 16,
+   "gotFreq": 9
+  },
+  {
+   "team": "9z",
+   "nick": "★ ⑳ luchov",
+   "R": 1871,
+   "gotR": 260.2,
+   "gaveR": 189.2,
+   "net": 71,
+   "gotShare": 30.2,
+   "gotFreq": 8.4
+  },
+  {
+   "team": "Imperial",
+   "nick": "SELEÇAnoway",
+   "R": 2308,
+   "gotR": 256.5,
+   "gaveR": 138,
+   "net": 118.6,
+   "gotShare": 30.9,
+   "gotFreq": 8.1
+  },
+  {
+   "team": "HEROIC",
+   "nick": "Chr1zN",
+   "R": 3729,
+   "gotR": 254.2,
+   "gaveR": 155.8,
+   "net": 98.4,
+   "gotShare": 30.6,
+   "gotFreq": 9.4
+  },
+  {
+   "team": "Vitality",
+   "nick": "apEX",
+   "R": 3138,
+   "gotR": 246.3,
+   "gaveR": 88,
+   "net": 158.3,
+   "gotShare": 32.3,
+   "gotFreq": 9
+  },
+  {
+   "team": "magic",
+   "nick": "mo0nxdd",
+   "R": 1304,
+   "gotR": 245.9,
+   "gaveR": 311.6,
+   "net": -65.7,
+   "gotShare": 19.4,
+   "gotFreq": 9.7
+  },
+  {
+   "team": "PARIVISION",
+   "nick": "zweih666",
+   "R": 3012,
+   "gotR": 245.7,
+   "gaveR": 226.2,
+   "net": 19.5,
+   "gotShare": 20.3,
+   "gotFreq": 7.8
+  },
+  {
+   "team": "MOUZ",
+   "nick": "Brollan",
+   "R": 1383,
+   "gotR": 241.8,
+   "gaveR": 81.1,
+   "net": 160.7,
+   "gotShare": 16.9,
+   "gotFreq": 9.6
+  },
+  {
+   "team": "Vitality",
+   "nick": "flameZ",
+   "R": 3138,
+   "gotR": 236.2,
+   "gaveR": 142,
+   "net": 94.2,
+   "gotShare": 30.9,
+   "gotFreq": 7.4
+  },
+  {
+   "team": "Falcons",
+   "nick": "TeSeS",
+   "R": 3081,
+   "gotR": 231.4,
+   "gaveR": 161.6,
+   "net": 69.8,
+   "gotShare": 20.8,
+   "gotFreq": 7.4
+  },
+  {
+   "team": "magic",
+   "nick": "MaSvAl",
+   "R": 1402,
+   "gotR": 228.5,
+   "gaveR": 205.1,
+   "net": 23.4,
+   "gotShare": 19.4,
+   "gotFreq": 8.2
+  },
+  {
+   "team": "BIG",
+   "nick": "blameF",
+   "R": 3613,
+   "gotR": 227.7,
+   "gaveR": 104,
+   "net": 123.6,
+   "gotShare": 28.9,
+   "gotFreq": 7.3
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "Boombl4",
+   "R": 3496,
+   "gotR": 225.9,
+   "gaveR": 106.6,
+   "net": 119.3,
+   "gotShare": 29.5,
+   "gotFreq": 9.9
+  },
+  {
+   "team": "Legacy",
+   "nick": "saadzin_",
+   "R": 1537,
+   "gotR": 222.6,
+   "gaveR": 372.1,
+   "net": -149.5,
+   "gotShare": 10.8,
+   "gotFreq": 8.8
+  },
+  {
+   "team": "Spirit",
+   "nick": "zontix",
+   "R": 3029,
+   "gotR": 221.8,
+   "gaveR": 144.7,
+   "net": 77.1,
+   "gotShare": 19.4,
+   "gotFreq": 9.1
+  },
+  {
+   "team": "1win",
+   "nick": "Oz1k",
+   "R": 1836,
+   "gotR": 221.8,
+   "gaveR": 140.9,
+   "net": 80.9,
+   "gotShare": 19.3,
+   "gotFreq": 7.1
+  },
+  {
+   "team": "BIG",
+   "nick": "faveN",
+   "R": 3485,
+   "gotR": 221.6,
+   "gaveR": 129.8,
+   "net": 91.9,
+   "gotShare": 27.1,
+   "gotFreq": 6.7
+  },
+  {
+   "team": "paiN Gaming",
+   "nick": "V$M",
+   "R": 1545,
+   "gotR": 217.9,
+   "gaveR": 157.4,
+   "net": 60.5,
+   "gotShare": 26.7,
+   "gotFreq": 7.7
+  },
+  {
+   "team": "HEROIC",
+   "nick": "Brollan",
+   "R": 2029,
+   "gotR": 217,
+   "gaveR": 122.9,
+   "net": 94.1,
+   "gotShare": 14.2,
+   "gotFreq": 6.9
+  },
+  {
+   "team": "Legacy",
+   "nick": "n1ssim",
+   "R": 2409,
+   "gotR": 216.4,
+   "gaveR": 156.3,
+   "net": 60,
+   "gotShare": 16.5,
+   "gotFreq": 7.5
+  },
+  {
+   "team": "Monte",
+   "nick": "Gizmy",
+   "R": 1670,
+   "gotR": 214.9,
+   "gaveR": 169.9,
+   "net": 45,
+   "gotShare": 25.5,
+   "gotFreq": 6.8
+  },
+  {
+   "team": "1win",
+   "nick": "qikert",
+   "R": 920,
+   "gotR": 213.2,
+   "gaveR": 142.3,
+   "net": 70.9,
+   "gotShare": 9.3,
+   "gotFreq": 7.9
+  },
+  {
+   "team": "9z Globant",
+   "nick": "max",
+   "R": 1346,
+   "gotR": 211.8,
+   "gaveR": 104.3,
+   "net": 107.5,
+   "gotShare": 25.2,
+   "gotFreq": 7.3
+  },
+  {
+   "team": "FURIA",
+   "nick": "YEKINDAR",
+   "R": 3890,
+   "gotR": 210.3,
+   "gaveR": 183.8,
+   "net": 26.5,
+   "gotShare": 22.8,
+   "gotFreq": 7
+  },
+  {
+   "team": "The MongolZ",
+   "nick": "cobrazera--",
+   "R": 1881,
+   "gotR": 206.2,
+   "gaveR": 181.8,
+   "net": 24.5,
+   "gotShare": 21.3,
+   "gotFreq": 6.6
+  },
+  {
+   "team": "9z",
+   "nick": "max",
+   "R": 1869,
+   "gotR": 204.4,
+   "gaveR": 144.2,
+   "net": 60.2,
+   "gotShare": 23.7,
+   "gotFreq": 7.1
+  },
+  {
+   "team": "TYLOO",
+   "nick": "JamYoung",
+   "R": 2214,
+   "gotR": 203.2,
+   "gaveR": 172.9,
+   "net": 30.3,
+   "gotShare": 26.3,
+   "gotFreq": 8.6
+  },
+  {
+   "team": "Aurora",
+   "nick": "Wicadia",
+   "R": 3648,
+   "gotR": 203.1,
+   "gaveR": 218,
+   "net": -14.9,
+   "gotShare": 19.1,
+   "gotFreq": 7.2
+  },
+  {
+   "team": "TYLOO",
+   "nick": "Mercury",
+   "R": 2214,
+   "gotR": 201.6,
+   "gaveR": 141.8,
+   "net": 59.7,
+   "gotShare": 26.1,
+   "gotFreq": 8.5
+  },
+  {
+   "team": "MIBR",
+   "nick": "tomaszin:)",
+   "R": 1058,
+   "gotR": 200.2,
+   "gaveR": 142,
+   "net": 58.2,
+   "gotShare": 8.3,
+   "gotFreq": 7.3
+  },
+  {
+   "team": "Falcons",
+   "nick": "kyousuke",
+   "R": 2861,
+   "gotR": 200,
+   "gaveR": 202.6,
+   "net": -2.6,
+   "gotShare": 16.7,
+   "gotFreq": 6.9
+  },
+  {
+   "team": "Falcons",
+   "nick": "m0NESY",
+   "R": 3081,
+   "gotR": 199.9,
+   "gaveR": 409,
+   "net": -209.1,
+   "gotShare": 18,
+   "gotFreq": 8.7
+  },
+  {
+   "team": "9z Globant",
+   "nick": "★ ⑳ luchov",
+   "R": 1399,
+   "gotR": 198.7,
+   "gaveR": 149.2,
+   "net": 49.6,
+   "gotShare": 24.6,
+   "gotFreq": 6.4
+  },
+  {
+   "team": "Legacy",
+   "nick": "latto",
+   "R": 2409,
+   "gotR": 197.3,
+   "gaveR": 214.5,
+   "net": -17.2,
+   "gotShare": 15,
+   "gotFreq": 8.6
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": ";]jcobbb",
+   "R": 2162,
+   "gotR": 197.1,
+   "gaveR": 159.6,
+   "net": 37.5,
+   "gotShare": 22.3,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "G2",
+   "nick": "huNter-",
+   "R": 3054,
+   "gotR": 195.9,
+   "gaveR": 153.2,
+   "net": 42.7,
+   "gotShare": 20.2,
+   "gotFreq": 7.5
+  },
+  {
+   "team": "HEROIC",
+   "nick": "yxngstxr",
+   "R": 1700,
+   "gotR": 193.6,
+   "gaveR": 278.9,
+   "net": -85.3,
+   "gotShare": 10.6,
+   "gotFreq": 7.2
+  },
+  {
+   "team": "Astralis",
+   "nick": "HooXi",
+   "R": 3299,
+   "gotR": 193.3,
+   "gaveR": 119.5,
+   "net": 73.9,
+   "gotShare": 23.3,
+   "gotFreq": 6.6
+  },
+  {
+   "team": "G2",
+   "nick": "malbsMd",
+   "R": 990,
+   "gotR": 192.9,
+   "gaveR": 176.2,
+   "net": 16.7,
+   "gotShare": 6.4,
+   "gotFreq": 5.9
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "ArtFr0st",
+   "R": 1410,
+   "gotR": 189.2,
+   "gaveR": 276.2,
+   "net": -87,
+   "gotShare": 10,
+   "gotFreq": 8.2
+  },
+  {
+   "team": "1win",
+   "nick": "cronuss",
+   "R": 1836,
+   "gotR": 189.1,
+   "gaveR": 160.5,
+   "net": 28.5,
+   "gotShare": 16.4,
+   "gotFreq": 7.1
+  },
+  {
+   "team": "The MongolZ",
+   "nick": "Mzinho",
+   "R": 1601,
+   "gotR": 186,
+   "gaveR": 121.9,
+   "net": 64.1,
+   "gotShare": 16.4,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "ShindeN",
+   "nick": "★ ⑳ tom1",
+   "R": 847,
+   "gotR": 184.9,
+   "gaveR": 121.8,
+   "net": 63.1,
+   "gotShare": 20.1,
+   "gotFreq": 6.4
+  },
+  {
+   "team": "Imperial",
+   "nick": "saadzin_",
+   "R": 1500,
+   "gotR": 183.9,
+   "gaveR": 257,
+   "net": -73.1,
+   "gotShare": 14.4,
+   "gotFreq": 7.3
+  },
+  {
+   "team": "9z Globant",
+   "nick": "HUASOPEEK",
+   "R": 1399,
+   "gotR": 183.8,
+   "gaveR": 133.6,
+   "net": 50.2,
+   "gotShare": 22.7,
+   "gotFreq": 6.6
+  },
+  {
+   "team": "MIBR",
+   "nick": "★ ⑳ nqzjre",
+   "R": 1463,
+   "gotR": 182.4,
+   "gaveR": 358,
+   "net": -175.6,
+   "gotShare": 10.4,
+   "gotFreq": 7.5
+  },
+  {
+   "team": "PARIVISION",
+   "nick": "BELCHONOKK",
+   "R": 2237,
+   "gotR": 180.4,
+   "gaveR": 221.6,
+   "net": -41.3,
+   "gotShare": 11.1,
+   "gotFreq": 7.1
+  },
+  {
+   "team": "Spirit",
+   "nick": "tN1R",
+   "R": 3029,
+   "gotR": 177.4,
+   "gaveR": 216.2,
+   "net": -38.8,
+   "gotShare": 15.5,
+   "gotFreq": 7.1
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "cairne",
+   "R": 934,
+   "gotR": 175.8,
+   "gaveR": 143.4,
+   "net": 32.4,
+   "gotShare": 7.2,
+   "gotFreq": 5.8
+  },
+  {
+   "team": "MIBR",
+   "nick": "★ ⑳ insani",
+   "R": 3398,
+   "gotR": 175.5,
+   "gaveR": 174.4,
+   "net": 1.1,
+   "gotShare": 23.2,
+   "gotFreq": 6.5
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "n0te",
+   "R": 897,
+   "gotR": 170.4,
+   "gaveR": 185.8,
+   "net": -15.4,
+   "gotShare": 6.7,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": "Twistzz",
+   "R": 2163,
+   "gotR": 169.5,
+   "gaveR": 156.8,
+   "net": 12.7,
+   "gotShare": 19.2,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "paiN",
+   "nick": "snowzin",
+   "R": 1166,
+   "gotR": 169.3,
+   "gaveR": 129.6,
+   "net": 39.7,
+   "gotShare": 23.5,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "Astralis",
+   "nick": "jabbi",
+   "R": 3299,
+   "gotR": 169.2,
+   "gaveR": 121.7,
+   "net": 47.5,
+   "gotShare": 20.4,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "Alliance",
+   "nick": "upExd",
+   "R": 3425,
+   "gotR": 168.7,
+   "gaveR": 65,
+   "net": 103.7,
+   "gotShare": 31,
+   "gotFreq": 5.9
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": "Neityu",
+   "R": 1497,
+   "gotR": 166.8,
+   "gaveR": 126.9,
+   "net": 39.9,
+   "gotShare": 13.1,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "PARIVISION",
+   "nick": "FWxiELO-",
+   "R": 3012,
+   "gotR": 166.1,
+   "gaveR": 221.2,
+   "net": -55.1,
+   "gotShare": 13.7,
+   "gotFreq": 6.5
+  },
+  {
+   "team": "FUT",
+   "nick": "dziugss",
+   "R": 3013,
+   "gotR": 164.2,
+   "gaveR": 84.2,
+   "net": 80,
+   "gotShare": 25.8,
+   "gotFreq": 5.2
+  },
+  {
+   "team": "9z",
+   "nick": "HUASOPEEK",
+   "R": 1870,
+   "gotR": 162.7,
+   "gaveR": 110.8,
+   "net": 51.9,
+   "gotShare": 18.9,
+   "gotFreq": 6.7
+  },
+  {
+   "team": "Natus Vincere",
+   "nick": "B1t",
+   "R": 2295,
+   "gotR": 162.5,
+   "gaveR": 146,
+   "net": 16.5,
+   "gotShare": 19.2,
+   "gotFreq": 5.5
+  },
+  {
+   "team": "EYEBALLERS",
+   "nick": "dex",
+   "R": 1193,
+   "gotR": 161.4,
+   "gaveR": 124.9,
+   "net": 36.5,
+   "gotShare": 26,
+   "gotFreq": 5.3
+  },
+  {
+   "team": "Natus Vincere",
+   "nick": "makazze",
+   "R": 2295,
+   "gotR": 160.4,
+   "gaveR": 171.8,
+   "net": -11.4,
+   "gotShare": 19,
+   "gotFreq": 5.9
+  },
+  {
+   "team": "3DMAX",
+   "nick": "Graviti",
+   "R": 3414,
+   "gotR": 159.9,
+   "gaveR": 61.6,
+   "net": 98.3,
+   "gotShare": 32.8,
+   "gotFreq": 5.8
+  },
+  {
+   "team": "FUT",
+   "nick": "Krabeni",
+   "R": 3013,
+   "gotR": 159.7,
+   "gaveR": 104.5,
+   "net": 55.2,
+   "gotShare": 25.1,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "magic",
+   "nick": "tENZY",
+   "R": 1402,
+   "gotR": 159.6,
+   "gaveR": 235.9,
+   "net": -76.4,
+   "gotShare": 13.5,
+   "gotFreq": 6.1
+  },
+  {
+   "team": "MIBR",
+   "nick": "★ ⑳ venomzera",
+   "R": 3398,
+   "gotR": 159.4,
+   "gaveR": 105,
+   "net": 54.4,
+   "gotShare": 21.1,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "Spirit",
+   "nick": "SH1R0",
+   "R": 3029,
+   "gotR": 158.8,
+   "gaveR": 319.6,
+   "net": -160.8,
+   "gotShare": 13.9,
+   "gotFreq": 7.9
+  },
+  {
+   "team": "3DMAX",
+   "nick": "Ex3rcice",
+   "R": 2046,
+   "gotR": 158.7,
+   "gaveR": 90.2,
+   "net": 68.6,
+   "gotShare": 19.5,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "NIP",
+   "nick": "xKacpersky",
+   "R": 857,
+   "gotR": 158.6,
+   "gaveR": 238.7,
+   "net": -80,
+   "gotShare": 12.7,
+   "gotFreq": 7.4
+  },
+  {
+   "team": "MOUZ",
+   "nick": "xertioN",
+   "R": 3358,
+   "gotR": 157.6,
+   "gaveR": 147.7,
+   "net": 9.9,
+   "gotShare": 26.8,
+   "gotFreq": 7.2
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "AvoidMagnojez---",
+   "R": 3689,
+   "gotR": 157.3,
+   "gaveR": 115.1,
+   "net": 42.2,
+   "gotShare": 21.7,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "Astralis",
+   "nick": "ryu777",
+   "R": 3487,
+   "gotR": 157.3,
+   "gaveR": 109.1,
+   "net": 48.2,
+   "gotShare": 20,
+   "gotFreq": 5.6
+  },
+  {
+   "team": "HEROIC",
+   "nick": "xfl0ud",
+   "R": 1700,
+   "gotR": 156.9,
+   "gaveR": 180,
+   "net": -23.1,
+   "gotShare": 8.6,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "paiN Gaming",
+   "nick": "snowzin",
+   "R": 1545,
+   "gotR": 156.4,
+   "gaveR": 127.7,
+   "net": 28.7,
+   "gotShare": 19.2,
+   "gotFreq": 5.9
+  },
+  {
+   "team": "1win",
+   "nick": "reyoz",
+   "R": 1067,
+   "gotR": 156,
+   "gaveR": 160.9,
+   "net": -4.9,
+   "gotShare": 7.9,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "Gamdom Imperial",
+   "nick": "VINI",
+   "R": 1467,
+   "gotR": 154.7,
+   "gaveR": 110.4,
+   "net": 44.3,
+   "gotShare": 18.4,
+   "gotFreq": 4.4
+  },
+  {
+   "team": "Astralis",
+   "nick": "exQBFStaehrH",
+   "R": 3487,
+   "gotR": 153.6,
+   "gaveR": 134.8,
+   "net": 18.9,
+   "gotShare": 19.6,
+   "gotFreq": 6.1
+  },
+  {
+   "team": "Aurora",
+   "nick": "Sangal-Soulfly",
+   "R": 2199,
+   "gotR": 153.4,
+   "gaveR": 171.7,
+   "net": -18.4,
+   "gotShare": 8.7,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "Gamdom Imperial",
+   "nick": "★ ⑳ decenty",
+   "R": 1379,
+   "gotR": 153.4,
+   "gaveR": 154.2,
+   "net": -0.8,
+   "gotShare": 17.1,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "FURIA",
+   "nick": "KSCERATO",
+   "R": 3890,
+   "gotR": 152.4,
+   "gaveR": 173,
+   "net": -20.6,
+   "gotShare": 16.5,
+   "gotFreq": 5.5
+  },
+  {
+   "team": "HOTU",
+   "nick": "n0rb3r7",
+   "R": 1202,
+   "gotR": 152,
+   "gaveR": 108.2,
+   "net": 43.8,
+   "gotShare": 24.2,
+   "gotFreq": 5.2
+  },
+  {
+   "team": "Monte",
+   "nick": "afroo",
+   "R": 1670,
+   "gotR": 150.5,
+   "gaveR": 353.9,
+   "net": -203.3,
+   "gotShare": 17.9,
+   "gotFreq": 5.3
+  },
+  {
+   "team": "MIBR",
+   "nick": "LNZ",
+   "R": 3398,
+   "gotR": 149.2,
+   "gaveR": 108.6,
+   "net": 40.6,
+   "gotShare": 19.8,
+   "gotFreq": 6.4
+  },
+  {
+   "team": "G2",
+   "nick": "HeavyGod",
+   "R": 3260,
+   "gotR": 148.8,
+   "gaveR": 161.5,
+   "net": -12.6,
+   "gotShare": 16.4,
+   "gotFreq": 5.7
+  },
+  {
+   "team": "ShindeN",
+   "nick": "★ ⑳ abz",
+   "R": 847,
+   "gotR": 148.4,
+   "gaveR": 126.5,
+   "net": 21.9,
+   "gotShare": 16.1,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "SINNERS",
+   "nick": "beastik",
+   "R": 1065,
+   "gotR": 148.3,
+   "gaveR": 63.4,
+   "net": 84.9,
+   "gotShare": 26.5,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "G2",
+   "nick": "SunPayus",
+   "R": 2637,
+   "gotR": 146.8,
+   "gaveR": 288.1,
+   "net": -141.4,
+   "gotShare": 13.1,
+   "gotFreq": 6.5
+  },
+  {
+   "team": "NIP",
+   "nick": "sjuush",
+   "R": 857,
+   "gotR": 146.6,
+   "gaveR": 176.5,
+   "net": -29.9,
+   "gotShare": 11.7,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "G2",
+   "nick": "NertZ",
+   "R": 2270,
+   "gotR": 146,
+   "gaveR": 156.3,
+   "net": -10.3,
+   "gotShare": 11.2,
+   "gotFreq": 6.3
+  },
+  {
+   "team": "paiN Gaming",
+   "nick": "biguzera",
+   "R": 1545,
+   "gotR": 144.2,
+   "gaveR": 170.5,
+   "net": -26.3,
+   "gotShare": 17.7,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "HEROIC",
+   "nick": "nilo",
+   "R": 3729,
+   "gotR": 142.1,
+   "gaveR": 142,
+   "net": 0.1,
+   "gotShare": 17.1,
+   "gotFreq": 4.4
+  },
+  {
+   "team": "M80",
+   "nick": "Lake",
+   "R": 3432,
+   "gotR": 141.9,
+   "gaveR": 97.2,
+   "net": 44.7,
+   "gotShare": 26.8,
+   "gotFreq": 5.3
+  },
+  {
+   "team": "Passion UA",
+   "nick": "Kvem",
+   "R": 1718,
+   "gotR": 140.5,
+   "gaveR": 122.5,
+   "net": 18,
+   "gotShare": 18,
+   "gotFreq": 5.8
+  },
+  {
+   "team": "EYEBALLERS",
+   "nick": "maxster",
+   "R": 1144,
+   "gotR": 138.9,
+   "gaveR": 79.9,
+   "net": 59,
+   "gotShare": 21.5,
+   "gotFreq": 4.8
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "sjuush",
+   "R": 2311,
+   "gotR": 138.6,
+   "gaveR": 170.1,
+   "net": -31.5,
+   "gotShare": 14.1,
+   "gotFreq": 5.3
+  },
+  {
+   "team": "ShindeN",
+   "nick": "★ ⑳ ivanzinhodeus",
+   "R": 800,
+   "gotR": 138.6,
+   "gaveR": 361.3,
+   "net": -222.7,
+   "gotShare": 14.2,
+   "gotFreq": 6.8
+  },
+  {
+   "team": "BIG",
+   "nick": "tabseN",
+   "R": 3613,
+   "gotR": 137.8,
+   "gaveR": 138.2,
+   "net": -0.4,
+   "gotShare": 17.5,
+   "gotFreq": 4.5
+  },
+  {
+   "team": "TYLOO",
+   "nick": "NHJee-",
+   "R": 2214,
+   "gotR": 137.2,
+   "gaveR": 220.2,
+   "net": -83,
+   "gotShare": 17.8,
+   "gotFreq": 6.6
+  },
+  {
+   "team": "GamerLegion",
+   "nick": "FL4MUS",
+   "R": 1004,
+   "gotR": 136.4,
+   "gaveR": 83.6,
+   "net": 52.8,
+   "gotShare": 8.3,
+   "gotFreq": 5
+  },
+  {
+   "team": "SINNERS",
+   "nick": "kisserek",
+   "R": 1065,
+   "gotR": 136.3,
+   "gaveR": 114.4,
+   "net": 21.9,
+   "gotShare": 24.3,
+   "gotFreq": 5.2
+  },
+  {
+   "team": "Imperial",
+   "nick": "★ ⑳ decenty",
+   "R": 2061,
+   "gotR": 135.8,
+   "gaveR": 126.9,
+   "net": 8.9,
+   "gotShare": 14.6,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "Alliance",
+   "nick": "twist",
+   "R": 3425,
+   "gotR": 135.5,
+   "gaveR": 83.4,
+   "net": 52.1,
+   "gotShare": 24.9,
+   "gotFreq": 4.6
+  },
+  {
+   "team": "TYLOO",
+   "nick": "Zero ",
+   "R": 2214,
+   "gotR": 135.2,
+   "gaveR": 115,
+   "net": 20.3,
+   "gotShare": 17.5,
+   "gotFreq": 5.1
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "nick": "xKacpersky",
+   "R": 2311,
+   "gotR": 134.6,
+   "gaveR": 184.6,
+   "net": -50,
+   "gotShare": 13.7,
+   "gotFreq": 6.2
+  },
+  {
+   "team": "Aurora",
+   "nick": "Jimppahat",
+   "R": 1449,
+   "gotR": 133.9,
+   "gaveR": 199.2,
+   "net": -65.3,
+   "gotShare": 5,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "Falcons",
+   "nick": "NiKo",
+   "R": 3081,
+   "gotR": 133.8,
+   "gaveR": 194.4,
+   "net": -60.6,
+   "gotShare": 12,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "Imperial",
+   "nick": "chelo",
+   "R": 2308,
+   "gotR": 133.7,
+   "gaveR": 169.6,
+   "net": -35.9,
+   "gotShare": 16.1,
+   "gotFreq": 5.5
+  },
+  {
+   "team": "M80",
+   "nick": "NLG* s1n",
+   "R": 3432,
+   "gotR": 133,
+   "gaveR": 87.7,
+   "net": 45.3,
+   "gotShare": 25.2,
+   "gotFreq": 4.5
+  },
+  {
+   "team": "paiN",
+   "nick": "biguzera",
+   "R": 1166,
+   "gotR": 132.8,
+   "gaveR": 122.7,
+   "net": 10.1,
+   "gotShare": 18.4,
+   "gotFreq": 4.5
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "s1ren",
+   "R": 3221,
+   "gotR": 132.4,
+   "gaveR": 90.4,
+   "net": 41.9,
+   "gotShare": 15.9,
+   "gotFreq": 4.2
+  },
+  {
+   "team": "B8",
+   "nick": "nipl",
+   "R": 960,
+   "gotR": 127.6,
+   "gaveR": 82.8,
+   "net": 44.8,
+   "gotShare": 29.4,
+   "gotFreq": 4.7
+  },
+  {
+   "team": "HOTU",
+   "nick": "frontales",
+   "R": 1202,
+   "gotR": 125.9,
+   "gaveR": 215,
+   "net": -89.1,
+   "gotShare": 20.1,
+   "gotFreq": 5.2
+  },
+  {
+   "team": "Passion UA",
+   "nick": "mesaminicx",
+   "R": 1718,
+   "gotR": 125.1,
+   "gaveR": 130.8,
+   "net": -5.8,
+   "gotShare": 16,
+   "gotFreq": 4.6
+  },
+  {
+   "team": "Natus Vincere",
+   "nick": "GL `iM-",
+   "R": 2295,
+   "gotR": 124.5,
+   "gaveR": 143.6,
+   "net": -19.1,
+   "gotShare": 14.7,
+   "gotFreq": 4.3
+  },
+  {
+   "team": "Alliance",
+   "nick": "bobeksde",
+   "R": 1255,
+   "gotR": 124.5,
+   "gaveR": 124.9,
+   "net": -0.5,
+   "gotShare": 8.4,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "GamerLegion",
+   "nick": "PR-",
+   "R": 2004,
+   "gotR": 122.9,
+   "gaveR": 65.8,
+   "net": 57.1,
+   "gotShare": 14.9,
+   "gotFreq": 4.1
+  },
+  {
+   "team": "FURIA",
+   "nick": "yuurih",
+   "R": 3890,
+   "gotR": 122.5,
+   "gaveR": 126,
+   "net": -3.5,
+   "gotShare": 13.3,
+   "gotFreq": 4.3
+  },
+  {
+   "team": "9z Globant",
+   "nick": "dgt",
+   "R": 1399,
+   "gotR": 122,
+   "gaveR": 133.7,
+   "net": -11.8,
+   "gotShare": 15.1,
+   "gotFreq": 4.3
+  },
+  {
+   "team": "HOTU",
+   "nick": "INDmizucze",
+   "R": 1202,
+   "gotR": 120.5,
+   "gaveR": 90.4,
+   "net": 30.1,
+   "gotShare": 19.2,
+   "gotFreq": 5.2
+  },
+  {
+   "team": "Vitality",
+   "nick": "ropz",
+   "R": 3138,
+   "gotR": 119.8,
+   "gaveR": 104.4,
+   "net": 15.3,
+   "gotShare": 15.7,
+   "gotFreq": 4.2
+  },
+  {
+   "team": "MOUZ",
+   "nick": "xelex",
+   "R": 2194,
+   "gotR": 119.7,
+   "gaveR": 80.4,
+   "net": 39.2,
+   "gotShare": 13.3,
+   "gotFreq": 4.8
+  },
+  {
+   "team": "NRG",
+   "nick": "R5ThunderCraig",
+   "R": 1792,
+   "gotR": 119.6,
+   "gaveR": 75.4,
+   "net": 44.2,
+   "gotShare": 18.7,
+   "gotFreq": 4.3
+  },
+  {
+   "team": "9z",
+   "nick": "meyern",
+   "R": 1870,
+   "gotR": 119.2,
+   "gaveR": 289.9,
+   "net": -170.7,
+   "gotShare": 13.8,
+   "gotFreq": 4.8
+  },
+  {
+   "team": "paiN Gaming",
+   "nick": "★ ⑳ piriajr-",
+   "R": 1545,
+   "gotR": 118.6,
+   "gaveR": 115.6,
+   "net": 3,
+   "gotShare": 14.5,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "Imperial",
+   "nick": "VINI",
+   "R": 2308,
+   "gotR": 118.5,
+   "gaveR": 147.1,
+   "net": -28.6,
+   "gotShare": 14.3,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "FUT",
+   "nick": "c3m3t3ry44",
+   "R": 3013,
+   "gotR": 118.4,
+   "gaveR": 254.2,
+   "net": -135.8,
+   "gotShare": 18.6,
+   "gotFreq": 4.7
+  },
+  {
+   "team": "HEROIC",
+   "nick": "susp",
+   "R": 3729,
+   "gotR": 118.2,
+   "gaveR": 117.8,
+   "net": 0.5,
+   "gotShare": 14.2,
+   "gotFreq": 4.5
+  },
+  {
+   "team": "MOUZ",
+   "nick": "Jimppahat",
+   "R": 1164,
+   "gotR": 117.7,
+   "gaveR": 91.2,
+   "net": 26.5,
+   "gotShare": 6.9,
+   "gotFreq": 4.1
+  },
+  {
+   "team": "B8 Esports",
+   "nick": "nipl",
+   "R": 2221,
+   "gotR": 116.6,
+   "gaveR": 79.8,
+   "net": 36.8,
+   "gotShare": 25.8,
+   "gotFreq": 4.8
+  },
+  {
+   "team": "Aurora",
+   "nick": "MAJ3R",
+   "R": 2199,
+   "gotR": 115.5,
+   "gaveR": 192.1,
+   "net": -76.6,
+   "gotShare": 6.5,
+   "gotFreq": 4.4
+  },
+  {
+   "team": "9z",
+   "nick": "dgt",
+   "R": 1871,
+   "gotR": 114.7,
+   "gaveR": 127.1,
+   "net": -12.4,
+   "gotShare": 13.3,
+   "gotFreq": 4.3
+  },
+  {
+   "team": "EYEBALLERS",
+   "nick": "Ro1f",
+   "R": 1193,
+   "gotR": 113.7,
+   "gaveR": 103.2,
+   "net": 10.5,
+   "gotShare": 18.3,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "Monte",
+   "nick": "AZUWU-",
+   "R": 1670,
+   "gotR": 112.8,
+   "gaveR": 119.1,
+   "net": -6.3,
+   "gotShare": 13.4,
+   "gotFreq": 4.1
+  },
+  {
+   "team": "Natus Vincere",
+   "nick": "w0nderful",
+   "R": 2295,
+   "gotR": 112,
+   "gaveR": 222.6,
+   "net": -110.6,
+   "gotShare": 13.3,
+   "gotFreq": 6.2
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "d1ledez",
+   "R": 2726,
+   "gotR": 110.9,
+   "gaveR": 134.1,
+   "net": -23.2,
+   "gotShare": 11.3,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": "frozen",
+   "R": 2163,
+   "gotR": 110.9,
+   "gaveR": 110,
+   "net": 0.9,
+   "gotShare": 12.6,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "Astralis",
+   "nick": "phzy",
+   "R": 3487,
+   "gotR": 110.5,
+   "gaveR": 295.9,
+   "net": -185.5,
+   "gotShare": 14.1,
+   "gotFreq": 6.1
+  },
+  {
+   "team": "NRG",
+   "nick": "hallzerk",
+   "R": 859,
+   "gotR": 110,
+   "gaveR": 141.7,
+   "net": -31.7,
+   "gotShare": 8.2,
+   "gotFreq": 3.5
+  },
+  {
+   "team": "Vitality",
+   "nick": "ZywOo",
+   "R": 3138,
+   "gotR": 109.7,
+   "gaveR": 337.4,
+   "net": -227.7,
+   "gotShare": 14.4,
+   "gotFreq": 6.5
+  },
+  {
+   "team": "MIBR",
+   "nick": "Night_kl1m",
+   "R": 1935,
+   "gotR": 109.7,
+   "gaveR": 206.3,
+   "net": -96.5,
+   "gotShare": 8.3,
+   "gotFreq": 4.9
+  },
+  {
+   "team": "BETBOOM",
+   "nick": "FL4MUS",
+   "R": 1409,
+   "gotR": 108.6,
+   "gaveR": 87.8,
+   "net": 20.8,
+   "gotShare": 5.7,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "NRG",
+   "nick": "Sonic",
+   "R": 2729,
+   "gotR": 107.7,
+   "gaveR": 65.8,
+   "net": 41.9,
+   "gotShare": 25.6,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "B8",
+   "nick": "kensizor",
+   "R": 960,
+   "gotR": 105.3,
+   "gaveR": 70.8,
+   "net": 34.5,
+   "gotShare": 24.2,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "BIG",
+   "nick": "gr1ks",
+   "R": 3613,
+   "gotR": 104.8,
+   "gaveR": 273.7,
+   "net": -168.9,
+   "gotShare": 13.3,
+   "gotFreq": 4.2
+  },
+  {
+   "team": "GamerLegion",
+   "nick": "Snax",
+   "R": 3146,
+   "gotR": 103.5,
+   "gaveR": 89.7,
+   "net": 13.8,
+   "gotShare": 19.7,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "Team Liquid",
+   "nick": "malbsMd",
+   "R": 1039,
+   "gotR": 102.9,
+   "gaveR": 102.5,
+   "net": 0.4,
+   "gotShare": 15.8,
+   "gotFreq": 4.2
+  },
+  {
+   "team": "M80",
+   "nick": "Swisher",
+   "R": 3432,
+   "gotR": 101.5,
+   "gaveR": 81.1,
+   "net": 20.4,
+   "gotShare": 19.2,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "SINNERS",
+   "nick": "StressarN",
+   "R": 1065,
+   "gotR": 99.6,
+   "gaveR": 87.9,
+   "net": 11.7,
+   "gotShare": 17.8,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "BIG",
+   "nick": "JDC",
+   "R": 3569,
+   "gotR": 98.7,
+   "gaveR": 142.8,
+   "net": -44.1,
+   "gotShare": 12.4,
+   "gotFreq": 3.5
+  },
+  {
+   "team": "The MongolZ",
+   "nick": "910-",
+   "R": 2040,
+   "gotR": 98.3,
+   "gaveR": 270.8,
+   "net": -172.5,
+   "gotShare": 11,
+   "gotFreq": 5.4
+  },
+  {
+   "team": "GamerLegion",
+   "nick": "exQBFTauson-",
+   "R": 3192,
+   "gotR": 98.2,
+   "gaveR": 83,
+   "net": 15.2,
+   "gotShare": 19,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "MIBR",
+   "nick": "★ ㉑ brnz4n-_-",
+   "R": 2340,
+   "gotR": 98.2,
+   "gaveR": 74.4,
+   "net": 23.8,
+   "gotShare": 9,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "Gamdom Imperial",
+   "nick": "chelo",
+   "R": 1467,
+   "gotR": 96.8,
+   "gaveR": 146.4,
+   "net": -49.5,
+   "gotShare": 11.5,
+   "gotFreq": 4
+  },
+  {
+   "team": "FURIA",
+   "nick": "molodoy1717",
+   "R": 3890,
+   "gotR": 95.8,
+   "gaveR": 259.4,
+   "net": -163.6,
+   "gotShare": 10.4,
+   "gotFreq": 4.2
+  },
+  {
+   "team": "FUT",
+   "nick": "lauNX-",
+   "R": 2321,
+   "gotR": 95.8,
+   "gaveR": 119.4,
+   "net": -23.6,
+   "gotShare": 11.6,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "Aurora",
+   "nick": "XANTARES",
+   "R": 3648,
+   "gotR": 95.1,
+   "gaveR": 240.2,
+   "net": -145.1,
+   "gotShare": 8.9,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "Team Liquid",
+   "nick": "iBoarssiuhy",
+   "R": 857,
+   "gotR": 94.7,
+   "gaveR": 52.9,
+   "net": 41.8,
+   "gotShare": 12,
+   "gotFreq": 4.1
+  },
+  {
+   "team": "B8 Esports",
+   "nick": "esenthial",
+   "R": 2221,
+   "gotR": 94.6,
+   "gaveR": 73.1,
+   "net": 21.5,
+   "gotShare": 20.9,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "TYLOO",
+   "nick": "Moseyuh",
+   "R": 2214,
+   "gotR": 94.5,
+   "gaveR": 121.8,
+   "net": -27.3,
+   "gotShare": 12.3,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "GamerLegion",
+   "nick": "hypexx-",
+   "R": 3248,
+   "gotR": 94.4,
+   "gaveR": 172.8,
+   "net": -78.4,
+   "gotShare": 18.5,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "MOUZ",
+   "nick": "PR-",
+   "R": 1277,
+   "gotR": 91.8,
+   "gaveR": 91.8,
+   "net": 0,
+   "gotShare": 5.9,
+   "gotFreq": 3.9
+  },
+  {
+   "team": "B8",
+   "nick": "esenthial",
+   "R": 960,
+   "gotR": 91.8,
+   "gaveR": 67.9,
+   "net": 23.9,
+   "gotShare": 21.1,
+   "gotFreq": 3.3
+  },
+  {
+   "team": "3DMAX",
+   "nick": "Lucky",
+   "R": 3354,
+   "gotR": 91.5,
+   "gaveR": 76.5,
+   "net": 14.9,
+   "gotShare": 18.4,
+   "gotFreq": 3.4
+  },
+  {
+   "team": "SINNERS",
+   "nick": "SHOCK",
+   "R": 1065,
+   "gotR": 91.3,
+   "gaveR": 100.1,
+   "net": -8.9,
+   "gotShare": 16.3,
+   "gotFreq": 4.8
+  },
+  {
+   "team": "FaZe Clan",
+   "nick": "JBOEN",
+   "R": 1091,
+   "gotR": 90.5,
+   "gaveR": 251.3,
+   "net": -160.8,
+   "gotShare": 5.2,
+   "gotFreq": 3.8
+  },
+  {
+   "team": "9z Globant",
+   "nick": "meyern",
+   "R": 1399,
+   "gotR": 90.3,
+   "gaveR": 285.1,
+   "net": -194.8,
+   "gotShare": 11.2,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "M80",
+   "nick": "-JBa",
+   "R": 3432,
+   "gotR": 88.7,
+   "gaveR": 84,
+   "net": 4.6,
+   "gotShare": 16.8,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "Gentle Mates",
+   "nick": "dav1g",
+   "R": 2618,
+   "gotR": 88.1,
+   "gaveR": 85.2,
+   "net": 2.9,
+   "gotShare": 23.7,
+   "gotFreq": 3.2
+  },
+  {
+   "team": "FUT",
+   "nick": "dem0n ♡",
+   "R": 3013,
+   "gotR": 87.3,
+   "gaveR": 80.7,
+   "net": 6.7,
+   "gotShare": 13.7,
+   "gotFreq": 3.6
+  },
+  {
+   "team": "The MongolZ",
+   "nick": "bLitz",
+   "R": 2040,
+   "gotR": 87.1,
+   "gaveR": 124.6,
+   "net": -37.6,
+   "gotShare": 9.7,
+   "gotFreq": 4.4
+  },
+  {
+   "team": "B8 Esports",
+   "nick": "kensizor",
+   "R": 2221,
+   "gotR": 86.4,
+   "gaveR": 60.6,
+   "net": 25.8,
+   "gotShare": 19.1,
+   "gotFreq": 3.1
+  },
+  {
+   "team": "Gentle Mates",
+   "nick": "Martineez",
+   "R": 2263,
+   "gotR": 85.3,
+   "gaveR": 94.3,
+   "net": -9,
+   "gotShare": 19.8,
+   "gotFreq": 4
+  },
+  {
+   "team": "SINNERS",
+   "nick": "MoDo-",
+   "R": 1065,
+   "gotR": 84.9,
+   "gaveR": 194.5,
+   "net": -109.6,
+   "gotShare": 15.1,
+   "gotFreq": 5.9
+  },
+  {
+   "team": "B8 Esports",
+   "nick": "alex666-",
+   "R": 2191,
+   "gotR": 82.7,
+   "gaveR": 69.4,
+   "net": 13.3,
+   "gotShare": 18,
+   "gotFreq": 3.2
+  },
+  {
+   "team": "Team Liquid",
+   "nick": "NAF",
+   "R": 1333,
+   "gotR": 82.2,
+   "gaveR": 56.7,
+   "net": 25.5,
+   "gotShare": 16.1,
+   "gotFreq": 2.9
+  }
+ ],
+ "matrices": {
+  "Vitality": {
+   "apEX": {
+    "ropz": 59200,
+    "flameZ": 74550,
+    "ZywOo": 75850,
+    "mezii": 23450,
+    "jL": 3300
+   },
+   "mezii": {
+    "ropz": 36450,
+    "ZywOo": 47450,
+    "apEX": 80450,
+    "flameZ": 59250
+   },
+   "ZywOo": {
+    "ropz": 146800,
+    "apEX": 395650,
+    "flameZ": 408300,
+    "mezii": 40000,
+    "jL": 12600
+   },
+   "ropz": {
+    "apEX": 80450,
+    "flameZ": 97150,
+    "mezii": 15350,
+    "ZywOo": 65900,
+    "jL": 3100
+   },
+   "flameZ": {
+    "ropz": 65150,
+    "apEX": 168850,
+    "ZywOo": 112200,
+    "mezii": 39650,
+    "jL": 10100
+   },
+   "jL": {
+    "apEX": 7650,
+    "flameZ": 15800,
+    "ZywOo": 5600,
+    "ropz": 2900
+   }
+  },
+  "Falcons": {
+   "TeSeS": {
+    "kyxsan": 54400,
+    "m0NESY": 118650,
+    "kyousuke": 102400,
+    "NiKo": 36250,
+    "karrigan": 68150
+   },
+   "m0NESY": {
+    "kyxsan": 153900,
+    "TeSeS": 289600,
+    "kyousuke": 219950,
+    "NiKo": 168500,
+    "karrigan": 250750,
+    "flamie(sub)": 17850
+   },
+   "NiKo": {
+    "TeSeS": 75900,
+    "m0NESY": 155150,
+    "kyxsan": 96650,
+    "kyousuke": 76300,
+    "karrigan": 88400
+   },
+   "kyxsan": {
+    "TeSeS": 35400,
+    "m0NESY": 53000,
+    "kyousuke": 49800,
+    "NiKo": 25900,
+    "flamie(sub)": 2300
+   },
+   "kyousuke": {
+    "kyxsan": 76050,
+    "NiKo": 71600,
+    "m0NESY": 108500,
+    "TeSeS": 133750,
+    "karrigan": 88050
+   },
+   "karrigan": {
+    "TeSeS": 48800,
+    "NiKo": 47050,
+    "m0NESY": 74900,
+    "kyousuke": 37700
+   },
+   "flamie(sub)": {
+    "kyxsan": 5400,
+    "TeSeS": 3900,
+    "m0NESY": 8450,
+    "NiKo": 400
+   }
+  },
+  "MOUZ": {
+   "Brollan": {
+    "Spinx": 23450,
+    "Jimppahat": 9300,
+    "torzsi": 5000,
+    "xertioN": 59100,
+    "xelex": 3750
+   },
+   "torzsi": {
+    "Brollan": 98500,
+    "xertioN": 153250,
+    "Jimppahat": 45000,
+    "xelex": 77200,
+    "Spinx": 54550,
+    "PR-": 46050,
+    "jL": 42800
+   },
+   "Spinx": {
+    "Brollan": 57500,
+    "xertioN": 88250,
+    "torzsi": 43850,
+    "xelex": 24350,
+    "Jimppahat": 22600,
+    "jL": 17400,
+    "PR-": 14900
+   },
+   "xertioN": {
+    "Brollan": 110750,
+    "Jimppahat": 54250,
+    "xelex": 80800,
+    "torzsi": 79800,
+    "PR-": 30550,
+    "Spinx": 64500,
+    "jL": 29250
+   },
+   "Jimppahat": {
+    "xertioN": 30400,
+    "Brollan": 35500,
+    "torzsi": 18000,
+    "Spinx": 5600
+   },
+   "xelex": {
+    "torzsi": 23200,
+    "xertioN": 86450,
+    "PR-": 15600,
+    "Spinx": 18950,
+    "jL": 15850,
+    "Brollan": 3600
+   },
+   "PR-": {
+    "xertioN": 43200,
+    "xelex": 26700,
+    "torzsi": 21800,
+    "Spinx": 22800
+   },
+   "jL": {
+    "torzsi": 9950,
+    "xelex": 21150,
+    "xertioN": 20600,
+    "Spinx": 16300
+   }
+  },
+  "FURIA": {
+   "FalleN": {
+    "molodoy1717": 111200,
+    "YEKINDAR": 176850,
+    "yuurih": 93950,
+    "KSCERATO": 117600
+   },
+   "molodoy1717": {
+    "FalleN": 342900,
+    "KSCERATO": 182200,
+    "YEKINDAR": 215000,
+    "yuurih": 93600
+   },
+   "KSCERATO": {
+    "FalleN": 282500,
+    "yuurih": 86650,
+    "YEKINDAR": 129200,
+    "molodoy1717": 78950
+   },
+   "YEKINDAR": {
+    "KSCERATO": 95050,
+    "yuurih": 92550,
+    "FalleN": 272450,
+    "molodoy1717": 54500
+   },
+   "yuurih": {
+    "FalleN": 148200,
+    "YEKINDAR": 113450,
+    "KSCERATO": 62800,
+    "molodoy1717": 71350
+   }
+  },
+  "Aurora": {
+   "woxic": {
+    "Wicadia": 243850,
+    "XANTARES": 105100,
+    "Sangal-Soulfly": 97750,
+    "Jimppahat": 41050,
+    "kyxsan": 152900,
+    "MAJ3R": 61800
+   },
+   "XANTARES": {
+    "MAJ3R": 53100,
+    "Sangal-Soulfly": 77000,
+    "woxic": 263900,
+    "Wicadia": 121100,
+    "kyxsan": 179500,
+    "Jimppahat": 44400
+   },
+   "MAJ3R": {
+    "woxic": 187050,
+    "XANTARES": 36900,
+    "Wicadia": 76550,
+    "Sangal-Soulfly": 49600
+   },
+   "Sangal-Soulfly": {
+    "woxic": 177850,
+    "MAJ3R": 29450,
+    "XANTARES": 34750,
+    "Wicadia": 64350
+   },
+   "Wicadia": {
+    "woxic": 319800,
+    "MAJ3R": 84300,
+    "Sangal-Soulfly": 50150,
+    "XANTARES": 77150,
+    "kyxsan": 106750,
+    "Jimppahat": 48850
+   },
+   "Jimppahat": {
+    "woxic": 102600,
+    "kyxsan": 59450,
+    "XANTARES": 19200,
+    "Wicadia": 56300
+   },
+   "kyxsan": {
+    "woxic": 123400,
+    "Wicadia": 58750,
+    "XANTARES": 44100,
+    "Jimppahat": 30350
+   }
+  },
+  "Spirit": {
+   "donk": {
+    "SH1R0": 134200,
+    "tN1R": 168600,
+    "magixx": 248000,
+    "zontix": 129800
+   },
+   "tN1R": {
+    "magixx": 129900,
+    "donk": 175650,
+    "SH1R0": 103400,
+    "zontix": 94250,
+    "Spiritlo9d": 1250
+   },
+   "magixx": {
+    "donk": 143650,
+    "zontix": 77500,
+    "SH1R0": 83350,
+    "tN1R": 88500,
+    "Spiritlo9d": 2000
+   },
+   "SH1R0": {
+    "donk": 190900,
+    "magixx": 246200,
+    "zontix": 244250,
+    "tN1R": 109700,
+    "Spiritlo9d": 7850
+   },
+   "zontix": {
+    "SH1R0": 84100,
+    "donk": 101850,
+    "magixx": 97800,
+    "tN1R": 51600,
+    "Spiritlo9d": 1450
+   },
+   "Spiritlo9d": {
+    "SH1R0": 2000,
+    "magixx": 3400,
+    "zontix": 3600,
+    "tN1R": 2700
+   }
+  },
+  "FUT": {
+   "dem0n ♡": {
+    "coolio": 200,
+    "c3m3t3ry44": 81100,
+    "dziugss": 50800,
+    "Krabeni": 62650,
+    "lauNX-": 10800,
+    "xfl0ud": 8900
+   },
+   "c3m3t3ry44": {
+    "Krabeni": 262450,
+    "dziugss": 235800,
+    "lauNX-": 95350,
+    "dem0n ♡": 56850,
+    "xfl0ud": 49050
+   },
+   "Krabeni": {
+    "c3m3t3ry44": 91100,
+    "coolio": 400,
+    "dem0n ♡": 59150,
+    "lauNX-": 38450,
+    "dziugss": 70600,
+    "xfl0ud": 26350
+   },
+   "dziugss": {
+    "c3m3t3ry44": 67400,
+    "Krabeni": 55450,
+    "lauNX-": 48950,
+    "dem0n ♡": 35000,
+    "xfl0ud": 11200
+   },
+   "coolio": {
+    "Krabeni": 200
+   },
+   "lauNX-": {
+    "dem0n ♡": 73200,
+    "Krabeni": 54850,
+    "c3m3t3ry44": 54050,
+    "dziugss": 73900
+   },
+   "xfl0ud": {
+    "c3m3t3ry44": 18250,
+    "Krabeni": 17950,
+    "dziugss": 6000,
+    "dem0n ♡": 17000
+   }
+  },
+  "G2": {
+   "Matys": {
+    "SunPayus": 101850,
+    "huNter-": 107050,
+    "HeavyGod": 90650,
+    "malbsMd": 37100,
+    "NertZ": 73950,
+    "r1nkle": 24650,
+    "-tAk": 1950
+   },
+   "huNter-": {
+    "malbsMd": 28000,
+    "HeavyGod": 64150,
+    "SunPayus": 82250,
+    "Matys": 150650,
+    "r1nkle": 10950,
+    "NertZ": 55750
+   },
+   "malbsMd": {
+    "huNter-": 48100,
+    "Matys": 50350,
+    "SunPayus": 26200,
+    "HeavyGod": 31500
+   },
+   "HeavyGod": {
+    "Matys": 140000,
+    "SunPayus": 78400,
+    "huNter-": 77500,
+    "-tAk": 13900,
+    "r1nkle": 9300,
+    "NertZ": 74350,
+    "malbsMd": 22950
+   },
+   "SunPayus": {
+    "huNter-": 180300,
+    "Matys": 265550,
+    "HeavyGod": 71100,
+    "-tAk": 4750,
+    "malbsMd": 58400,
+    "NertZ": 70800
+   },
+   "-tAk": {
+    "Matys": 5800,
+    "HeavyGod": 6850,
+    "NertZ": 4700
+   },
+   "NertZ": {
+    "SunPayus": 39600,
+    "Matys": 101900,
+    "huNter-": 68300,
+    "HeavyGod": 91950,
+    "r1nkle": 8500,
+    "-tAk": 200
+   },
+   "r1nkle": {
+    "huNter-": 36900,
+    "Matys": 66600,
+    "NertZ": 14850,
+    "HeavyGod": 12600
+   }
+  },
+  "BETBOOM": {
+   "FL4MUS": {
+    "Boombl4": 47900,
+    "zorte x LUKOIL": 6700,
+    "AvoidMagnojez---": 39350,
+    "d1ledez": 900,
+    "s1ren": 11200
+   },
+   "AvoidMagnojez---": {
+    "Boombl4": 134150,
+    "zorte x LUKOIL": 27000,
+    "s1ren": 73200,
+    "d1ledez": 67200,
+    "FL4MUS": 29250,
+    "ArtFr0st": 28800,
+    "Ax1Le": 2700
+   },
+   "zorte x LUKOIL": {
+    "Boombl4": 200900,
+    "s1ren": 153700,
+    "AvoidMagnojez---": 160700,
+    "d1ledez": 59050,
+    "FL4MUS": 57750
+   },
+   "Boombl4": {
+    "zorte x LUKOIL": 18800,
+    "s1ren": 61000,
+    "d1ledez": 65100,
+    "AvoidMagnojez---": 127100,
+    "FL4MUS": 14250,
+    "ArtFr0st": 50100
+   },
+   "s1ren": {
+    "zorte x LUKOIL": 38050,
+    "AvoidMagnojez---": 71000,
+    "Boombl4": 65000,
+    "d1ledez": 30700,
+    "FL4MUS": 8500,
+    "ArtFr0st": 21950,
+    "Ax1Le": 3300
+   },
+   "d1ledez": {
+    "FL4MUS": 7850,
+    "AvoidMagnojez---": 92950,
+    "zorte x LUKOIL": 4300,
+    "s1ren": 26750,
+    "Boombl4": 93250,
+    "ArtFr0st": 114650,
+    "Ax1Le": 2900
+   },
+   "ArtFr0st": {
+    "Boombl4": 143550,
+    "s1ren": 63150,
+    "d1ledez": 59400,
+    "AvoidMagnojez---": 44900,
+    "Ax1Le": 34800
+   },
+   "Ax1Le": {
+    "ArtFr0st": 16850,
+    "s1ren": 2900,
+    "AvoidMagnojez---": 8700
+   },
+   "MAGILA": {
+    "Sidivo": 2700
+   }
+  },
+  "Legacy": {
+   "dumau": {
+    "arT": 180200,
+    "try": 62200,
+    "n1ssim": 114700,
+    "latto": 78800,
+    "saadzin_": 89950,
+    "★ ⑳ lux[1]": 6250,
+    "★ ⑳ BobZ": 15500
+   },
+   "arT": {
+    "dumau": 103850,
+    "latto": 110450,
+    "try": 64950,
+    "n1ssim": 74900,
+    "saadzin_": 74150
+   },
+   "latto": {
+    "dumau": 78400,
+    "try": 52450,
+    "n1ssim": 50550,
+    "arT": 109300,
+    "saadzin_": 67650,
+    "★ ⑳ BobZ": 17550,
+    "★ ⑳ lux[1]": 24250
+   },
+   "try": {
+    "dumau": 134800,
+    "latto": 54650,
+    "arT": 91700,
+    "n1ssim": 65950,
+    "★ ⑳ BobZ": 23800
+   },
+   "n1ssim": {
+    "arT": 59900,
+    "dumau": 103700,
+    "try": 53350,
+    "latto": 28800,
+    "★ ⑳ BobZ": 1200,
+    "saadzin_": 58700,
+    "★ ⑳ lux[1]": 8900
+   },
+   "saadzin_": {
+    "dumau": 205700,
+    "arT": 87850,
+    "latto": 99750,
+    "n1ssim": 95750
+   },
+   "★ ⑳ BobZ": {
+    "dumau": 12600,
+    "try": 11850,
+    "latto": 5150,
+    "n1ssim": 6850
+   },
+   "★ ⑳ lux[1]": {
+    "saadzin_": 11200,
+    "n1ssim": 3950,
+    "dumau": 5800
+   }
+  }
+ }
+}
