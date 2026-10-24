@@ -1,0 +1,1712 @@
+[
+ {
+  "nick": "kyxsan",
+  "R": 2709,
+  "buy": 2.5,
+  "fed": 2.8,
+  "keep": 1.4,
+  "pickup": 0.1,
+  "lost": 4.5,
+  "fastRebuy": 3
+ },
+ {
+  "nick": "dumau",
+  "R": 3496,
+  "buy": 1.9,
+  "fed": 2.8,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 4.1,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Rainwaker",
+  "R": 2723,
+  "buy": 1,
+  "fed": 2.8,
+  "keep": 1.9,
+  "pickup": 0.1,
+  "lost": 3.5,
+  "fastRebuy": 26
+ },
+ {
+  "nick": "karrigan",
+  "R": 3105,
+  "buy": 1.7,
+  "fed": 2.7,
+  "keep": 1,
+  "pickup": 0,
+  "lost": 4,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "Techno4K",
+  "R": 2645,
+  "buy": 1.6,
+  "fed": 2.6,
+  "keep": 1.4,
+  "pickup": 0.1,
+  "lost": 3.7,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "Snappi",
+  "R": 2923,
+  "buy": 1.9,
+  "fed": 2.6,
+  "keep": 1.6,
+  "pickup": 0.1,
+  "lost": 4.1,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "SELEÇAnoway",
+  "R": 4311,
+  "buy": 1.4,
+  "fed": 2.5,
+  "keep": 1.4,
+  "pickup": 0.3,
+  "lost": 3.5,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "blameF",
+  "R": 3613,
+  "buy": 1.8,
+  "fed": 2.3,
+  "keep": 1.9,
+  "pickup": 0.1,
+  "lost": 3.5,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "SUN.nota",
+  "R": 2359,
+  "buy": 2.8,
+  "fed": 2.2,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 4.2,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "zweih666",
+  "R": 3617,
+  "buy": 1.7,
+  "fed": 2.2,
+  "keep": 1.3,
+  "pickup": 0.2,
+  "lost": 3.6,
+  "fastRebuy": 21
+ },
+ {
+  "nick": "TeSeS",
+  "R": 3352,
+  "buy": 3.7,
+  "fed": 2.2,
+  "keep": 1.8,
+  "pickup": 0,
+  "lost": 5.2,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Neityu",
+  "R": 2086,
+  "buy": 4.1,
+  "fed": 2.2,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 5.7,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "arT",
+  "R": 2985,
+  "buy": 2.8,
+  "fed": 2.2,
+  "keep": 1.3,
+  "pickup": 0.4,
+  "lost": 4.7,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "flameZ",
+  "R": 3138,
+  "buy": 3.1,
+  "fed": 2.1,
+  "keep": 1.6,
+  "pickup": 0,
+  "lost": 4.3,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "FalleN",
+  "R": 3890,
+  "buy": 3.2,
+  "fed": 2.1,
+  "keep": 1.7,
+  "pickup": 0.5,
+  "lost": 5,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "★ ⑳ luchov",
+  "R": 3652,
+  "buy": 2.8,
+  "fed": 2.1,
+  "keep": 1.5,
+  "pickup": 0,
+  "lost": 4.1,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "Matys",
+  "R": 3727,
+  "buy": 2.1,
+  "fed": 2.1,
+  "keep": 1,
+  "pickup": 0,
+  "lost": 3.5,
+  "fastRebuy": 3
+ },
+ {
+  "nick": "sFade",
+  "R": 2032,
+  "buy": 1.3,
+  "fed": 2.1,
+  "keep": 0.5,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "magixx",
+  "R": 3029,
+  "buy": 2.5,
+  "fed": 2,
+  "keep": 1.8,
+  "pickup": 0.2,
+  "lost": 4.2,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "faveN",
+  "R": 3485,
+  "buy": 1.8,
+  "fed": 2,
+  "keep": 1.9,
+  "pickup": 0.1,
+  "lost": 3.1,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "Brollan",
+  "R": 3412,
+  "buy": 2.8,
+  "fed": 1.9,
+  "keep": 1.6,
+  "pickup": 0,
+  "lost": 4,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "Aleksib",
+  "R": 2911,
+  "buy": 2.2,
+  "fed": 1.9,
+  "keep": 1.7,
+  "pickup": 0,
+  "lost": 3.5,
+  "fastRebuy": 16
+ },
+ {
+  "nick": "zontix",
+  "R": 3029,
+  "buy": 1.1,
+  "fed": 1.9,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 2.7,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "donk",
+  "R": 2955,
+  "buy": 0.5,
+  "fed": 1.9,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 25
+ },
+ {
+  "nick": "dziugss",
+  "R": 3013,
+  "buy": 0.8,
+  "fed": 1.9,
+  "keep": 0.8,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 26
+ },
+ {
+  "nick": "CEMEN_BAKIN",
+  "R": 3132,
+  "buy": 3,
+  "fed": 1.9,
+  "keep": 1.1,
+  "pickup": 0.2,
+  "lost": 4.6,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Boombl4",
+  "R": 3706,
+  "buy": 2.3,
+  "fed": 1.9,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 3.5,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "n1ssim",
+  "R": 3496,
+  "buy": 2.4,
+  "fed": 1.9,
+  "keep": 1.5,
+  "pickup": 0.1,
+  "lost": 4,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "apEX",
+  "R": 3138,
+  "buy": 3.7,
+  "fed": 1.8,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 4.8,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "Mzinho",
+  "R": 2362,
+  "buy": 1.9,
+  "fed": 1.8,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 3.4,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "★ ⑳ insani",
+  "R": 3484,
+  "buy": 1.5,
+  "fed": 1.8,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "cobrazera--",
+  "R": 2485,
+  "buy": 1.1,
+  "fed": 1.7,
+  "keep": 0.8,
+  "pickup": 0.2,
+  "lost": 2.5,
+  "fastRebuy": 29
+ },
+ {
+  "nick": "Krabeni",
+  "R": 3013,
+  "buy": 1.6,
+  "fed": 1.7,
+  "keep": 0.5,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "Twistzz",
+  "R": 2999,
+  "buy": 3.3,
+  "fed": 1.7,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 4.4,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "Gizmy",
+  "R": 2650,
+  "buy": 2.7,
+  "fed": 1.7,
+  "keep": 1.1,
+  "pickup": 0.2,
+  "lost": 4,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "V$M",
+  "R": 2516,
+  "buy": 2.7,
+  "fed": 1.7,
+  "keep": 1.4,
+  "pickup": 0.2,
+  "lost": 4,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "ryu777",
+  "R": 3487,
+  "buy": 1.3,
+  "fed": 1.6,
+  "keep": 1.6,
+  "pickup": 0,
+  "lost": 2.5,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "YEKINDAR",
+  "R": 3890,
+  "buy": 1.9,
+  "fed": 1.5,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "woxic",
+  "R": 3750,
+  "buy": 3.4,
+  "fed": 1.5,
+  "keep": 6,
+  "pickup": 5.6,
+  "lost": 8.9,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "Wicadia",
+  "R": 3750,
+  "buy": 1.2,
+  "fed": 1.5,
+  "keep": 1,
+  "pickup": 0.6,
+  "lost": 2.8,
+  "fastRebuy": 22
+ },
+ {
+  "nick": "B1t",
+  "R": 2911,
+  "buy": 1.7,
+  "fed": 1.5,
+  "keep": 1.3,
+  "pickup": 0.1,
+  "lost": 2.9,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "s1ren",
+  "R": 3431,
+  "buy": 1.9,
+  "fed": 1.5,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "latto",
+  "R": 3496,
+  "buy": 1.7,
+  "fed": 1.5,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 17
+ },
+ {
+  "nick": "xfl0ud",
+  "R": 2516,
+  "buy": 2,
+  "fed": 1.5,
+  "keep": 1.1,
+  "pickup": 0.1,
+  "lost": 3.1,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "upExd",
+  "R": 3686,
+  "buy": 2,
+  "fed": 1.5,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 16
+ },
+ {
+  "nick": "Oz1k",
+  "R": 3070,
+  "buy": 2.4,
+  "fed": 1.5,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 3.5,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "FWxiELO-",
+  "R": 3617,
+  "buy": 1,
+  "fed": 1.4,
+  "keep": 0.9,
+  "pickup": 0.1,
+  "lost": 2.2,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "huNter-",
+  "R": 3521,
+  "buy": 2.8,
+  "fed": 1.4,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 3.9,
+  "fastRebuy": 8
+ },
+ {
+  "nick": ";]jcobbb",
+  "R": 2999,
+  "buy": 3,
+  "fed": 1.4,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 4,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "Chr1zN",
+  "R": 3920,
+  "buy": 3.3,
+  "fed": 1.4,
+  "keep": 0.9,
+  "pickup": 0.1,
+  "lost": 4.3,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "jabbi",
+  "R": 3299,
+  "buy": 2.4,
+  "fed": 1.4,
+  "keep": 1.8,
+  "pickup": 0.1,
+  "lost": 3.4,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "JamYoung",
+  "R": 2584,
+  "buy": 1.7,
+  "fed": 1.4,
+  "keep": 1.5,
+  "pickup": 0,
+  "lost": 2.6,
+  "fastRebuy": 19
+ },
+ {
+  "nick": "snowzin",
+  "R": 2925,
+  "buy": 2.1,
+  "fed": 1.4,
+  "keep": 1.3,
+  "pickup": 0.1,
+  "lost": 3.1,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "AZUWU-",
+  "R": 2723,
+  "buy": 1.9,
+  "fed": 1.4,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "cairne",
+  "R": 2553,
+  "buy": 1.3,
+  "fed": 1.4,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 16
+ },
+ {
+  "nick": "KSCERATO",
+  "R": 3890,
+  "buy": 1.7,
+  "fed": 1.3,
+  "keep": 1.3,
+  "pickup": 0.1,
+  "lost": 2.7,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "MaSvAl",
+  "R": 2032,
+  "buy": 2.7,
+  "fed": 1.3,
+  "keep": 1.4,
+  "pickup": 0.2,
+  "lost": 3.5,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "yxngstxr",
+  "R": 2506,
+  "buy": 3.5,
+  "fed": 1.3,
+  "keep": 3.6,
+  "pickup": 3,
+  "lost": 6.9,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "HooXi",
+  "R": 3299,
+  "buy": 3.8,
+  "fed": 1.3,
+  "keep": 1.5,
+  "pickup": 0,
+  "lost": 4.4,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "★ ⑳ venomzera",
+  "R": 3484,
+  "buy": 2.7,
+  "fed": 1.3,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 3.5,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "stavn",
+  "R": 2933,
+  "buy": 3.6,
+  "fed": 1.3,
+  "keep": 6.2,
+  "pickup": 5,
+  "lost": 8.5,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "VINI",
+  "R": 4311,
+  "buy": 3,
+  "fed": 1.3,
+  "keep": 1.6,
+  "pickup": 0.1,
+  "lost": 3.7,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "Jame",
+  "R": 3617,
+  "buy": 4.3,
+  "fed": 1.2,
+  "keep": 6.6,
+  "pickup": 5.3,
+  "lost": 9.4,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "Graviti",
+  "R": 3837,
+  "buy": 2.5,
+  "fed": 1.2,
+  "keep": 1,
+  "pickup": 0,
+  "lost": 3.3,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "max",
+  "R": 3599,
+  "buy": 2.3,
+  "fed": 1.2,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "AvoidMagnojez---",
+  "R": 3787,
+  "buy": 3.5,
+  "fed": 1.2,
+  "keep": 1.7,
+  "pickup": 0.1,
+  "lost": 4.4,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "FL4MUS",
+  "R": 2461,
+  "buy": 2.1,
+  "fed": 1.2,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.8,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Mercury",
+  "R": 2584,
+  "buy": 2.4,
+  "fed": 1.2,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 3.3,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "R5ThunderCraig",
+  "R": 2010,
+  "buy": 3,
+  "fed": 1.2,
+  "keep": 1.2,
+  "pickup": 0.1,
+  "lost": 3.6,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "★ ⑳ decenty",
+  "R": 3611,
+  "buy": 1.4,
+  "fed": 1.2,
+  "keep": 1.2,
+  "pickup": 0.1,
+  "lost": 2.4,
+  "fastRebuy": 17
+ },
+ {
+  "nick": "cronuss",
+  "R": 3070,
+  "buy": 0.9,
+  "fed": 1.2,
+  "keep": 0.7,
+  "pickup": 0.1,
+  "lost": 1.9,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "ropz",
+  "R": 3138,
+  "buy": 1.7,
+  "fed": 1.1,
+  "keep": 1.2,
+  "pickup": 0.2,
+  "lost": 2.5,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "NiKo",
+  "R": 3352,
+  "buy": 2.7,
+  "fed": 1.1,
+  "keep": 1.1,
+  "pickup": 0.1,
+  "lost": 3.4,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "Sangal-Soulfly",
+  "R": 2540,
+  "buy": 2.8,
+  "fed": 1.1,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3.4,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "makazze",
+  "R": 2911,
+  "buy": 0.6,
+  "fed": 1.1,
+  "keep": 0.8,
+  "pickup": 0,
+  "lost": 1.5,
+  "fastRebuy": 35
+ },
+ {
+  "nick": "Ex3rcice",
+  "R": 2191,
+  "buy": 2.8,
+  "fed": 1.1,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 3.3,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "HUASOPEEK",
+  "R": 3652,
+  "buy": 2.4,
+  "fed": 1.1,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "nipl",
+  "R": 3181,
+  "buy": 2.8,
+  "fed": 1.1,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 3.6,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "exQBFStaehrH",
+  "R": 3487,
+  "buy": 2.2,
+  "fed": 1.1,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 16
+ },
+ {
+  "nick": "Kvem",
+  "R": 2156,
+  "buy": 1.3,
+  "fed": 1.1,
+  "keep": 1.6,
+  "pickup": 0.3,
+  "lost": 2.3,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "Lake",
+  "R": 3432,
+  "buy": 2.4,
+  "fed": 1.1,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3.2,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "tabseN",
+  "R": 3613,
+  "buy": 2.5,
+  "fed": 1.1,
+  "keep": 1.5,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "twist",
+  "R": 3686,
+  "buy": 2.2,
+  "fed": 1.1,
+  "keep": 1.1,
+  "pickup": 0.1,
+  "lost": 2.8,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "bobeksde",
+  "R": 2046,
+  "buy": 1,
+  "fed": 1,
+  "keep": 0.6,
+  "pickup": 0,
+  "lost": 1.7,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "yuurih",
+  "R": 3890,
+  "buy": 3.4,
+  "fed": 1,
+  "keep": 2,
+  "pickup": 0,
+  "lost": 3.8,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "malbsMd",
+  "R": 2657,
+  "buy": 1.5,
+  "fed": 1,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "NertZ",
+  "R": 3362,
+  "buy": 1.8,
+  "fed": 1,
+  "keep": 0.5,
+  "pickup": 0,
+  "lost": 2.5,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "nilo",
+  "R": 3920,
+  "buy": 1.7,
+  "fed": 1,
+  "keep": 1.1,
+  "pickup": 0.1,
+  "lost": 2.4,
+  "fastRebuy": 19
+ },
+ {
+  "nick": "Zero ",
+  "R": 2584,
+  "buy": 1.5,
+  "fed": 1,
+  "keep": 0.8,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "biguzera",
+  "R": 2925,
+  "buy": 2.2,
+  "fed": 1,
+  "keep": 1,
+  "pickup": 0.1,
+  "lost": 3,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "Bymas",
+  "R": 2157,
+  "buy": 3.1,
+  "fed": 1,
+  "keep": 1.8,
+  "pickup": 0,
+  "lost": 3.7,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "NLG* s1n",
+  "R": 3432,
+  "buy": 3.6,
+  "fed": 1,
+  "keep": 1.6,
+  "pickup": 0,
+  "lost": 3.9,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "LNZ",
+  "R": 3484,
+  "buy": 2.4,
+  "fed": 1,
+  "keep": 0.9,
+  "pickup": 0.1,
+  "lost": 3,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "PR-",
+  "R": 3281,
+  "buy": 2,
+  "fed": 0.9,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.4,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "Jimppahat",
+  "R": 2613,
+  "buy": 2.3,
+  "fed": 0.9,
+  "keep": 1.5,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "GL `iM-",
+  "R": 2911,
+  "buy": 1.8,
+  "fed": 0.9,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "dgt",
+  "R": 3652,
+  "buy": 2.6,
+  "fed": 0.9,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "tN1R",
+  "R": 3029,
+  "buy": 3,
+  "fed": 0.9,
+  "keep": 1.8,
+  "pickup": 0,
+  "lost": 3.4,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "frozen",
+  "R": 2999,
+  "buy": 2.2,
+  "fed": 0.9,
+  "keep": 1.2,
+  "pickup": 0.1,
+  "lost": 3,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "lauNX-",
+  "R": 2321,
+  "buy": 1.4,
+  "fed": 0.9,
+  "keep": 0.3,
+  "pickup": 0.1,
+  "lost": 2.1,
+  "fastRebuy": 22
+ },
+ {
+  "nick": "susp",
+  "R": 3920,
+  "buy": 1.4,
+  "fed": 0.9,
+  "keep": 0.8,
+  "pickup": 0,
+  "lost": 2,
+  "fastRebuy": 19
+ },
+ {
+  "nick": "Moseyuh",
+  "R": 2584,
+  "buy": 1.9,
+  "fed": 0.9,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "★ ⑳ piriajr-",
+  "R": 2516,
+  "buy": 2,
+  "fed": 0.9,
+  "keep": 1.4,
+  "pickup": 0.2,
+  "lost": 2.8,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "sjuush",
+  "R": 4319,
+  "buy": 2.1,
+  "fed": 0.9,
+  "keep": 1.1,
+  "pickup": 0.1,
+  "lost": 2.7,
+  "fastRebuy": 22
+ },
+ {
+  "nick": "xKacpersky",
+  "R": 4319,
+  "buy": 1.4,
+  "fed": 0.9,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 17
+ },
+ {
+  "nick": "qikert",
+  "R": 2082,
+  "buy": 2.4,
+  "fed": 0.9,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "exQBFTauson-",
+  "R": 3192,
+  "buy": 1.6,
+  "fed": 0.8,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 21
+ },
+ {
+  "nick": "SH1R0",
+  "R": 3029,
+  "buy": 7,
+  "fed": 0.8,
+  "keep": 8.6,
+  "pickup": 4.5,
+  "lost": 10.3,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "HeavyGod",
+  "R": 3727,
+  "buy": 3.4,
+  "fed": 0.8,
+  "keep": 1,
+  "pickup": 0.1,
+  "lost": 3.7,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "kensizor",
+  "R": 3181,
+  "buy": 1.3,
+  "fed": 0.8,
+  "keep": 0.6,
+  "pickup": 0,
+  "lost": 1.9,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "esenthial",
+  "R": 3181,
+  "buy": 1.3,
+  "fed": 0.8,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 1.9,
+  "fastRebuy": 24
+ },
+ {
+  "nick": "d1ledez",
+  "R": 2977,
+  "buy": 2.3,
+  "fed": 0.8,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "try",
+  "R": 2988,
+  "buy": 4,
+  "fed": 0.8,
+  "keep": 5.5,
+  "pickup": 5.6,
+  "lost": 9,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "★ ⑳ nqzjre",
+  "R": 2936,
+  "buy": 6.2,
+  "fed": 0.8,
+  "keep": 6.9,
+  "pickup": 5.1,
+  "lost": 10.4,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "saadzin_",
+  "R": 4553,
+  "buy": 5.8,
+  "fed": 0.8,
+  "keep": 8.3,
+  "pickup": 5.1,
+  "lost": 9.9,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "★ ㉑ brnz4n-_-",
+  "R": 2426,
+  "buy": 2.5,
+  "fed": 0.8,
+  "keep": 1.6,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "JDC",
+  "R": 3569,
+  "buy": 2.4,
+  "fed": 0.8,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 2.7,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "m0NESY",
+  "R": 3352,
+  "buy": 5.5,
+  "fed": 0.7,
+  "keep": 6.6,
+  "pickup": 4.8,
+  "lost": 9.4,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "MAJ3R",
+  "R": 2301,
+  "buy": 2.3,
+  "fed": 0.7,
+  "keep": 0.7,
+  "pickup": 0.1,
+  "lost": 2.7,
+  "fastRebuy": 17
+ },
+ {
+  "nick": "Sonic",
+  "R": 2729,
+  "buy": 1.8,
+  "fed": 0.7,
+  "keep": 0.4,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "dav1g",
+  "R": 2979,
+  "buy": 2.6,
+  "fed": 0.7,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "afroo",
+  "R": 2723,
+  "buy": 5.4,
+  "fed": 0.7,
+  "keep": 7.8,
+  "pickup": 4.4,
+  "lost": 9.1,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "MaiL09",
+  "R": 2558,
+  "buy": 1.3,
+  "fed": 0.7,
+  "keep": 0.8,
+  "pickup": 0.1,
+  "lost": 1.8,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "avid",
+  "R": 3686,
+  "buy": 2.1,
+  "fed": 0.7,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 2.6,
+  "fastRebuy": 3
+ },
+ {
+  "nick": "BELCHONOKK",
+  "R": 3354,
+  "buy": 2.3,
+  "fed": 0.6,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 2.6,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "Snax",
+  "R": 3146,
+  "buy": 1.6,
+  "fed": 0.6,
+  "keep": 0.7,
+  "pickup": 0.1,
+  "lost": 2,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Lucky",
+  "R": 3777,
+  "buy": 2.8,
+  "fed": 0.6,
+  "keep": 1.2,
+  "pickup": 0.1,
+  "lost": 3.1,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "alex666-",
+  "R": 3151,
+  "buy": 2,
+  "fed": 0.6,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.3,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "tENZY",
+  "R": 2032,
+  "buy": 1.2,
+  "fed": 0.6,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 1.7,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "ALEX ",
+  "R": 2979,
+  "buy": 3.3,
+  "fed": 0.6,
+  "keep": 1.7,
+  "pickup": 0,
+  "lost": 3.6,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "Swisher",
+  "R": 3432,
+  "buy": 3,
+  "fed": 0.6,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 3.2,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "gr1ks",
+  "R": 3613,
+  "buy": 5.5,
+  "fed": 0.6,
+  "keep": 7.4,
+  "pickup": 5.6,
+  "lost": 10,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "chelo",
+  "R": 4311,
+  "buy": 2.9,
+  "fed": 0.6,
+  "keep": 1,
+  "pickup": 0,
+  "lost": 2.9,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "reyoz",
+  "R": 2278,
+  "buy": 1.8,
+  "fed": 0.6,
+  "keep": 1.2,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "xertioN",
+  "R": 3358,
+  "buy": 2.4,
+  "fed": 0.5,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.7,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "XANTARES",
+  "R": 3750,
+  "buy": 0.9,
+  "fed": 0.5,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 1.3,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "meyern",
+  "R": 3652,
+  "buy": 4.5,
+  "fed": 0.5,
+  "keep": 5.8,
+  "pickup": 4.1,
+  "lost": 8.1,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "c3m3t3ry44",
+  "R": 3086,
+  "buy": 5.4,
+  "fed": 0.5,
+  "keep": 5.5,
+  "pickup": 5.1,
+  "lost": 9.5,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "xelex",
+  "R": 2272,
+  "buy": 2.2,
+  "fed": 0.5,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 2.4,
+  "fastRebuy": 18
+ },
+ {
+  "nick": "JT",
+  "R": 2819,
+  "buy": 2.3,
+  "fed": 0.5,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 2.6,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "NAF",
+  "R": 2547,
+  "buy": 1.7,
+  "fed": 0.5,
+  "keep": 1.2,
+  "pickup": 0.4,
+  "lost": 2.3,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "misutaaa",
+  "R": 3644,
+  "buy": 3,
+  "fed": 0.5,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 3,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "sausoL",
+  "R": 2979,
+  "buy": 2.3,
+  "fed": 0.5,
+  "keep": 0.7,
+  "pickup": 0.1,
+  "lost": 2.6,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "ZywOo",
+  "R": 3138,
+  "buy": 3.9,
+  "fed": 0.4,
+  "keep": 6.5,
+  "pickup": 4.9,
+  "lost": 7.6,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "REZ",
+  "R": 3148,
+  "buy": 2.3,
+  "fed": 0.4,
+  "keep": 1.1,
+  "pickup": 0,
+  "lost": 2.5,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "910-",
+  "R": 2760,
+  "buy": 4.6,
+  "fed": 0.4,
+  "keep": 4.9,
+  "pickup": 5.8,
+  "lost": 9.1,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "Spinx",
+  "R": 3358,
+  "buy": 2.1,
+  "fed": 0.4,
+  "keep": 1.3,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 7
+ },
+ {
+  "nick": "molodoy1717",
+  "R": 3890,
+  "buy": 4.6,
+  "fed": 0.4,
+  "keep": 6.1,
+  "pickup": 6,
+  "lost": 9.2,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "dem0n ♡",
+  "R": 3013,
+  "buy": 1.9,
+  "fed": 0.4,
+  "keep": 0.4,
+  "pickup": 0,
+  "lost": 2.1,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "SunPayus",
+  "R": 2637,
+  "buy": 5.6,
+  "fed": 0.4,
+  "keep": 6.4,
+  "pickup": 4.1,
+  "lost": 8.7,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "s1zzi",
+  "R": 3074,
+  "buy": 4.3,
+  "fed": 0.4,
+  "keep": 4.6,
+  "pickup": 5.9,
+  "lost": 9.5,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "EliGE",
+  "R": 2696,
+  "buy": 1.3,
+  "fed": 0.4,
+  "keep": 0.4,
+  "pickup": 0,
+  "lost": 1.5,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "ArtFr0st",
+  "R": 2487,
+  "buy": 5.7,
+  "fed": 0.4,
+  "keep": 8.5,
+  "pickup": 6.2,
+  "lost": 10,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "phzy",
+  "R": 3487,
+  "buy": 6.1,
+  "fed": 0.4,
+  "keep": 6.3,
+  "pickup": 5.3,
+  "lost": 10.3,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "nitr0",
+  "R": 2729,
+  "buy": 3.8,
+  "fed": 0.4,
+  "keep": 2,
+  "pickup": 0.1,
+  "lost": 3.8,
+  "fastRebuy": 8
+ },
+ {
+  "nick": "NHJee-",
+  "R": 2584,
+  "buy": 4.9,
+  "fed": 0.4,
+  "keep": 6.5,
+  "pickup": 4.4,
+  "lost": 8.3,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "mopoz",
+  "R": 2979,
+  "buy": 1.4,
+  "fed": 0.4,
+  "keep": 0.7,
+  "pickup": 0,
+  "lost": 1.6,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "-JBa",
+  "R": 3432,
+  "buy": 2.2,
+  "fed": 0.4,
+  "keep": 0.9,
+  "pickup": 0,
+  "lost": 2.2,
+  "fastRebuy": 5
+ },
+ {
+  "nick": "hypexx-",
+  "R": 3248,
+  "buy": 6.2,
+  "fed": 0.3,
+  "keep": 7.5,
+  "pickup": 4.6,
+  "lost": 9.3,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "bLitz",
+  "R": 2760,
+  "buy": 2.6,
+  "fed": 0.3,
+  "keep": 0.7,
+  "pickup": 0.1,
+  "lost": 2.6,
+  "fastRebuy": 10
+ },
+ {
+  "nick": "r1nkle",
+  "R": 2476,
+  "buy": 4.2,
+  "fed": 0.3,
+  "keep": 5.1,
+  "pickup": 5.4,
+  "lost": 8.5,
+  "fastRebuy": 11
+ },
+ {
+  "nick": "slaxz-",
+  "R": 3432,
+  "buy": 5.6,
+  "fed": 0.3,
+  "keep": 7.2,
+  "pickup": 4.4,
+  "lost": 9,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "Latt1kk",
+  "R": 3193,
+  "buy": 6.2,
+  "fed": 0.3,
+  "keep": 7.4,
+  "pickup": 6,
+  "lost": 10.4,
+  "fastRebuy": 22
+ },
+ {
+  "nick": "torzsi",
+  "R": 3358,
+  "buy": 4,
+  "fed": 0.2,
+  "keep": 5.9,
+  "pickup": 4.1,
+  "lost": 7.1,
+  "fastRebuy": 15
+ },
+ {
+  "nick": "w0nderful",
+  "R": 2911,
+  "buy": 5.4,
+  "fed": 0.2,
+  "keep": 6.6,
+  "pickup": 4.8,
+  "lost": 8.9,
+  "fastRebuy": 9
+ },
+ {
+  "nick": "zorte x LUKOIL",
+  "R": 2619,
+  "buy": 4.8,
+  "fed": 0.2,
+  "keep": 6,
+  "pickup": 5.2,
+  "lost": 8.7,
+  "fastRebuy": 13
+ },
+ {
+  "nick": "Grim",
+  "R": 2374,
+  "buy": 2.7,
+  "fed": 0.2,
+  "keep": 1,
+  "pickup": 0,
+  "lost": 2.6,
+  "fastRebuy": 6
+ },
+ {
+  "nick": "Martineez",
+  "R": 4556,
+  "buy": 5.1,
+  "fed": 0.2,
+  "keep": 6.6,
+  "pickup": 5.2,
+  "lost": 9.2,
+  "fastRebuy": 14
+ },
+ {
+  "nick": "GL `eraa",
+  "R": 3686,
+  "buy": 4.6,
+  "fed": 0.2,
+  "keep": 6.1,
+  "pickup": 5.1,
+  "lost": 8.4,
+  "fastRebuy": 12
+ },
+ {
+  "nick": "mezii",
+  "R": 2877,
+  "buy": 3.3,
+  "fed": 0.1,
+  "keep": 1.4,
+  "pickup": 0,
+  "lost": 3.1,
+  "fastRebuy": 4
+ },
+ {
+  "nick": "Maka",
+  "R": 3837,
+  "buy": 4.5,
+  "fed": 0.1,
+  "keep": 5,
+  "pickup": 4,
+  "lost": 7.2,
+  "fastRebuy": 16
+ }
+]
