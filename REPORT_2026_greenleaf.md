@@ -1,4 +1,4 @@
-# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v3 全赛季官方 Rating 3.0 版）
+﻿# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v4 回合级武器/发枪深挖版）
 
 > 排名窗口：2026-01-05 至 2026-10-19 共 42 周 HLTV 世界排名。
 > Rating 口径：**HLTV 官方 Rating 3.0（全赛季）**——从 **1774 场** 2026 赛季比赛页（/matches/）逐图抓取官方 Rating 3.0，按选手逐图平均得到赛季值（与 HLTV 官方赛季聚合口径一致），**非任何拟合值**。
@@ -99,7 +99,7 @@ Firepower 36 | Entrying 54 | Trading 75 | Opening 15 | Closing 84 | Sniping 0 | 
 **一句话回答：**
 > TeSeS 在 2026 年的花费分位（76.1th）说不上"低经济"，但官方七维和赛季 Rating 3.0 都证明他扮演的是完美的绿叶角色：不抢首杀、不开路、收尾和补枪拉满、道具优质、CT Anchor 本职稳固。他是一名**"标准价格的功能位绿叶"**——你付的是辅助位的市场价（甚至略高），买到的是 Closing/Trading/Utility 三项顶级的能力和极高的输出稳定性（60 场系列赛 σ=0.71、对强队只降 0.22）。严格定义下他不是性价比绿叶（resid −0.05 微负），但"绿叶"这个角色本身他执行得无可挑剔。Falcons 队内真正的性价比绿叶是 kyousuke（$964，Opener，1.186 队内最高产出之一）。
 
-## 四、方法论
+## 六、方法论
 1. Rating 3.0 全赛季数据：枚举 35 支 ever-top20 战队 2026 年全部 1837 场比赛，逐场抓取 HLTV 比赛页（经 jina reader），解析逐图官方 Rating 3.0/Swing/KAST/ADR，按选手逐图平均得到赛季值（1774 场成功，63 场无统计）。HLTV /stats/ 赛季聚合页被 Cloudflare 全程拦截，故采用比赛页逐图官方原值——与官方赛季口径一致，且非拟合。
 2. Rating 3.0 的 Round Swing 与经济加权不可离线复算——本报告全部 rating 均为 HLTV 官方原值，未做任何拟合。
 3. 角色为 Tableau Positions Database 官方分类；63 人未匹配（别名问题），他们仍参与全部分位统计。
@@ -108,3 +108,4 @@ Firepower 36 | Entrying 54 | Trading 75 | Opening 15 | Closing 84 | Sniping 0 | 
 ---
 *报告生成：2026-10-24（v3）。数据：E:\cs2_econ_2026\（players_final_season30.json = 最终合并表；match_r30.jsonl = 1774 场逐图官方 3.0 原始数据；season_r30_raw.json = 赛季聚合；tableau_positions_raw.csv = 官方角色）。*
 *管线与代码：github.com/pachellber-marine/CS2-ECONEFFICIENCY*
+
