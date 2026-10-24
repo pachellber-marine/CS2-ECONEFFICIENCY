@@ -1,4 +1,4 @@
-﻿# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v4 回合级武器/发枪深挖版）
+# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v5 经济档位×抗压×逐系列赛版）
 
 > 排名窗口：2026-01-05 至 2026-10-19 共 42 周 HLTV 世界排名。
 > Rating 口径：**HLTV 官方 Rating 3.0（全赛季）**——从 **1774 场** 2026 赛季比赛页（/matches/）逐图抓取官方 Rating 3.0，按选手逐图平均得到赛季值（与 HLTV 官方赛季聚合口径一致），**非任何拟合值**。
@@ -137,6 +137,64 @@ Firepower 36 | Entrying 54 | Trading 75 | Opening 15 | Closing 84 | Sniping 0 | 
 
 ### 4.5 结论修订
 回合级数据把"绿叶"的定义又推进了一层：**2026 年的经济转移格局是"AWPer 供养、IGL 消耗、Support 顺滑过渡"**。TeSeS 的 Support 角色执行依然无懈可击（吃枪但不贪、道具拉满、eco 局不送头），但"性价比绿叶"的冠冕仍然属于 Opener 群体——他们在 eco/force/full 三个档位的产出全部领先。
+
+### 4.6 v5 新增：数据可靠性验证（发枪口径）
+针对"狙击手应该是受枪方"的合理质疑做了证伪实验：**P(发枪>$500 | 死亡回合) = 6.4% vs P(存活回合) = 6.7%，均值 $3142 vs $3252**——死亡掉枪不构成伪象，drops_gave_value 是真实的活体武器转移。同时确认：**受枪榜其实是步枪手/指挥主导**（donk 收 $305/回合、karrigan $313、TeSeS $239）——AWPer 是"发得多也收得多"（大狙在手转一圈），净额才反映方向。
+
+### 4.7 v5 新增：分经济档的发枪/受枪矩阵（净额 $/回合）
+| 位置 | eco | low | force | full |
+|---|---|---|---|---|
+| **AWPer** | −4 | −12 | +16 | **+149** |
+| IGL-Opener | −70 | −137 | **−203** | −21 |
+| IGL-Closer | −120 | −131 | **−238** | −28 |
+| Support | −15 | −48 | −95 | −31 |
+| Opener | −8 | −42 | −42 | +12 |
+| Closer | −11 | −35 | −58 | +10 |
+
+**修正后的完整图景（推翻 v4 的单层结论）：**
+1. **AWPer 的"发枪王"身份只在满枪局成立**（net +$149，全场唯一大正值）；
+2. **eco/low 局 AWPer 是净接收方**——穷局时队伍优先保大狙，这与"狙击手是被供养的核心"的直觉一致；
+3. **强起局（force）才是经济重分配的主战场**：IGL 在 force 局吃枪 $348/回合（karrigan 实测），队伍穷时指挥优先续命；
+4. 4.1/4.2 的全档混合榜是"满枪局 AWPer 供给"掩盖了"穷局 AWPer 接收"的合成结果。
+
+### 4.8 v5 新增：Falcons 逐系列赛发枪矩阵（16 场全量）
+| 对手(日期) | m0NESY | NiKo | TeSeS | karrigan |
+|---|---|---|---|---|
+| ECSTATIC 01-15 | +171 | +45 | −63 | — |
+| Vitality 01-24 | +162 | +175 | −167 | — |
+| FURIA 02-16 | +295 | +141 | −147 | — |
+| Vitality 04-15 | +60 | +68 | +24 | — |
+| FURIA 04-19 | +479 | +69 | −123 | — |
+| magic 05-16 | +479 | −105 | +153 | −396 |
+| Vitality 06-19 | +434 | −152 | −84 | −210 |
+| 100 Thieves 07-22 | +145 | +63 | −29 | −168 |
+| Lynn Vision 08-27 | −6 | +104 | −3 | +5 |
+| **Vitality 10-05** | **+820** | −43 | **−272** | **−442** |
+
+- **m0NESY 是 Falcons 每一场的经济发动机**（16 场里 15 场净发枪为正，10-05 打 Vitality 一场净发 $820/回合）
+- **TeSeS 15 场里 9 场负**：打 Vitality（10-05）吃枪 $572/回合全场最高——面对最强队时他是被体系优先保命的人，这与"打强队 rating 只降 0.22"的稳定性互为因果：**被供养得越多，打得越稳**
+- karrigan 9 场负、最深 −$442：指挥吃枪的常态化
+
+### 4.9 v5 新增：穷局抗压榜（resilience = 穷局KPR相对自己满枪局的跌幅 ÷ 同位置平均跌幅；>1 = 比同位置更能扛穷局；n=103，≥500 回合）
+| 选手 | 队伍 | 位置 | resil | ecoKPR | fullKPR | $/回合 | R3.0 |
+|---|---|---|---|---|---|---|---|
+| yxngstxr | HEROIC | AWPer | 1.28 | 0.425 | 0.706 | $1106 | 1.06 |
+| **ZywOo** | Vitality | AWPer | **1.27** | **0.734** | 0.901 | $1308 | 1.49 |
+| Aleksib | NAVI | IGL-Closer | 1.19 | 0.353 | 0.542 | $1088 | 0.93 |
+| xKacpersky | NIP | Opener | 1.18 | 0.609 | 0.755 | $959 | 1.19 |
+| HeavyGod | G2 | Support | 1.16 | 0.518 | 0.724 | $1128 | 1.22 |
+| b1t | NAVI | Support | 1.14 | 0.545 | 0.729 | $1085 | 1.18 |
+| **TeSeS** | Falcons | Support | **1.13** | 0.404 | 0.642 | $1147 | 1.09 |
+| NiKo | Falcons | Closer | 1.12 | 0.455 | 0.750 | $1103 | 1.18 |
+| donk | Spirit | Opener | 1.10 | **0.700** | 0.954 | $1000 | 1.48 |
+
+垫底（穷局塌方）：910（0.81）、**karrigan（0.84，ecoKPR 0.266）**、AW（0.85）、torzsi（0.87）、Artfr0st（0.88）。**AWPer 位置穷局塌方是通病**（torzsi/910/Artfr0st 全在垫底），ZywOo 是唯一例外——eco 局 0.734 的 KPR 比很多步枪手的满枪局还高。
+
+**终极绿叶榜（低花费 × 抗压 ≥1 × R3.0 ≥1.05）：**
+donk（$1000/1.48）> FL4MUS（BETBOOM $980/1.20）> Nertz（G2 $962/1.19）> xKacpersky（NIP $959/1.19，抗压最强 Opener）> Wicadia（Aurora $994/1.19）> xfl0ud（HEROIC $944/1.16）> EliGE（Liquid $954/1.16）> venomzera（MIBR $1018/1.15）> Avid > kensizor > XANTARES（Aurora $1002/1.14）> d1Ledez。
+
+TeSeS 的穷局画像：**low 局 KPR 超同位均值 11%（lowRel 1.11），eco 局平于同位（0.97）**——"low 局有用、eco 局随大流"的中庸型，不是 ZywOo/donk 式穷局战神，但也绝不拖后腿（resil 1.13 高于全部位置均值线）。
+
 ## 五、方法论
 1. Rating 3.0 全赛季数据：枚举 35 支 ever-top20 战队 2026 年全部 1837 场比赛，逐场抓取 HLTV 比赛页（经 jina reader），解析逐图官方 Rating 3.0/Swing/KAST/ADR，按选手逐图平均得到赛季值（1774 场成功，63 场无统计）。HLTV /stats/ 赛季聚合页被 Cloudflare 全程拦截，故采用比赛页逐图官方原值——与官方赛季口径一致，且非拟合。
 2. Rating 3.0 的 Round Swing 与经济加权不可离线复算——本报告全部 rating 均为 HLTV 官方原值，未做任何拟合。
@@ -144,7 +202,7 @@ Firepower 36 | Entrying 54 | Trading 75 | Opening 15 | Closing 84 | Sniping 0 | 
 4. resid30 回归 r=0.28——花费只解释 rating 的 8%，位置/体系差异是主要方差来源。
 
 ---
-*报告生成：2026-10-24（v3）。数据：E:\cs2_econ_2026\（players_final_season30.json = 最终合并表；match_r30.jsonl = 1774 场逐图官方 3.0 原始数据；season_r30_raw.json = 赛季聚合；tableau_positions_raw.csv = 官方角色）。*
+*报告生成：2026-10-24（v5）。数据：E:\cs2_econ_2026\（players_final_season30.json = 最终合并表；match_r30.jsonl = 1774 场逐图官方 3.0 原始数据；season_r30_raw.json = 赛季聚合；tableau_positions_raw.csv = 官方角色；players_tierlevel.json = 分档经济矩阵；players_resilience.json = 穷局抗压榜；falcons_series_gunecon.json = Falcons 逐系列赛）。*
 *管线与代码：github.com/pachellber-marine/CS2-ECONEFFICIENCY*
 
 
