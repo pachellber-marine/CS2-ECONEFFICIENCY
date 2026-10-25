@@ -1,4 +1,4 @@
-﻿# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v11 边际弹性完整版）
+# 2026 CS2 Top20 战队经济承担与"绿叶"专题研究报告（v12 数据审计修复版）
 
 > 排名窗口：2026-01-05 至 2026-10-19 共 42 周 HLTV 世界排名。
 > Rating 口径：**HLTV 官方 Rating 3.0（全赛季）**——从 **1774 场** 2026 赛季比赛页（/matches/）逐图抓取官方 Rating 3.0，按选手逐图平均得到赛季值（与 HLTV 官方赛季聚合口径一致），**非任何拟合值**。
@@ -542,6 +542,36 @@ Jimpphat 出现在 v9 Support 榜，是因为 **Tableau Positions Database（NER
 
 ---
 
+## 十三、v12 新增：数据审计——官方 id 体系修复与非正式比赛清洗
+
+### 13.1 审计缘起（两条质疑）
+
+用户指出：①此前部分分析用 Steam 昵称（如 CEMEN_BAKIN）当选手标识，昵称可随时改名，标识不可靠；②数据里可能混入了天梯/非正式比赛。两条质疑均成立，全部已修复。
+
+### 13.2 非正式比赛泄漏（实锤与清洗）
+
+HLTV results 页返回的是战队**全部历史**比赛，且 2026 年部分中小队确实打了非正式赛事。审计发现 **72/1774 场脏比赛混入了 match_r30**（FERJEE In House 26 场、1win Private Club S1+S2 28 场、RES Showdown BLAST Rising 14 场、Copenhagen Gaming Week Showdown 4 场）；bo3.gg 侧另有 65 场 1win Private Club 混入回合级数据。
+
+清洗：purge_matches.js → match_r30_clean.jsonl（1702 场）；clean_rounds.js 剔除 bo3 侧 65 场。**受影响范围**：197 人名单中 88 人有脏行（全部是 B8/GamerLegion/M80/9z 级中小队，如 REZ 132 回合/sjuush 105/Tauson 130；top19 俱乐部主力 0 行）。重算后**最大 resid 位移仅 0.036**（vsm），TeSeS 完全不变（1.088/642 maps/resid −0.046/30.6th/spent 76th），donk 0.385(100th)/ZywOo 0.318/kyousuke 0.096/xKacpersky 0.097 全部稳定。**泄漏影响限于中小队微调，无结论翻转。**
+
+### 13.3 官方 id 桥（Steam 昵称 → 官方 player_id）
+
+排查发现 bo3.gg 的 games/rounds 端点用 steam_profile.id 做玩家键（该 id 稳定，但 steam_profile.nickname 是 Steam 实时昵称，会改名），与官方 player 表 id 完全不同源。**桥接数据其实一直都在手里**：games_player_stats.jsonl 每行自带 steam_profile.player_id + player.nickname（官方表）。build_bridge.js 生成 steam_pid_bridge.json：**1208/1208 个 rounds pid 100% 覆盖**。
+
+官方证据链验证：spid 17549 → player_id 51876 = **kyousuke**（Falcons）——此前"CEMEN_BAKIN=kyousuke"的判断碰巧正确，现升级为官方 id 级证据；纠正一处：spid 17663 = revoltz（player_id 53145，team 25343），并非 ropz。Falcons 五人官方映射：NiKo 25→17522、karrigan 44→17524、TeSeS 132→23037、m0NESY 1039→25998、kyousuke 17549→51876。
+
+finalize_rounds.js 重建 **rounds_all_final.jsonl（3544 净化场次）**：pid=官方 player_id、nick=官方 nickname（保留 steam_profile_id 溯源列）。
+
+### 13.4 修复后全量复核：结论无一翻转
+
+用 3544 场官方 id 数据重跑关键分析（verify_final_rounds.js）：
+
+- **Falcons 纯队内投喂矩阵（新口径）**：m0NESY 净送全队最多（→TeSeS $430,250 / karrigan $389,000 / kyousuke $347,700 / NiKo $243,800）；TeSeS 收 $430k 仍为队内最大接收方（此前 $713k 偏高，系敌方投喂与重复计数混入，已在 8.3 作废）；kyousuke→TeSeS $220,050 为第二大流。
+- **个人指标新旧对照（全部 ±$5 内一致）**：TeSeS got $227.6/回合（旧 $228）、util $169.8（旧 $170）、kprEco 0.463/kprFull 0.642 完全一致；m0NESY got $192.5/gave $412.6；karrigan got $320.9；kyousuke got $203.9；mezii got $45.9。rel 类指标口径差异（0.721 vs 0.780）源于 eco/full 简版 vs 同位置调整版，非矛盾。
+- **判定：本次修复属"验证性"而非"纠正性"——所有关键数字复现，全部章节结论不变，数据可信度升级。**
+
+---
+
 ## 五、方法论
 1. Rating 3.0 全赛季数据：枚举 35 支 ever-top20 战队 2026 年全部 1837 场比赛，逐场抓取 HLTV 比赛页（经 jina reader），解析逐图官方 Rating 3.0/Swing/KAST/ADR，按选手逐图平均得到赛季值（1774 场成功，63 场无统计）。HLTV /stats/ 赛季聚合页被 Cloudflare 全程拦截，故采用比赛页逐图官方原值——与官方赛季口径一致，且非拟合。
 2. Rating 3.0 的 Round Swing 与经济加权不可离线复算——本报告全部 rating 均为 HLTV 官方原值，未做任何拟合。
@@ -549,7 +579,7 @@ Jimpphat 出现在 v9 Support 榜，是因为 **Tableau Positions Database（NER
 4. resid30 回归 r=0.28——花费只解释 rating 的 8%，位置/体系差异是主要方差来源。
 
 ---
-*报告生成：2026-10-25（v10）。数据：E:\cs2_econ_2026\（players_final_season30.json = 最终合并表；match_r30.jsonl = 1774 场逐图官方 3.0 原始数据；season_r30_raw.json = 赛季聚合；tableau_positions_raw.csv = 官方角色；players_tierlevel.json = 分档经济矩阵；players_resilience.json = 穷局抗压榜；falcons_series_gunecon.json = Falcons 逐系列赛；players_layers.json = 5 层敏感性；players_ecokpr.json = 穷局 KPR 表；v10_stats3.json = MWU 检验）。*
+*报告生成：2026-10-25（v12）。数据：E:\cs2_econ_2026\（players_final_season30_clean.json = 净化后最终合并表；rounds_all_final.jsonl = 3544 场净化回合级数据（官方 player_id）；match_r30_clean.jsonl = 1702 场逐图官方 3.0；steam_pid_bridge.json = steam_profile_id→官方 id 桥；tableau_positions_raw.csv = 官方角色；players_layers_full.json = 6 层敏感性全量；players_ecokpr.json = 穷局 KPR 表；players_marginal_full.csv = 边际弹性全量；v10_stats3.json = MWU 检验）。*
 *管线与代码：github.com/pachellber-marine/CS2-ECONEFFICIENCY*
 
 
