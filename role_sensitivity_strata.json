@@ -1,0 +1,155 @@
+{
+ "ALL|Opener": {
+  "n": 64425,
+  "spent": 978.7,
+  "util": 157,
+  "got": 155.7,
+  "kprEco": 0.54,
+  "kprFull": 0.754,
+  "margK": 0.18
+ },
+ "ALL|Closer": {
+  "n": 66793,
+  "spent": 1077.1,
+  "util": 157.6,
+  "got": 145.2,
+  "kprEco": 0.536,
+  "kprFull": 0.76,
+  "margK": 0.19
+ },
+ "ALL|AWPer": {
+  "n": 46010,
+  "spent": 1220.2,
+  "util": 142.6,
+  "got": 171.3,
+  "kprEco": 0.527,
+  "kprFull": 0.783,
+  "margK": 0.21
+ },
+ "ALL|Support": {
+  "n": 48016,
+  "spent": 1106.8,
+  "util": 159.4,
+  "got": 159.8,
+  "kprEco": 0.518,
+  "kprFull": 0.695,
+  "margK": 0.15
+ },
+ "ALL|IGL-Opener": {
+  "n": 51617,
+  "spent": 993,
+  "util": 165.6,
+  "got": 213.3,
+  "kprEco": 0.431,
+  "kprFull": 0.679,
+  "margK": 0.21
+ },
+ "ALL|IGL-Closer": {
+  "n": 7431,
+  "spent": 1065.5,
+  "util": 169.2,
+  "got": 301,
+  "kprEco": 0.401,
+  "kprFull": 0.602,
+  "margK": 0.17
+ },
+ "BIG|Opener": {
+  "n": 5959,
+  "spent": 970.5,
+  "util": 158.5,
+  "got": 163.7,
+  "kprEco": 0.509,
+  "kprFull": 0.757,
+  "margK": 0.21
+ },
+ "BIG|Closer": {
+  "n": 7073,
+  "spent": 1054.9,
+  "util": 154.6,
+  "got": 161.8,
+  "kprEco": 0.484,
+  "kprFull": 0.74,
+  "margK": 0.21
+ },
+ "BIG|AWPer": {
+  "n": 4434,
+  "spent": 1223.9,
+  "util": 140.2,
+  "got": 136,
+  "kprEco": 0.526,
+  "kprFull": 0.744,
+  "margK": 0.18
+ },
+ "BIG|Support": {
+  "n": 5803,
+  "spent": 1114.2,
+  "util": 160.1,
+  "got": 171.7,
+  "kprEco": 0.523,
+  "kprFull": 0.682,
+  "margK": 0.13
+ },
+ "BIG|IGL-Opener": {
+  "n": 5318,
+  "spent": 978.6,
+  "util": 162.7,
+  "got": 215.8,
+  "kprEco": 0.401,
+  "kprFull": 0.68,
+  "margK": 0.23
+ },
+ "T20|Opener": {
+  "n": 26796,
+  "spent": 954.1,
+  "util": 156.5,
+  "got": 175.4,
+  "kprEco": 0.517,
+  "kprFull": 0.751,
+  "margK": 0.2
+ },
+ "T20|Closer": {
+  "n": 31310,
+  "spent": 1061,
+  "util": 157.4,
+  "got": 161.1,
+  "kprEco": 0.531,
+  "kprFull": 0.749,
+  "margK": 0.18
+ },
+ "T20|AWPer": {
+  "n": 22129,
+  "spent": 1199.1,
+  "util": 143,
+  "got": 156.9,
+  "kprEco": 0.531,
+  "kprFull": 0.785,
+  "margK": 0.21
+ },
+ "T20|Support": {
+  "n": 22341,
+  "spent": 1092,
+  "util": 159.6,
+  "got": 157.4,
+  "kprEco": 0.52,
+  "kprFull": 0.672,
+  "margK": 0.13
+ },
+ "T20|IGL-Opener": {
+  "n": 22043,
+  "spent": 951.1,
+  "util": 167.4,
+  "got": 239.7,
+  "kprEco": 0.404,
+  "kprFull": 0.659,
+  "margK": 0.21
+ },
+ "T20|IGL-Closer": {
+  "n": 5716,
+  "spent": 1076,
+  "util": 168.6,
+  "got": 302.7,
+  "kprEco": 0.401,
+  "kprFull": 0.589,
+  "margK": 0.16
+ }
+}
