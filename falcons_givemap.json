@@ -1,0 +1,242 @@
+[
+ {
+  "map": "de_ancient",
+  "nick": "m0NESY",
+  "rounds": 393,
+  "maps": 18,
+  "gaveMatched": 75200,
+  "gavePerRound": 191.3
+ },
+ {
+  "map": "de_ancient",
+  "nick": "TeSeS",
+  "rounds": 393,
+  "maps": 18,
+  "gaveMatched": 32650,
+  "gavePerRound": 83.1
+ },
+ {
+  "map": "de_ancient",
+  "nick": "kyousuke",
+  "rounds": 374,
+  "maps": 17,
+  "gaveMatched": 48200,
+  "gavePerRound": 128.9
+ },
+ {
+  "map": "de_ancient",
+  "nick": "NiKo",
+  "rounds": 393,
+  "maps": 18,
+  "gaveMatched": 48800,
+  "gavePerRound": 124.2
+ },
+ {
+  "map": "de_ancient",
+  "nick": "karrigan",
+  "rounds": 261,
+  "maps": 11,
+  "gaveMatched": 11200,
+  "gavePerRound": 42.9
+ },
+ {
+  "map": "de_anubis",
+  "nick": "m0NESY",
+  "rounds": 390,
+  "maps": 17,
+  "gaveMatched": 85000,
+  "gavePerRound": 217.9
+ },
+ {
+  "map": "de_anubis",
+  "nick": "TeSeS",
+  "rounds": 390,
+  "maps": 17,
+  "gaveMatched": 25900,
+  "gavePerRound": 66.4
+ },
+ {
+  "map": "de_anubis",
+  "nick": "NiKo",
+  "rounds": 390,
+  "maps": 17,
+  "gaveMatched": 37300,
+  "gavePerRound": 95.6
+ },
+ {
+  "map": "de_anubis",
+  "nick": "karrigan",
+  "rounds": 272,
+  "maps": 11,
+  "gaveMatched": 8900,
+  "gavePerRound": 32.7
+ },
+ {
+  "map": "de_anubis",
+  "nick": "kyousuke",
+  "rounds": 373,
+  "maps": 16,
+  "gaveMatched": 34150,
+  "gavePerRound": 91.6
+ },
+ {
+  "map": "de_dust2",
+  "nick": "NiKo",
+  "rounds": 927,
+  "maps": 40,
+  "gaveMatched": 143700,
+  "gavePerRound": 155
+ },
+ {
+  "map": "de_dust2",
+  "nick": "TeSeS",
+  "rounds": 927,
+  "maps": 40,
+  "gaveMatched": 96050,
+  "gavePerRound": 103.6
+ },
+ {
+  "map": "de_dust2",
+  "nick": "m0NESY",
+  "rounds": 927,
+  "maps": 40,
+  "gaveMatched": 362450,
+  "gavePerRound": 391
+ },
+ {
+  "map": "de_dust2",
+  "nick": "kyousuke",
+  "rounds": 861,
+  "maps": 37,
+  "gaveMatched": 110150,
+  "gavePerRound": 127.9
+ },
+ {
+  "map": "de_dust2",
+  "nick": "karrigan",
+  "rounds": 590,
+  "maps": 26,
+  "gaveMatched": 27500,
+  "gavePerRound": 46.6
+ },
+ {
+  "map": "de_inferno",
+  "nick": "m0NESY",
+  "rounds": 408,
+  "maps": 19,
+  "gaveMatched": 104600,
+  "gavePerRound": 256.4
+ },
+ {
+  "map": "de_inferno",
+  "nick": "NiKo",
+  "rounds": 408,
+  "maps": 19,
+  "gaveMatched": 60850,
+  "gavePerRound": 149.1
+ },
+ {
+  "map": "de_inferno",
+  "nick": "TeSeS",
+  "rounds": 408,
+  "maps": 19,
+  "gaveMatched": 27550,
+  "gavePerRound": 67.5
+ },
+ {
+  "map": "de_inferno",
+  "nick": "kyousuke",
+  "rounds": 361,
+  "maps": 17,
+  "gaveMatched": 41250,
+  "gavePerRound": 114.3
+ },
+ {
+  "map": "de_inferno",
+  "nick": "karrigan",
+  "rounds": 185,
+  "maps": 9,
+  "gaveMatched": 18100,
+  "gavePerRound": 97.8
+ },
+ {
+  "map": "de_mirage",
+  "nick": "NiKo",
+  "rounds": 668,
+  "maps": 32,
+  "gaveMatched": 86500,
+  "gavePerRound": 129.5
+ },
+ {
+  "map": "de_mirage",
+  "nick": "m0NESY",
+  "rounds": 668,
+  "maps": 32,
+  "gaveMatched": 197650,
+  "gavePerRound": 295.9
+ },
+ {
+  "map": "de_mirage",
+  "nick": "TeSeS",
+  "rounds": 668,
+  "maps": 32,
+  "gaveMatched": 40150,
+  "gavePerRound": 60.1
+ },
+ {
+  "map": "de_mirage",
+  "nick": "kyousuke",
+  "rounds": 627,
+  "maps": 30,
+  "gaveMatched": 77250,
+  "gavePerRound": 123.2
+ },
+ {
+  "map": "de_mirage",
+  "nick": "karrigan",
+  "rounds": 344,
+  "maps": 17,
+  "gaveMatched": 22150,
+  "gavePerRound": 64.4
+ },
+ {
+  "map": "de_nuke",
+  "nick": "kyousuke",
+  "rounds": 265,
+  "maps": 11,
+  "gaveMatched": 31500,
+  "gavePerRound": 118.9
+ },
+ {
+  "map": "de_nuke",
+  "nick": "TeSeS",
+  "rounds": 295,
+  "maps": 12,
+  "gaveMatched": 34500,
+  "gavePerRound": 116.9
+ },
+ {
+  "map": "de_nuke",
+  "nick": "m0NESY",
+  "rounds": 295,
+  "maps": 12,
+  "gaveMatched": 71550,
+  "gavePerRound": 242.5
+ },
+ {
+  "map": "de_nuke",
+  "nick": "NiKo",
+  "rounds": 295,
+  "maps": 12,
+  "gaveMatched": 40100,
+  "gavePerRound": 135.9
+ },
+ {
+  "map": "de_nuke",
+  "nick": "karrigan",
+  "rounds": 169,
+  "maps": 7,
+  "gaveMatched": 13950,
+  "gavePerRound": 82.5
+ }
+]
