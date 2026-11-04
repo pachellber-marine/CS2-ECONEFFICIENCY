@@ -1,0 +1,1998 @@
+{
+ "ols": {
+  "n": 165996,
+  "mean_gave": 207.408612255717,
+  "beta": {
+   "const": 59.1004206957554,
+   "surplus($)": 0.004067052694010467,
+   "AWP in hand": 485.4389930494019,
+   "force rd": 126.00554879423554,
+   "full rd": 176.18265216241028,
+   "T side": -19.91327781656463,
+   "2nd half": 9.994594494772612,
+   "round won": -17.00735886160397
+  }
+ },
+ "teams": {
+  "Vitality": {
+   "players_main": [
+    {
+     "pid": 24881,
+     "nick": "flameZ",
+     "r": 3138,
+     "gave_r": 142,
+     "got_r": 236.2,
+     "net_r": -94.2,
+     "surplus_r": 438,
+     "spent_r": 1034,
+     "awp_pct": 0,
+     "t_net_r": -72.3,
+     "ct_net_r": -115.9,
+     "h1_net_r": -82,
+     "h2_net_r": -108.7,
+     "ot_net_r": -121.8,
+     "pist_gave_r": 9.3,
+     "pist_got_r": 41.1,
+     "eco_net_r": -93.5,
+     "force_net_r": -180.2,
+     "full_net_r": -82
+    },
+    {
+     "pid": 17663,
+     "nick": "ropz",
+     "r": 3138,
+     "gave_r": 104.4,
+     "got_r": 119.8,
+     "net_r": -15.3,
+     "surplus_r": 627,
+     "spent_r": 1237,
+     "awp_pct": 0.4,
+     "t_net_r": -15.5,
+     "ct_net_r": -15.2,
+     "h1_net_r": -12.1,
+     "h2_net_r": -25.8,
+     "ot_net_r": 52.7,
+     "pist_gave_r": 28,
+     "pist_got_r": 46.2,
+     "eco_net_r": -27,
+     "force_net_r": -57.9,
+     "full_net_r": -2.7
+    },
+    {
+     "pid": 18452,
+     "nick": "ZywOo",
+     "r": 3138,
+     "gave_r": 337.4,
+     "got_r": 109.7,
+     "net_r": 227.7,
+     "surplus_r": 1160,
+     "spent_r": 1306,
+     "awp_pct": 7,
+     "t_net_r": 151.2,
+     "ct_net_r": 303.9,
+     "h1_net_r": 194.9,
+     "h2_net_r": 276.8,
+     "ot_net_r": 189.5,
+     "pist_gave_r": 27.6,
+     "pist_got_r": 30,
+     "eco_net_r": -7.7,
+     "force_net_r": 195.4,
+     "full_net_r": 293.7
+    },
+    {
+     "pid": 17515,
+     "nick": "apEX",
+     "r": 3138,
+     "gave_r": 88,
+     "got_r": 246.3,
+     "net_r": -158.3,
+     "surplus_r": 466,
+     "spent_r": 952,
+     "awp_pct": 0,
+     "t_net_r": -85.3,
+     "ct_net_r": -231.1,
+     "h1_net_r": -134.6,
+     "h2_net_r": -197,
+     "ot_net_r": -95.9,
+     "pist_gave_r": 15.5,
+     "pist_got_r": 84.4,
+     "eco_net_r": -137.4,
+     "force_net_r": -176.3,
+     "full_net_r": -174.2
+    },
+    {
+     "pid": 30095,
+     "nick": "mezii",
+     "r": 2877,
+     "gave_r": 86.9,
+     "got_r": 45.9,
+     "net_r": 41.1,
+     "surplus_r": 544,
+     "spent_r": 1147,
+     "awp_pct": 0,
+     "t_net_r": 20,
+     "ct_net_r": 62,
+     "h1_net_r": 37.7,
+     "h2_net_r": 51.6,
+     "ot_net_r": -27.3,
+     "pist_gave_r": 8.4,
+     "pist_got_r": 4.8,
+     "eco_net_r": -22.1,
+     "force_net_r": -1.4,
+     "full_net_r": 66.8
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "ZywOo",
+     "to": "flameZ",
+     "$": 352700
+    },
+    {
+     "from": "ZywOo",
+     "to": "apEX",
+     "$": 338000
+    },
+    {
+     "from": "flameZ",
+     "to": "apEX",
+     "$": 142050
+    },
+    {
+     "from": "ZywOo",
+     "to": "ropz",
+     "$": 116400
+    },
+    {
+     "from": "ropz",
+     "to": "flameZ",
+     "$": 90250
+    },
+    {
+     "from": "mezii",
+     "to": "apEX",
+     "$": 75250
+    },
+    {
+     "from": "ropz",
+     "to": "apEX",
+     "$": 64650
+    },
+    {
+     "from": "apEX",
+     "to": "flameZ",
+     "$": 56550
+    },
+    {
+     "from": "mezii",
+     "to": "flameZ",
+     "$": 48150
+    },
+    {
+     "from": "mezii",
+     "to": "ZywOo",
+     "$": 45550
+    }
+   ]
+  },
+  "FURIA": {
+   "players_main": [
+    {
+     "pid": 19667,
+     "nick": "KSCERATO",
+     "r": 3890,
+     "gave_r": 173,
+     "got_r": 152.4,
+     "net_r": 20.6,
+     "surplus_r": 546,
+     "spent_r": 1181,
+     "awp_pct": 0.2,
+     "t_net_r": 40.2,
+     "ct_net_r": 0.5,
+     "h1_net_r": 28.3,
+     "h2_net_r": 15.3,
+     "ot_net_r": -29.1,
+     "pist_gave_r": 25.5,
+     "pist_got_r": 25,
+     "eco_net_r": -6.4,
+     "force_net_r": -25.4,
+     "full_net_r": 38.1
+    },
+    {
+     "pid": 53465,
+     "nick": "molodoy",
+     "r": 3890,
+     "gave_r": 259.4,
+     "got_r": 95.8,
+     "net_r": 163.6,
+     "surplus_r": 970,
+     "spent_r": 1234,
+     "awp_pct": 8.5,
+     "t_net_r": 93.5,
+     "ct_net_r": 235.3,
+     "h1_net_r": 162.4,
+     "h2_net_r": 154.1,
+     "ot_net_r": 268.5,
+     "pist_gave_r": 31,
+     "pist_got_r": 11.7,
+     "eco_net_r": 12.7,
+     "force_net_r": 0.7,
+     "full_net_r": 242.3
+    },
+    {
+     "pid": 19664,
+     "nick": "yuurih",
+     "r": 3890,
+     "gave_r": 126,
+     "got_r": 122.5,
+     "net_r": 3.5,
+     "surplus_r": 498,
+     "spent_r": 1182,
+     "awp_pct": 0,
+     "t_net_r": 4.1,
+     "ct_net_r": 2.9,
+     "h1_net_r": -17.1,
+     "h2_net_r": 31.1,
+     "ot_net_r": 11.5,
+     "pist_gave_r": 28.3,
+     "pist_got_r": 18.8,
+     "eco_net_r": -45.2,
+     "force_net_r": 12.1,
+     "full_net_r": 6.4
+    },
+    {
+     "pid": 17497,
+     "nick": "FalleN",
+     "r": 3890,
+     "gave_r": 179,
+     "got_r": 340.2,
+     "net_r": -161.2,
+     "surplus_r": 396,
+     "spent_r": 1075,
+     "awp_pct": 0.6,
+     "t_net_r": -179.7,
+     "ct_net_r": -142.3,
+     "h1_net_r": -154.8,
+     "h2_net_r": -168.4,
+     "ot_net_r": -175.8,
+     "pist_gave_r": 19.8,
+     "pist_got_r": 241.7,
+     "eco_net_r": -217.5,
+     "force_net_r": -370.4,
+     "full_net_r": -35.3
+    },
+    {
+     "pid": 18732,
+     "nick": "YEKINDAR",
+     "r": 3890,
+     "gave_r": 183.8,
+     "got_r": 210.3,
+     "net_r": -26.5,
+     "surplus_r": 403,
+     "spent_r": 972,
+     "awp_pct": 0,
+     "t_net_r": 41.9,
+     "ct_net_r": -96.5,
+     "h1_net_r": -18.8,
+     "h2_net_r": -32,
+     "ot_net_r": -75.2,
+     "pist_gave_r": 8,
+     "pist_got_r": 30.8,
+     "eco_net_r": -77.2,
+     "force_net_r": -120,
+     "full_net_r": 8.2
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "molodoy",
+     "to": "FalleN",
+     "$": 332450
+    },
+    {
+     "from": "KSCERATO",
+     "to": "FalleN",
+     "$": 257150
+    },
+    {
+     "from": "YEKINDAR",
+     "to": "FalleN",
+     "$": 253000
+    },
+    {
+     "from": "molodoy",
+     "to": "YEKINDAR",
+     "$": 231150
+    },
+    {
+     "from": "molodoy",
+     "to": "KSCERATO",
+     "$": 155400
+    },
+    {
+     "from": "yuurih",
+     "to": "FalleN",
+     "$": 122150
+    },
+    {
+     "from": "FalleN",
+     "to": "YEKINDAR",
+     "$": 119500
+    },
+    {
+     "from": "molodoy",
+     "to": "yuurih",
+     "$": 112000
+    },
+    {
+     "from": "yuurih",
+     "to": "YEKINDAR",
+     "$": 96050
+    },
+    {
+     "from": "FalleN",
+     "to": "KSCERATO",
+     "$": 93350
+    }
+   ]
+  },
+  "Falcons": {
+   "players_main": [
+    {
+     "pid": 25998,
+     "nick": "m0NESY",
+     "r": 3352,
+     "gave_r": 412.6,
+     "got_r": 192.5,
+     "net_r": 220.2,
+     "surplus_r": 968,
+     "spent_r": 1317,
+     "awp_pct": 7.6,
+     "t_net_r": 203.3,
+     "ct_net_r": 236.5,
+     "h1_net_r": 216.1,
+     "h2_net_r": 204.3,
+     "ot_net_r": 404.4,
+     "pist_gave_r": 71.3,
+     "pist_got_r": 12.2,
+     "eco_net_r": 75.5,
+     "force_net_r": 191.9,
+     "full_net_r": 269
+    },
+    {
+     "pid": 17522,
+     "nick": "NiKo",
+     "r": 3352,
+     "gave_r": 196,
+     "got_r": 135.5,
+     "net_r": 60.4,
+     "surplus_r": 451,
+     "spent_r": 1111,
+     "awp_pct": 0.1,
+     "t_net_r": 83.7,
+     "ct_net_r": 38,
+     "h1_net_r": 53.9,
+     "h2_net_r": 70.1,
+     "ot_net_r": 48.1,
+     "pist_gave_r": 31,
+     "pist_got_r": 36,
+     "eco_net_r": -6.9,
+     "force_net_r": 51.2,
+     "full_net_r": 83.8
+    },
+    {
+     "pid": 23037,
+     "nick": "TeSeS",
+     "r": 3352,
+     "gave_r": 157.5,
+     "got_r": 227.6,
+     "net_r": -70.1,
+     "surplus_r": 437,
+     "spent_r": 1150,
+     "awp_pct": 0,
+     "t_net_r": -82.3,
+     "ct_net_r": -58.4,
+     "h1_net_r": -60.8,
+     "h2_net_r": -71.6,
+     "ot_net_r": -161.6,
+     "pist_gave_r": 31.1,
+     "pist_got_r": 50.2,
+     "eco_net_r": -73.7,
+     "force_net_r": -211.5,
+     "full_net_r": -47.4
+    },
+    {
+     "pid": 51876,
+     "nick": "kyousuke",
+     "r": 3132,
+     "gave_r": 198.4,
+     "got_r": 203.9,
+     "net_r": -5.5,
+     "surplus_r": 435,
+     "spent_r": 973,
+     "awp_pct": 0.3,
+     "t_net_r": 62,
+     "ct_net_r": -70.7,
+     "h1_net_r": -18.2,
+     "h2_net_r": 11.7,
+     "ot_net_r": -14.6,
+     "pist_gave_r": 23.2,
+     "pist_got_r": 30.7,
+     "eco_net_r": -41.6,
+     "force_net_r": -84.9,
+     "full_net_r": 10.8
+    },
+    {
+     "pid": 17524,
+     "nick": "karrigan",
+     "r": 3105,
+     "gave_r": 127.8,
+     "got_r": 320.9,
+     "net_r": -193.1,
+     "surplus_r": 330,
+     "spent_r": 893,
+     "awp_pct": 0,
+     "t_net_r": -201.3,
+     "ct_net_r": -185.3,
+     "h1_net_r": -179.5,
+     "h2_net_r": -210.3,
+     "ot_net_r": -200.8,
+     "pist_gave_r": 11.1,
+     "pist_got_r": 190.2,
+     "eco_net_r": -269.3,
+     "force_net_r": -360.7,
+     "full_net_r": -125.4
+    },
+    {
+     "pid": 79592,
+     "nick": "Nucleonz",
+     "r": 313,
+     "gave_r": 127.8,
+     "got_r": 86.9,
+     "net_r": 40.9,
+     "surplus_r": 404,
+     "spent_r": 819,
+     "awp_pct": 0,
+     "t_net_r": 23.9,
+     "ct_net_r": 57.6,
+     "h1_net_r": 26.1,
+     "h2_net_r": 63.8,
+     "ot_net_r": 0,
+     "pist_gave_r": 17.8,
+     "pist_got_r": 0,
+     "eco_net_r": 14.7,
+     "force_net_r": 109,
+     "full_net_r": 32.9
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "m0NESY",
+     "to": "karrigan",
+     "$": 280700
+    },
+    {
+     "from": "m0NESY",
+     "to": "TeSeS",
+     "$": 255550
+    },
+    {
+     "from": "m0NESY",
+     "to": "kyousuke",
+     "$": 178150
+    },
+    {
+     "from": "m0NESY",
+     "to": "NiKo",
+     "$": 140400
+    },
+    {
+     "from": "NiKo",
+     "to": "m0NESY",
+     "$": 108500
+    },
+    {
+     "from": "NiKo",
+     "to": "karrigan",
+     "$": 102150
+    },
+    {
+     "from": "kyousuke",
+     "to": "TeSeS",
+     "$": 93100
+    },
+    {
+     "from": "NiKo",
+     "to": "kyousuke",
+     "$": 87700
+    },
+    {
+     "from": "NiKo",
+     "to": "TeSeS",
+     "$": 83150
+    },
+    {
+     "from": "kyousuke",
+     "to": "karrigan",
+     "$": 81150
+    }
+   ]
+  },
+  "MOUZ": {
+   "players_main": [
+    {
+     "pid": 17853,
+     "nick": "Brollan",
+     "r": 3412,
+     "gave_r": 106,
+     "got_r": 227.1,
+     "net_r": -121.1,
+     "surplus_r": 479,
+     "spent_r": 1061,
+     "awp_pct": 0,
+     "t_net_r": -65,
+     "ct_net_r": -174.1,
+     "h1_net_r": -115.2,
+     "h2_net_r": -126.4,
+     "ot_net_r": -167.2,
+     "pist_gave_r": 9.3,
+     "pist_got_r": 59.8,
+     "eco_net_r": -72.6,
+     "force_net_r": -233.8,
+     "full_net_r": -109.4
+    },
+    {
+     "pid": 29530,
+     "nick": "xertioN",
+     "r": 3358,
+     "gave_r": 147.7,
+     "got_r": 157.6,
+     "net_r": -9.9,
+     "surplus_r": 460,
+     "spent_r": 976,
+     "awp_pct": 0,
+     "t_net_r": -10.4,
+     "ct_net_r": -9.4,
+     "h1_net_r": -8.7,
+     "h2_net_r": -14.6,
+     "ot_net_r": 22.3,
+     "pist_gave_r": 32.3,
+     "pist_got_r": 51.3,
+     "eco_net_r": -8.4,
+     "force_net_r": -149.8,
+     "full_net_r": 32.6
+    },
+    {
+     "pid": 26391,
+     "nick": "torzsi",
+     "r": 3358,
+     "gave_r": 172.1,
+     "got_r": 66.2,
+     "net_r": 105.9,
+     "surplus_r": 1087,
+     "spent_r": 1276,
+     "awp_pct": 6.3,
+     "t_net_r": 82.4,
+     "ct_net_r": 128.4,
+     "h1_net_r": 85.2,
+     "h2_net_r": 125.5,
+     "ot_net_r": 203.5,
+     "pist_gave_r": 10.2,
+     "pist_got_r": 4,
+     "eco_net_r": 5.9,
+     "force_net_r": 2,
+     "full_net_r": 156.6
+    },
+    {
+     "pid": 25519,
+     "nick": "Spinx",
+     "r": 3358,
+     "gave_r": 92.4,
+     "got_r": 76.3,
+     "net_r": 16.1,
+     "surplus_r": 511,
+     "spent_r": 1122,
+     "awp_pct": 0,
+     "t_net_r": 2.5,
+     "ct_net_r": 29.2,
+     "h1_net_r": -5.7,
+     "h2_net_r": 46.5,
+     "ot_net_r": 19.2,
+     "pist_gave_r": 14,
+     "pist_got_r": 3.5,
+     "eco_net_r": -13,
+     "force_net_r": 18.2,
+     "full_net_r": 20
+    },
+    {
+     "pid": 34951,
+     "nick": "PR",
+     "r": 3281,
+     "gave_r": 75.9,
+     "got_r": 110.8,
+     "net_r": -34.9,
+     "surplus_r": 493,
+     "spent_r": 1035,
+     "awp_pct": 0,
+     "t_net_r": 5.7,
+     "ct_net_r": -76.1,
+     "h1_net_r": -34.3,
+     "h2_net_r": -36.4,
+     "ot_net_r": -28.3,
+     "pist_gave_r": 5.1,
+     "pist_got_r": 17.1,
+     "eco_net_r": -24.8,
+     "force_net_r": -34.9,
+     "full_net_r": -40.8
+    },
+    {
+     "pid": 59472,
+     "nick": "xelex",
+     "r": 2272,
+     "gave_r": 80.4,
+     "got_r": 122.3,
+     "net_r": -41.9,
+     "surplus_r": 446,
+     "spent_r": 1058,
+     "awp_pct": 0,
+     "t_net_r": -18.5,
+     "ct_net_r": -64.5,
+     "h1_net_r": -26.2,
+     "h2_net_r": -51.8,
+     "ot_net_r": -156.8,
+     "pist_gave_r": 2,
+     "pist_got_r": 12,
+     "eco_net_r": -5.2,
+     "force_net_r": -179.2,
+     "full_net_r": -13.2
+    },
+    {
+     "pid": 26564,
+     "nick": "jL",
+     "r": 1233,
+     "gave_r": 109.5,
+     "got_r": 134.4,
+     "net_r": -24.9,
+     "surplus_r": 516,
+     "spent_r": 1126,
+     "awp_pct": 0.2,
+     "t_net_r": -18.7,
+     "ct_net_r": -30.8,
+     "h1_net_r": -14.8,
+     "h2_net_r": -18.8,
+     "ot_net_r": -150.6,
+     "pist_gave_r": 3.6,
+     "pist_got_r": 27.3,
+     "eco_net_r": -49.4,
+     "force_net_r": -34.2,
+     "full_net_r": -20.2
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "torzsi",
+     "to": "xertioN",
+     "$": 123250
+    },
+    {
+     "from": "torzsi",
+     "to": "Brollan",
+     "$": 107200
+    },
+    {
+     "from": "xertioN",
+     "to": "Brollan",
+     "$": 88300
+    },
+    {
+     "from": "Spinx",
+     "to": "xertioN",
+     "$": 82900
+    },
+    {
+     "from": "torzsi",
+     "to": "xelex",
+     "$": 82250
+    },
+    {
+     "from": "xelex",
+     "to": "xertioN",
+     "$": 71650
+    },
+    {
+     "from": "torzsi",
+     "to": "Spinx",
+     "$": 62950
+    },
+    {
+     "from": "xertioN",
+     "to": "xelex",
+     "$": 59150
+    },
+    {
+     "from": "xertioN",
+     "to": "Spinx",
+     "$": 58300
+    },
+    {
+     "from": "xertioN",
+     "to": "torzsi",
+     "$": 55500
+    }
+   ]
+  },
+  "Spirit": {
+   "players_main": [
+    {
+     "pid": 29221,
+     "nick": "tN1R",
+     "r": 3029,
+     "gave_r": 216.2,
+     "got_r": 177.4,
+     "net_r": 38.8,
+     "surplus_r": 357,
+     "spent_r": 1098,
+     "awp_pct": 0,
+     "t_net_r": 24.5,
+     "ct_net_r": 53,
+     "h1_net_r": 36.7,
+     "h2_net_r": 45.1,
+     "ot_net_r": 8,
+     "pist_gave_r": 16.2,
+     "pist_got_r": 26.9,
+     "eco_net_r": -61,
+     "force_net_r": 13.3,
+     "full_net_r": 69.3
+    },
+    {
+     "pid": 29219,
+     "nick": "zont1x",
+     "r": 3029,
+     "gave_r": 144.7,
+     "got_r": 221.8,
+     "net_r": -77.1,
+     "surplus_r": 483,
+     "spent_r": 1122,
+     "awp_pct": 0,
+     "t_net_r": -82.6,
+     "ct_net_r": -71.6,
+     "h1_net_r": -90.2,
+     "h2_net_r": -59,
+     "ot_net_r": -73.5,
+     "pist_gave_r": 32.8,
+     "pist_got_r": 72,
+     "eco_net_r": -59.7,
+     "force_net_r": -188.4,
+     "full_net_r": -61
+    },
+    {
+     "pid": 23237,
+     "nick": "sh1ro",
+     "r": 3029,
+     "gave_r": 319.6,
+     "got_r": 158.8,
+     "net_r": 160.8,
+     "surplus_r": 965,
+     "spent_r": 1395,
+     "awp_pct": 7.6,
+     "t_net_r": 98.5,
+     "ct_net_r": 222.4,
+     "h1_net_r": 176.7,
+     "h2_net_r": 101.5,
+     "ot_net_r": 499.6,
+     "pist_gave_r": 94.6,
+     "pist_got_r": 27.4,
+     "eco_net_r": 30.3,
+     "force_net_r": -15.1,
+     "full_net_r": 220.5
+    },
+    {
+     "pid": 31349,
+     "nick": "donk",
+     "r": 3029,
+     "gave_r": 288,
+     "got_r": 264.2,
+     "net_r": 23.7,
+     "surplus_r": 529,
+     "spent_r": 993,
+     "awp_pct": 0.1,
+     "t_net_r": 70.6,
+     "ct_net_r": -22.7,
+     "h1_net_r": -1.7,
+     "h2_net_r": 65.2,
+     "ot_net_r": -29.5,
+     "pist_gave_r": 45.6,
+     "pist_got_r": 32.5,
+     "eco_net_r": 23.3,
+     "force_net_r": 132.2,
+     "full_net_r": 7.8
+    },
+    {
+     "pid": 23701,
+     "nick": "magixx",
+     "r": 3029,
+     "gave_r": 173.7,
+     "got_r": 320,
+     "net_r": -146.3,
+     "surplus_r": 384,
+     "spent_r": 1125,
+     "awp_pct": 0.3,
+     "t_net_r": -111,
+     "ct_net_r": -181.2,
+     "h1_net_r": -121.4,
+     "h2_net_r": -152.8,
+     "ot_net_r": -404.5,
+     "pist_gave_r": 28.9,
+     "pist_got_r": 134.3,
+     "eco_net_r": -256.9,
+     "force_net_r": -373.1,
+     "full_net_r": -20.9
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "sh1ro",
+     "to": "magixx",
+     "$": 255550
+    },
+    {
+     "from": "donk",
+     "to": "magixx",
+     "$": 244650
+    },
+    {
+     "from": "sh1ro",
+     "to": "zont1x",
+     "$": 223300
+    },
+    {
+     "from": "sh1ro",
+     "to": "donk",
+     "$": 164550
+    },
+    {
+     "from": "tN1R",
+     "to": "donk",
+     "$": 126100
+    },
+    {
+     "from": "tN1R",
+     "to": "magixx",
+     "$": 121000
+    },
+    {
+     "from": "sh1ro",
+     "to": "tN1R",
+     "$": 103800
+    },
+    {
+     "from": "donk",
+     "to": "zont1x",
+     "$": 97200
+    },
+    {
+     "from": "tN1R",
+     "to": "zont1x",
+     "$": 87400
+    },
+    {
+     "from": "donk",
+     "to": "tN1R",
+     "$": 87350
+    }
+   ]
+  },
+  "G2": {
+   "players_main": [
+    {
+     "pid": 31187,
+     "nick": "MATYS",
+     "r": 3727,
+     "gave_r": 151.2,
+     "got_r": 262.4,
+     "net_r": -111.2,
+     "surplus_r": 460,
+     "spent_r": 1041,
+     "awp_pct": 0,
+     "t_net_r": -66.2,
+     "ct_net_r": -157.8,
+     "h1_net_r": -101.6,
+     "h2_net_r": -123.9,
+     "ot_net_r": -116.9,
+     "pist_gave_r": 22.3,
+     "pist_got_r": 44.2,
+     "eco_net_r": -50,
+     "force_net_r": -181.7,
+     "full_net_r": -120
+    },
+    {
+     "pid": 29150,
+     "nick": "HeavyGod",
+     "r": 3727,
+     "gave_r": 159.7,
+     "got_r": 152.9,
+     "net_r": 6.8,
+     "surplus_r": 409,
+     "spent_r": 1120,
+     "awp_pct": 0.2,
+     "t_net_r": -3.4,
+     "ct_net_r": 17.3,
+     "h1_net_r": -7.4,
+     "h2_net_r": 18.3,
+     "ot_net_r": 74.4,
+     "pist_gave_r": 26.7,
+     "pist_got_r": 18.3,
+     "eco_net_r": 1.9,
+     "force_net_r": -76.2,
+     "full_net_r": 32.5
+    },
+    {
+     "pid": 17958,
+     "nick": "huNter-",
+     "r": 3521,
+     "gave_r": 146.5,
+     "got_r": 181.3,
+     "net_r": -34.8,
+     "surplus_r": 412,
+     "spent_r": 1044,
+     "awp_pct": 0,
+     "t_net_r": -56.7,
+     "ct_net_r": -12.5,
+     "h1_net_r": -22.5,
+     "h2_net_r": -49.1,
+     "ot_net_r": -57.4,
+     "pist_gave_r": 19.2,
+     "pist_got_r": 67,
+     "eco_net_r": -58.3,
+     "force_net_r": -166,
+     "full_net_r": 12.4
+    },
+    {
+     "pid": 24880,
+     "nick": "Nertz",
+     "r": 3362,
+     "gave_r": 133.5,
+     "got_r": 142.3,
+     "net_r": -8.8,
+     "surplus_r": 453,
+     "spent_r": 966,
+     "awp_pct": 0,
+     "t_net_r": 23.3,
+     "ct_net_r": -42.1,
+     "h1_net_r": -4.6,
+     "h2_net_r": -2.1,
+     "ot_net_r": -107.7,
+     "pist_gave_r": 15.7,
+     "pist_got_r": 15.3,
+     "eco_net_r": -25.5,
+     "force_net_r": -40.3,
+     "full_net_r": -1.6
+    },
+    {
+     "pid": 25096,
+     "nick": "SunPayus",
+     "r": 2637,
+     "gave_r": 288.1,
+     "got_r": 146.8,
+     "net_r": 141.4,
+     "surplus_r": 935,
+     "spent_r": 1265,
+     "awp_pct": 6.6,
+     "t_net_r": 84.6,
+     "ct_net_r": 200,
+     "h1_net_r": 140.9,
+     "h2_net_r": 125,
+     "ot_net_r": 262.2,
+     "pist_gave_r": 5.5,
+     "pist_got_r": 15.3,
+     "eco_net_r": -28.8,
+     "force_net_r": 5.5,
+     "full_net_r": 216.8
+    },
+    {
+     "pid": 21433,
+     "nick": "malbsMd",
+     "r": 2574,
+     "gave_r": 131.4,
+     "got_r": 131.5,
+     "net_r": -0.1,
+     "surplus_r": 439,
+     "spent_r": 949,
+     "awp_pct": 0,
+     "t_net_r": 39.4,
+     "ct_net_r": -37.6,
+     "h1_net_r": -19.4,
+     "h2_net_r": 27.7,
+     "ot_net_r": -20.1,
+     "pist_gave_r": 11.9,
+     "pist_got_r": 11.9,
+     "eco_net_r": -46.6,
+     "force_net_r": -87.2,
+     "full_net_r": 26
+    },
+    {
+     "pid": 29220,
+     "nick": "r1nkle",
+     "r": 2476,
+     "gave_r": 244.2,
+     "got_r": 95.7,
+     "net_r": 148.5,
+     "surplus_r": 825,
+     "spent_r": 1237,
+     "awp_pct": 7.3,
+     "t_net_r": 108,
+     "ct_net_r": 190.7,
+     "h1_net_r": 146.4,
+     "h2_net_r": 141.2,
+     "ot_net_r": 256.3,
+     "pist_gave_r": 17.3,
+     "pist_got_r": 15.1,
+     "eco_net_r": -12.3,
+     "force_net_r": 34.5,
+     "full_net_r": 219.6
+    }
+   ],
+   "players_bench": [
+    {
+     "pid": 33963,
+     "nick": "tAk",
+     "r": 206,
+     "gave_r": 102.4,
+     "got_r": 101,
+     "net_r": 1.5,
+     "surplus_r": 607,
+     "spent_r": 1018,
+     "awp_pct": 0,
+     "t_net_r": -63.5,
+     "ct_net_r": 83.5,
+     "h1_net_r": -13.8,
+     "h2_net_r": 24.1,
+     "ot_net_r": 0,
+     "pist_gave_r": 0,
+     "pist_got_r": 0,
+     "eco_net_r": -11.1,
+     "force_net_r": -81.7,
+     "full_net_r": 31.3
+    }
+   ],
+   "top_flows": [
+    {
+     "from": "SunPayus",
+     "to": "MATYS",
+     "$": 194050
+    },
+    {
+     "from": "huNter-",
+     "to": "MATYS",
+     "$": 152300
+    },
+    {
+     "from": "SunPayus",
+     "to": "huNter-",
+     "$": 152300
+    },
+    {
+     "from": "HeavyGod",
+     "to": "MATYS",
+     "$": 124500
+    },
+    {
+     "from": "Nertz",
+     "to": "MATYS",
+     "$": 101450
+    },
+    {
+     "from": "Nertz",
+     "to": "HeavyGod",
+     "$": 97050
+    },
+    {
+     "from": "MATYS",
+     "to": "huNter-",
+     "$": 94550
+    },
+    {
+     "from": "HeavyGod",
+     "to": "huNter-",
+     "$": 81850
+    },
+    {
+     "from": "HeavyGod",
+     "to": "SunPayus",
+     "$": 79350
+    },
+    {
+     "from": "SunPayus",
+     "to": "HeavyGod",
+     "$": 74150
+    }
+   ]
+  },
+  "Aurora": {
+   "players_main": [
+    {
+     "pid": 17674,
+     "nick": "XANTARES",
+     "r": 3750,
+     "gave_r": 239.2,
+     "got_r": 94.1,
+     "net_r": 145.1,
+     "surplus_r": 522,
+     "spent_r": 1001,
+     "awp_pct": 0,
+     "t_net_r": 180.8,
+     "ct_net_r": 112.7,
+     "h1_net_r": 144.8,
+     "h2_net_r": 154.1,
+     "ot_net_r": 55.9,
+     "pist_gave_r": 39.3,
+     "pist_got_r": 12.8,
+     "eco_net_r": 59.5,
+     "force_net_r": 174.9,
+     "full_net_r": 168.2
+    },
+    {
+     "pid": 17720,
+     "nick": "woxic",
+     "r": 3750,
+     "gave_r": 228.1,
+     "got_r": 382,
+     "net_r": -153.9,
+     "surplus_r": 937,
+     "spent_r": 1133,
+     "awp_pct": 8.2,
+     "t_net_r": -108.4,
+     "ct_net_r": -195.2,
+     "h1_net_r": -194.3,
+     "h2_net_r": -129.6,
+     "ot_net_r": 174.8,
+     "pist_gave_r": 4.1,
+     "pist_got_r": 19,
+     "eco_net_r": -116.2,
+     "force_net_r": -104.7,
+     "full_net_r": -202.8
+    },
+    {
+     "pid": 32185,
+     "nick": "Wicadia",
+     "r": 3750,
+     "gave_r": 220.8,
+     "got_r": 201.6,
+     "net_r": 19.1,
+     "surplus_r": 510,
+     "spent_r": 993,
+     "awp_pct": 0.8,
+     "t_net_r": 15.8,
+     "ct_net_r": 22.1,
+     "h1_net_r": 10.1,
+     "h2_net_r": 49.8,
+     "ot_net_r": -171.4,
+     "pist_gave_r": 42.8,
+     "pist_got_r": 13.9,
+     "eco_net_r": -33.6,
+     "force_net_r": -86.3,
+     "full_net_r": 51.2
+    },
+    {
+     "pid": 27680,
+     "nick": "kyxsan",
+     "r": 2709,
+     "gave_r": 189.5,
+     "got_r": 410.4,
+     "net_r": -220.9,
+     "surplus_r": 366,
+     "spent_r": 1069,
+     "awp_pct": 0.1,
+     "t_net_r": -280.6,
+     "ct_net_r": -162.4,
+     "h1_net_r": -189.3,
+     "h2_net_r": -253.6,
+     "ot_net_r": -335.6,
+     "pist_gave_r": 5.1,
+     "pist_got_r": 163.9,
+     "eco_net_r": -116.1,
+     "force_net_r": -548.3,
+     "full_net_r": -86.1
+    },
+    {
+     "pid": 26600,
+     "nick": "Jimpphat",
+     "r": 2613,
+     "gave_r": 151.1,
+     "got_r": 126.7,
+     "net_r": 24.4,
+     "surplus_r": 560,
+     "spent_r": 1211,
+     "awp_pct": 0,
+     "t_net_r": -1.4,
+     "ct_net_r": 48.6,
+     "h1_net_r": 44.4,
+     "h2_net_r": 1.8,
+     "ot_net_r": -46.8,
+     "pist_gave_r": 5.2,
+     "pist_got_r": 13.9,
+     "eco_net_r": -74.4,
+     "force_net_r": -73.1,
+     "full_net_r": 70.2
+    },
+    {
+     "pid": 31567,
+     "nick": "soulfly",
+     "r": 2540,
+     "gave_r": 167.5,
+     "got_r": 152.5,
+     "net_r": 15,
+     "surplus_r": 431,
+     "spent_r": 1035,
+     "awp_pct": 0,
+     "t_net_r": -0.5,
+     "ct_net_r": 29,
+     "h1_net_r": 38.4,
+     "h2_net_r": -21.1,
+     "ot_net_r": 51.8,
+     "pist_gave_r": 3.6,
+     "pist_got_r": 2.2,
+     "eco_net_r": -66.7,
+     "force_net_r": -82.7,
+     "full_net_r": 61.5
+    },
+    {
+     "pid": 17675,
+     "nick": "MAJ3R",
+     "r": 2301,
+     "gave_r": 186.1,
+     "got_r": 119.8,
+     "net_r": 66.3,
+     "surplus_r": 354,
+     "spent_r": 1077,
+     "awp_pct": 0.2,
+     "t_net_r": 12.2,
+     "ct_net_r": 114.4,
+     "h1_net_r": 88.6,
+     "h2_net_r": 40.6,
+     "ot_net_r": 22.3,
+     "pist_gave_r": 6.3,
+     "pist_got_r": 9.6,
+     "eco_net_r": -23.5,
+     "force_net_r": -70,
+     "full_net_r": 150.2
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "XANTARES",
+     "to": "woxic",
+     "$": 288250
+    },
+    {
+     "from": "Wicadia",
+     "to": "woxic",
+     "$": 227950
+    },
+    {
+     "from": "MAJ3R",
+     "to": "woxic",
+     "$": 197450
+    },
+    {
+     "from": "XANTARES",
+     "to": "kyxsan",
+     "$": 188400
+    },
+    {
+     "from": "woxic",
+     "to": "Wicadia",
+     "$": 158950
+    },
+    {
+     "from": "soulfly",
+     "to": "woxic",
+     "$": 147450
+    },
+    {
+     "from": "XANTARES",
+     "to": "Wicadia",
+     "$": 130450
+    },
+    {
+     "from": "woxic",
+     "to": "kyxsan",
+     "$": 126300
+    },
+    {
+     "from": "Wicadia",
+     "to": "kyxsan",
+     "$": 116150
+    },
+    {
+     "from": "Jimpphat",
+     "to": "woxic",
+     "$": 93400
+    }
+   ]
+  },
+  "Legacy": {
+   "players_main": [
+    {
+     "pid": 36217,
+     "nick": "saadzin",
+     "r": 4553,
+     "gave_r": 313.3,
+     "got_r": 200.4,
+     "net_r": 113,
+     "surplus_r": 1098,
+     "spent_r": 1383,
+     "awp_pct": 8.5,
+     "t_net_r": 46.4,
+     "ct_net_r": 179.4,
+     "h1_net_r": 111.2,
+     "h2_net_r": 102.2,
+     "ot_net_r": 221.5,
+     "pist_gave_r": 10.3,
+     "pist_got_r": 29.6,
+     "eco_net_r": -128.5,
+     "force_net_r": -82.3,
+     "full_net_r": 199.9
+    },
+    {
+     "pid": 23685,
+     "nick": "latto",
+     "r": 3496,
+     "gave_r": 238.4,
+     "got_r": 211.7,
+     "net_r": 26.7,
+     "surplus_r": 529,
+     "spent_r": 1156,
+     "awp_pct": 0,
+     "t_net_r": 47.3,
+     "ct_net_r": 6.4,
+     "h1_net_r": 19.7,
+     "h2_net_r": 44.8,
+     "ot_net_r": -55.4,
+     "pist_gave_r": 34.9,
+     "pist_got_r": 78.4,
+     "eco_net_r": -51.7,
+     "force_net_r": 16.5,
+     "full_net_r": 51.5
+    },
+    {
+     "pid": 29163,
+     "nick": "n1ssim",
+     "r": 3496,
+     "gave_r": 161.9,
+     "got_r": 222,
+     "net_r": -60.1,
+     "surplus_r": 396,
+     "spent_r": 1181,
+     "awp_pct": 0.3,
+     "t_net_r": -63.2,
+     "ct_net_r": -57.1,
+     "h1_net_r": -61.9,
+     "h2_net_r": -62.2,
+     "ot_net_r": -18.2,
+     "pist_gave_r": 35.8,
+     "pist_got_r": 69.3,
+     "eco_net_r": -112.3,
+     "force_net_r": -223.3,
+     "full_net_r": -9.9
+    },
+    {
+     "pid": 24105,
+     "nick": "dumau",
+     "r": 3496,
+     "gave_r": 289.4,
+     "got_r": 314,
+     "net_r": -24.5,
+     "surplus_r": 407,
+     "spent_r": 1048,
+     "awp_pct": 0.1,
+     "t_net_r": 71.5,
+     "ct_net_r": -118.8,
+     "h1_net_r": -24,
+     "h2_net_r": -0.7,
+     "ot_net_r": -259.5,
+     "pist_gave_r": 43.4,
+     "pist_got_r": 54.6,
+     "eco_net_r": -39.1,
+     "force_net_r": 54.9,
+     "full_net_r": -43.7
+    },
+    {
+     "pid": 25439,
+     "nick": "try",
+     "r": 2988,
+     "gave_r": 364.2,
+     "got_r": 312.7,
+     "net_r": 51.4,
+     "surplus_r": 985,
+     "spent_r": 1160,
+     "awp_pct": 7.8,
+     "t_net_r": 11.4,
+     "ct_net_r": 91.8,
+     "h1_net_r": 27,
+     "h2_net_r": 55.3,
+     "ot_net_r": 359.1,
+     "pist_gave_r": 39.4,
+     "pist_got_r": 72.7,
+     "eco_net_r": -55,
+     "force_net_r": -50.8,
+     "full_net_r": 103.3
+    },
+    {
+     "pid": 19665,
+     "nick": "arT",
+     "r": 2985,
+     "gave_r": 261.1,
+     "got_r": 354,
+     "net_r": -92.9,
+     "surplus_r": 366,
+     "spent_r": 948,
+     "awp_pct": 0.5,
+     "t_net_r": -115.4,
+     "ct_net_r": -71.1,
+     "h1_net_r": -80.9,
+     "h2_net_r": -117.3,
+     "ot_net_r": -6,
+     "pist_gave_r": 46.7,
+     "pist_got_r": 224.6,
+     "eco_net_r": -429,
+     "force_net_r": -293,
+     "full_net_r": 56.7
+    },
+    {
+     "pid": 28844,
+     "nick": "lux",
+     "r": 999,
+     "gave_r": 105,
+     "got_r": 105.6,
+     "net_r": -0.6,
+     "surplus_r": 317,
+     "spent_r": 914,
+     "awp_pct": 0,
+     "t_net_r": -17,
+     "ct_net_r": 16.3,
+     "h1_net_r": -6.1,
+     "h2_net_r": 32.2,
+     "ot_net_r": -150,
+     "pist_gave_r": 6,
+     "pist_got_r": 41.7,
+     "eco_net_r": 11,
+     "force_net_r": 10.9,
+     "full_net_r": 2.1
+    }
+   ],
+   "players_bench": [
+    {
+     "pid": 30074,
+     "nick": "bobz",
+     "r": 207,
+     "gave_r": 176.1,
+     "got_r": 338.9,
+     "net_r": -162.8,
+     "surplus_r": 203,
+     "spent_r": 708,
+     "awp_pct": 0,
+     "t_net_r": -220.2,
+     "ct_net_r": -104.9,
+     "h1_net_r": -204.2,
+     "h2_net_r": -110.8,
+     "ot_net_r": 0,
+     "pist_gave_r": 4.9,
+     "pist_got_r": 224.4,
+     "eco_net_r": -650,
+     "force_net_r": -388.9,
+     "full_net_r": 108.5
+    }
+   ],
+   "top_flows": [
+    {
+     "from": "dumau",
+     "to": "arT",
+     "$": 236000
+    },
+    {
+     "from": "saadzin",
+     "to": "dumau",
+     "$": 219950
+    },
+    {
+     "from": "latto",
+     "to": "arT",
+     "$": 176500
+    },
+    {
+     "from": "try",
+     "to": "dumau",
+     "$": 131050
+    },
+    {
+     "from": "dumau",
+     "to": "n1ssim",
+     "$": 124250
+    },
+    {
+     "from": "saadzin",
+     "to": "n1ssim",
+     "$": 123850
+    },
+    {
+     "from": "saadzin",
+     "to": "latto",
+     "$": 117400
+    },
+    {
+     "from": "arT",
+     "to": "dumau",
+     "$": 116850
+    },
+    {
+     "from": "saadzin",
+     "to": "arT",
+     "$": 116550
+    },
+    {
+     "from": "latto",
+     "to": "dumau",
+     "$": 110500
+    }
+   ]
+  },
+  "FUT": {
+   "players_main": [
+    {
+     "pid": 37544,
+     "nick": "cmtry",
+     "r": 3201,
+     "gave_r": 246.5,
+     "got_r": 119.9,
+     "net_r": 126.7,
+     "surplus_r": 725,
+     "spent_r": 1159,
+     "awp_pct": 7.1,
+     "t_net_r": 83.2,
+     "ct_net_r": 170.1,
+     "h1_net_r": 145.8,
+     "h2_net_r": 106.6,
+     "ot_net_r": 67.9,
+     "pist_gave_r": 48.6,
+     "pist_got_r": 30.1,
+     "eco_net_r": -11.2,
+     "force_net_r": -9.6,
+     "full_net_r": 194.3
+    },
+    {
+     "pid": 35205,
+     "nick": "Krabeni",
+     "r": 3013,
+     "gave_r": 104.5,
+     "got_r": 159.7,
+     "net_r": -55.2,
+     "surplus_r": 382,
+     "spent_r": 901,
+     "awp_pct": 0,
+     "t_net_r": -37.8,
+     "ct_net_r": -72.8,
+     "h1_net_r": -49,
+     "h2_net_r": -63.4,
+     "ot_net_r": -56.1,
+     "pist_gave_r": 27.4,
+     "pist_got_r": 41.6,
+     "eco_net_r": -48.3,
+     "force_net_r": -93.2,
+     "full_net_r": -55.6
+    },
+    {
+     "pid": 34940,
+     "nick": "dem0n",
+     "r": 3013,
+     "gave_r": 80.7,
+     "got_r": 87.3,
+     "net_r": -6.7,
+     "surplus_r": 415,
+     "spent_r": 1068,
+     "awp_pct": 0,
+     "t_net_r": -18.2,
+     "ct_net_r": 5,
+     "h1_net_r": -24.3,
+     "h2_net_r": 10.1,
+     "ot_net_r": 75,
+     "pist_gave_r": 6.2,
+     "pist_got_r": 6.9,
+     "eco_net_r": -3.9,
+     "force_net_r": -10.3,
+     "full_net_r": -7.6
+    },
+    {
+     "pid": 47939,
+     "nick": "dziugss",
+     "r": 3013,
+     "gave_r": 84.2,
+     "got_r": 164.2,
+     "net_r": -80,
+     "surplus_r": 450,
+     "spent_r": 1062,
+     "awp_pct": 0,
+     "t_net_r": -56,
+     "ct_net_r": -104.1,
+     "h1_net_r": -90.3,
+     "h2_net_r": -68.9,
+     "ot_net_r": -46.7,
+     "pist_gave_r": 16.9,
+     "pist_got_r": 26,
+     "eco_net_r": -16,
+     "force_net_r": -86.9,
+     "full_net_r": -103.4
+    },
+    {
+     "pid": 28291,
+     "nick": "xfl0ud",
+     "r": 2516,
+     "gave_r": 158.2,
+     "got_r": 163.1,
+     "net_r": -4.9,
+     "surplus_r": 388,
+     "spent_r": 945,
+     "awp_pct": 0.1,
+     "t_net_r": 36.3,
+     "ct_net_r": -47.1,
+     "h1_net_r": 5.5,
+     "h2_net_r": -15.3,
+     "ot_net_r": -51.6,
+     "pist_gave_r": 18.4,
+     "pist_got_r": 41.8,
+     "eco_net_r": -56.8,
+     "force_net_r": 1.4,
+     "full_net_r": 3.5
+    },
+    {
+     "pid": 30902,
+     "nick": "lauNX",
+     "r": 2321,
+     "gave_r": 119.4,
+     "got_r": 95.8,
+     "net_r": 23.6,
+     "surplus_r": 404,
+     "spent_r": 1008,
+     "awp_pct": 0.1,
+     "t_net_r": 31.2,
+     "ct_net_r": 16,
+     "h1_net_r": 22.2,
+     "h2_net_r": 33.3,
+     "ot_net_r": -66.7,
+     "pist_gave_r": 5.6,
+     "pist_got_r": 10,
+     "eco_net_r": -7.7,
+     "force_net_r": -69.2,
+     "full_net_r": 58.2
+    }
+   ],
+   "players_bench": [],
+   "top_flows": [
+    {
+     "from": "cmtry",
+     "to": "Krabeni",
+     "$": 225650
+    },
+    {
+     "from": "cmtry",
+     "to": "dziugss",
+     "$": 179700
+    },
+    {
+     "from": "cmtry",
+     "to": "lauNX",
+     "$": 78550
+    },
+    {
+     "from": "cmtry",
+     "to": "dem0n",
+     "$": 72700
+    },
+    {
+     "from": "lauNX",
+     "to": "dziugss",
+     "$": 72600
+    },
+    {
+     "from": "dem0n",
+     "to": "Krabeni",
+     "$": 61850
+    },
+    {
+     "from": "dem0n",
+     "to": "cmtry",
+     "$": 61000
+    },
+    {
+     "from": "Krabeni",
+     "to": "dziugss",
+     "$": 60250
+    },
+    {
+     "from": "lauNX",
+     "to": "dem0n",
+     "$": 60100
+    },
+    {
+     "from": "Krabeni",
+     "to": "cmtry",
+     "$": 58850
+    }
+   ]
+  },
+  "BETBOOM": {
+   "players_main": [
+    {
+     "pid": 33349,
+     "nick": "Magnojez",
+     "r": 3787,
+     "gave_r": 113.5,
+     "got_r": 156.1,
+     "net_r": -42.5,
+     "surplus_r": 424,
+     "spent_r": 960,
+     "awp_pct": 0.2,
+     "t_net_r": -53.3,
+     "ct_net_r": -32,
+     "h1_net_r": -55.1,
+     "h2_net_r": -25.7,
+     "ot_net_r": -42.5,
+     "pist_gave_r": 41.8,
+     "pist_got_r": 10.5,
+     "eco_net_r": -62.5,
+     "force_net_r": -91.8,
+     "full_net_r": -39.8
+    },
+    {
+     "pid": 18002,
+     "nick": "Boombl4",
+     "r": 3706,
+     "gave_r": 106.2,
+     "got_r": 225.3,
+     "net_r": -119.1,
+     "surplus_r": 368,
+     "spent_r": 972,
+     "awp_pct": 0,
+     "t_net_r": -124.3,
+     "ct_net_r": -114.1,
+     "h1_net_r": -108.6,
+     "h2_net_r": -122.9,
+     "ot_net_r": -257,
+     "pist_gave_r": 13.1,
+     "pist_got_r": 177.7,
+     "eco_net_r": -165.8,
+     "force_net_r": -223.9,
+     "full_net_r": -60
+    },
+    {
+     "pid": 29730,
+     "nick": "s1ren",
+     "r": 3431,
+     "gave_r": 87.7,
+     "got_r": 135.1,
+     "net_r": -47.4,
+     "surplus_r": 498,
+     "spent_r": 1066,
+     "awp_pct": 0,
+     "t_net_r": -51.7,
+     "ct_net_r": -43.1,
+     "h1_net_r": -66.8,
+     "h2_net_r": -19.8,
+     "ot_net_r": -65.2,
+     "pist_gave_r": 47.9,
+     "pist_got_r": 24.7,
+     "eco_net_r": -48.1,
+     "force_net_r": -121.1,
+     "full_net_r": -45.6
+    },
+    {
+     "pid": 29336,
+     "nick": "d1Ledez",
+     "r": 2977,
+     "gave_r": 135.3,
+     "got_r": 115.3,
+     "net_r": 20.1,
+     "surplus_r": 478,
+     "spent_r": 1014,
+     "awp_pct": 0,
+     "t_net_r": 9.2,
+     "ct_net_r": 30.7,
+     "h1_net_r": 24.2,
+     "h2_net_r": -1.3,
+     "ot_net_r": 165.3,
+     "pist_gave_r": 31.1,
+     "pist_got_r": 14,
+     "eco_net_r": 6.9,
+     "force_net_r": -36,
+     "full_net_r": 37
+    },
+    {
+     "pid": 23853,
+     "nick": "zorte",
+     "r": 2619,
+     "gave_r": 291.9,
+     "got_r": 47.3,
+     "net_r": 244.6,
+     "surplus_r": 954,
+     "spent_r": 1129,
+     "awp_pct": 7.6,
+     "t_net_r": 237.6,
+     "ct_net_r": 251.4,
+     "h1_net_r": 257.5,
+     "h2_net_r": 219.9,
+     "ot_net_r": 353.4,
+     "pist_gave_r": 47.3,
+     "pist_got_r": 21.2,
+     "eco_net_r": 21.7,
+     "force_net_r": 142.3,
+     "full_net_r": 338.7
+    },
+    {
+     "pid": 31575,
+     "nick": "Artfr0st",
+     "r": 2487,
+     "gave_r": 264.1,
+     "got_r": 195.2,
+     "net_r": 68.9,
+     "surplus_r": 1140,
+     "spent_r": 1396,
+     "awp_pct": 9.7,
+     "t_net_r": 70.3,
+     "ct_net_r": 67.4,
+     "h1_net_r": 104.8,
+     "h2_net_r": 45.7,
+     "ot_net_r": -146.6,
+     "pist_gave_r": 26.1,
+     "pist_got_r": 13.6,
+     "eco_net_r": 37,
+     "force_net_r": 11.5,
+     "full_net_r": 92.7
+    },
+    {
+     "pid": 31171,
+     "nick": "FL4MUS",
+     "r": 1902,
+     "gave_r": 101.9,
+     "got_r": 126.3,
+     "net_r": -24.4,
+     "surplus_r": 425,
+     "spent_r": 941,
+     "awp_pct": 0,
+     "t_net_r": 0.1,
+     "ct_net_r": -47.9,
+     "h1_net_r": -23,
+     "h2_net_r": -29.4,
+     "ot_net_r": 58.9,
+     "pist_gave_r": 43.3,
+     "pist_got_r": 15.7,
+     "eco_net_r": -29.8,
+     "force_net_r": -89.8,
+     "full_net_r": -19.5
+    },
+    {
+     "pid": 18553,
+     "nick": "Ax1Le",
+     "r": 1436,
+     "gave_r": 170.1,
+     "got_r": 176.8,
+     "net_r": -6.7,
+     "surplus_r": 452,
+     "spent_r": 1122,
+     "awp_pct": 0,
+     "t_net_r": -3.7,
+     "ct_net_r": -9.9,
+     "h1_net_r": -46.7,
+     "h2_net_r": 46.6,
+     "ot_net_r": 11.3,
+     "pist_gave_r": 1.9,
+     "pist_got_r": 4.7,
+     "eco_net_r": -10.1,
+     "force_net_r": -70.5,
+     "full_net_r": 4.9
+    }
+   ],
+   "players_bench": [
+    {
+     "pid": 25660,
+     "nick": "Patsi",
+     "r": 148,
+     "gave_r": 74.3,
+     "got_r": 66.9,
+     "net_r": 7.4,
+     "surplus_r": 356,
+     "spent_r": 799,
+     "awp_pct": 0,
+     "t_net_r": -21.3,
+     "ct_net_r": 37,
+     "h1_net_r": 15.5,
+     "h2_net_r": -3.1,
+     "ot_net_r": null,
+     "pist_gave_r": 0,
+     "pist_got_r": 17.4,
+     "eco_net_r": 0,
+     "force_net_r": -71.2,
+     "full_net_r": 40.4
+    },
+    {
+     "pid": 36337,
+     "nick": "dmrr",
+     "r": 112,
+     "gave_r": 205.8,
+     "got_r": 178.6,
+     "net_r": 27.2,
+     "surplus_r": 584,
+     "spent_r": 825,
+     "awp_pct": 0.9,
+     "t_net_r": -51.8,
+     "ct_net_r": 103.5,
+     "h1_net_r": 98.3,
+     "h2_net_r": -60.6,
+     "ot_net_r": 0,
+     "pist_gave_r": 30.8,
+     "pist_got_r": 0,
+     "eco_net_r": -200,
+     "force_net_r": -128.6,
+     "full_net_r": 103.6
+    }
+   ],
+   "top_flows": [
+    {
+     "from": "zorte",
+     "to": "Boombl4",
+     "$": 216050
+    },
+    {
+     "from": "zorte",
+     "to": "Magnojez",
+     "$": 170050
+    },
+    {
+     "from": "zorte",
+     "to": "s1ren",
+     "$": 149550
+    },
+    {
+     "from": "Magnojez",
+     "to": "Boombl4",
+     "$": 127450
+    },
+    {
+     "from": "d1Ledez",
+     "to": "Artfr0st",
+     "$": 112450
+    },
+    {
+     "from": "Artfr0st",
+     "to": "Boombl4",
+     "$": 112300
+    },
+    {
+     "from": "Boombl4",
+     "to": "Magnojez",
+     "$": 107250
+    },
+    {
+     "from": "Artfr0st",
+     "to": "Ax1Le",
+     "$": 97100
+    },
+    {
+     "from": "d1Ledez",
+     "to": "Boombl4",
+     "$": 91300
+    },
+    {
+     "from": "zorte",
+     "to": "d1Ledez",
+     "$": 78450
+    }
+   ]
+  }
+ }
+}
